@@ -1,0 +1,1201 @@
+[{
+  "id": 1,
+  "questions":
+  [{
+    "question": "What is your name?",
+    "answers": ["I’m fine, thanks", "My name’s John", "Thank you", "Hello"],
+    "correctAnswer": "My name’s John",
+    "id": 1
+  },
+    {
+      "question": "How are you?",
+      "answers": ["I’m fine, thanks", "No, please.", "I’m seven years old", "I’m eight years old"],
+      "correctAnswer": "I’m fine, thanks",
+      "id": 2
+    },
+    {
+      "question": "What color is this?",
+      "answers": ["It’s blue", "My name’s Anna", "It’s ruler", "It’s beautiful"],
+      "correctAnswer": "It’s blue",
+      "id": 3
+    },
+    {
+      "question": "What is this?",
+      "answers": ["It’s my computer", "I’m fine", "No, it is not", "Thanks you"],
+      "correctAnswer": "It’s my computer",
+      "id": 4
+    },
+    {
+      "question": "What is this?",
+      "answers": ["It’s a pen", "It’s yellow", "This is my friend", "This is my teacher"],
+      "correctAnswer": "It’s a pen",
+      "id": 5
+    }],
+  "status": 0
+}, {
+  "id": 2,
+  "questions":
+  [{
+    "question": "Lan: “ Is your house new ?”       -     Nam: ……………",
+    "answers": ["Yes, It is", "No, it isn’t. It’s big", "Yes, you can", "No, you can't"],
+    "correctAnswer": "Yes, It is",
+    "id": 6
+  },
+    {
+      "question": "How old is Peter ?",
+      "answers": ["I’m nine", "She’s nine", "He’s nine", "You're nine"],
+      "correctAnswer": "He’s nine",
+      "id": 7
+    },
+    {
+      "question": "Tom: Good morning!      -    Mary: ……………",
+      "answers": ["Good bye!", "Good morning!", "Good night!", "Hello!"],
+      "correctAnswer": "Good morning!",
+      "id": 8
+    },
+    {
+      "question": "May I go out, Mr.Loc?",
+      "answers": ["Yes, it is", "No, it isn’t", "No, you can.", "Yes, you can."],
+      "correctAnswer": "Yes, you can.",
+      "id": 9
+    },
+    {
+      "question": "ten – six  = ………",
+      "answers": ["four", "three", "two", "nine"],
+      "correctAnswer": "four",
+      "id": 10
+    }],
+  "status": 0
+}, {
+  "id": 3,
+  "questions":
+  [{
+    "question": "My school isn’t new. It is ……………",
+    "answers": ["big", "large", "old", "cool"],
+    "correctAnswer": "old",
+    "id": 11
+  },
+    {
+      "question": "The gym isn’t small. It is ……………",
+      "answers": ["new", "large", "beautiful", "great"],
+      "correctAnswer": "large",
+      "id": 12
+    },
+    {
+      "question": "Odd one out.",
+      "answers": ["six", "four", "gym", "one"],
+      "correctAnswer": "gym",
+      "id": 13
+    },
+    {
+      "question": "Odd one out ",
+      "answers": ["new", "old", "small", "school"],
+      "correctAnswer": "school",
+      "id": 14
+    },
+    {
+      "question": "Odd one out ",
+      "answers": ["come in", "sit down", "come here", "playground"],
+      "correctAnswer": "playground",
+      "id": 15
+    }],
+  "status": 0
+}, {
+  "id": 4,
+  "questions":
+  [{
+    "question": "Odd one out ",
+    "answers": ["morning", "open", "close", "talk"],
+    "correctAnswer": "morning",
+    "id": 16
+  },
+    {
+      "question": "Hi! My name is Lien. This is my school. It is beautiful. This is my classroom. It is small. That is the music room over there. It is old and small. And that is the library. It is old but large. The gym is old but beautiful. Which one is correct?",
+      "answers": ["The school is old", "The school is beautiful", "The school is small", "The school is far"],
+      "correctAnswer": "The school is beautiful",
+      "id": 17
+    },
+    {
+      "question": "Hi! My name is Lien. This is my school. It is beautiful. This is my classroom. It is small. That is the music room over there. It is old and small. And that is the library. It is old but large. The gym is old but beautiful. Which one is correct?",
+      "answers": ["The classroom is small", "The classroom is new", "The classroom is big", "The classroom is cool"],
+      "correctAnswer": "The classroom is small",
+      "id": 18
+    },
+    {
+      "question": "Hi! My name is Lien. This is my school. It is beautiful. This is my classroom. It is small. That is the music room over there. It is old and small. And that is the library. It is old but large. The gym is old but beautiful. Which one is correct?",
+      "answers": ["The music room is new", "The music room is large", "The music room is old", "The music room is nice"],
+      "correctAnswer": "The music room is old",
+      "id": 19
+    },
+    {
+      "question": "Hi! My name is Lien. This is my school. It is beautiful. This is my classroom. It is small. That is the music room over there. It is old and small. And that is the library. It is old but large. The gym is old but beautiful. Which one is correct?",
+      "answers": ["The library is small", "The library is new", "The library is large", "The library is beautiful"],
+      "correctAnswer": "The library is large",
+      "id": 20
+    }],
+  "status": 0
+}, {
+  "id": 5,
+  "questions":
+  [{
+    "question": "Hi! My name is Lien. This is my school. It is beautiful. This is my classroom. It is small. That is the music room over there. It is old and small. And that is the library. It is old but large. The gym is old but beautiful. Which one is correct?",
+    "answers": ["The gym is new", "The gym is big", "The gym is beautiful", "The gym is hot"],
+    "correctAnswer": "The gym is beautiful",
+    "id": 21
+  },
+    {
+      "question": "Odd one out ",
+      "answers": ["my", "her", "he", "his"],
+      "correctAnswer": "he",
+      "id": 22
+    },
+    {
+      "question": "Odd one out",
+      "answers": ["hello", "how", "what", "who"],
+      "correctAnswer": "hello",
+      "id": 23
+    },
+    {
+      "question": "Odd one out",
+      "answers": ["nine", "fine", "six", "eight"],
+      "correctAnswer": "fine",
+      "id": 24
+    },
+    {
+      "question": "Odd one out",
+      "answers": ["are", "am", "is", "you"],
+      "correctAnswer": "you",
+      "id": 25
+    }],
+  "status": 0
+}, {
+  "id": 6,
+  "questions":
+  [{
+    "question": "Odd one out",
+    "answers": ["bye", "hello", "goodbye", "good night"],
+    "correctAnswer": "hello",
+    "id": 26
+  },
+    {
+      "question": "Are they your friends? – Yes, they ______",
+      "answers": ["are", "aren’t ", "am", "is"],
+      "correctAnswer": "are",
+      "id": 27
+    },
+    {
+      "question": "How do you spell________name? – C-U-O-N-G",
+      "answers": ["you", "they", "your", "he"],
+      "correctAnswer": "your",
+      "id": 28
+    },
+    {
+      "question": "Nice to ____ you.",
+      "answers": ["it", "old", "meet", "this"],
+      "correctAnswer": "meet",
+      "id": 29
+    },
+    {
+      "question": "Tony and Linda are my ___________.",
+      "answers": ["friend", "name", "these", "friends"],
+      "correctAnswer": "friends",
+      "id": 30
+    }],
+  "status": 0
+}, {
+  "id": 7,
+  "questions":
+  [{
+    "question": "Good bye. _________ you later.",
+    "answers": ["What", "See", "How", "Are"],
+    "correctAnswer": "See",
+    "id": 31
+  },
+    {
+      "question": "____________ it a pen?",
+      "answers": ["Is", "See", "Am", "Bye"],
+      "correctAnswer": "Is",
+      "id": 32
+    },
+    {
+      "question": "It is ___________ table.",
+      "answers": ["is", "a", "an", "you"],
+      "correctAnswer": "a",
+      "id": 33
+    },
+    {
+      "question": "__________. I am Linda",
+      "answers": ["Hello", "Bye", "It", "You"],
+      "correctAnswer": "Hello",
+      "id": 34
+    },
+    {
+      "question": "How _________ she?",
+      "answers": ["am", "is", "are", "it"],
+      "correctAnswer": "is",
+      "id": 35
+    }],
+  "status": 0
+}, {
+  "id": 8,
+  "questions":
+  [{
+    "question": "Hello, my _______ Lisa",
+    "answers": ["is", "name", "name's", "these"],
+    "correctAnswer": "name's",
+    "id": 36
+  },
+    {
+      "question": "Who is _______? - ________ is my mother",
+      "answers": ["she - Her", "her - She", "her - Her", "she - She"],
+      "correctAnswer": "she - She",
+      "id": 37
+    },
+    {
+      "question": "Nice to meet you. - ________________.",
+      "answers": ["Me too", "Nice to meet you, too", "Nice to met you", "A & B"],
+      "correctAnswer": "Nice to meet you, too",
+      "id": 38
+    },
+    {
+      "question": "Bye. Have _____ nice day!",
+      "answers": ["the", "a", "an", "two"],
+      "correctAnswer": "a",
+      "id": 39
+    },
+    {
+      "question": "Five + five = __________.",
+      "answers": ["twelve", "ten", "five", "zero"],
+      "correctAnswer": "ten",
+      "id": 40
+    }],
+  "status": 0
+}, {
+  "id": 9,
+  "questions":
+  [{
+    "question": "____________? I am Okay.",
+    "answers": ["How are you?", "How are you today?", "How do you?", "A & B"],
+    "correctAnswer": "A & B",
+    "id": 41
+  },
+    {
+      "question": "This is _______ friend.",
+      "answers": ["my", "me", "you", "I"],
+      "correctAnswer": "my",
+      "id": 42
+    },
+    {
+      "question": "That _______ envelope",
+      "answers": ["is an", "not is an", "a", "an"],
+      "correctAnswer": "is an",
+      "id": 43
+    },
+    {
+      "question": "Give the correct form of the verbs in brackets \n It (be) rainy today",
+      "answers": ["are", "is", "will be", "is going to be"],
+      "correctAnswer": "is",
+      "id": 44
+    },
+    {
+      "question": "Give the correct form of the verbs in brackets \n My father and I (be) good tennis players",
+      "answers": ["are", "is", "will be", "is going to be"],
+      "correctAnswer": "are",
+      "id": 45
+    }],
+  "status": 0
+}, {
+  "id": 10,
+  "questions":
+  [{
+    "question": "Give the correct form of the verbs in brackets \n My little brother (be) happy now",
+    "answers": ["are", "is", "will be", "is going to be"],
+    "correctAnswer": "is",
+    "id": 46
+  },
+    {
+      "question": "Reorder these words to have correct sentences \n family/ this/ our/ happy/ is/ ./",
+      "answers": ["this is happy our family.", "this is our family happy.", "this is our happy family.", "this is family our happy."],
+      "correctAnswer": "this is our happy family.",
+      "id": 47
+    },
+    {
+      "question": "Reorder these words to have correct sentences \n together/ we/ often/ play/ ./",
+      "answers": ["we often play together.", "we play often together.", "we together play often.", "we together often play."],
+      "correctAnswer": "we often play together.",
+      "id": 48
+    },
+    {
+      "question": "Reorder these words to have correct sentences \n that/ man/ there/ over/ who/ is/ ?/",
+      "answers": ["who is there man over that?", "who is over there that man?", "over there who is that man?", "who is that man over there?"],
+      "correctAnswer": "who is that man over there?",
+      "id": 49
+    },
+    {
+      "question": "Reorder these words to have correct sentences \n your/ is/ she/ friend/ ?",
+      "answers": ["she is your friend?", "is she your friend?", "your friend is she?", "is your she friend?"],
+      "correctAnswer": "is she your friend?",
+      "id": 50
+    }],
+  "status": 0
+}, {
+  "id": 11,
+  "questions":
+  [{
+    "question": "Reorder these words to have correct sentences \n are/ who/ they/ ?",
+    "answers": ["who they are?", "who are they?", "are they who?", "they are who?"],
+    "correctAnswer": "who are they?",
+    "id": 51
+  },
+    {
+      "question": "Odd one out.",
+      "answers": ["Hello", "Hi", "Name", "Bye"],
+      "correctAnswer": "Name",
+      "id": 52
+    },
+    {
+      "question": "Odd one out.",
+      "answers": ["Friend", "What", "How", "Who"],
+      "correctAnswer": "Friend",
+      "id": 53
+    },
+    {
+      "question": "Write the missing letters \n Th_s",
+      "answers": ["a", "i", "o", "e"],
+      "correctAnswer": "i",
+      "id": 54
+    },
+    {
+      "question": "Write the missing letters \n th_nks",
+      "answers": ["a", "i", "o", "e"],
+      "correctAnswer": "a",
+      "id": 55
+    }],
+  "status": 0
+}, {
+  "id": 12,
+  "questions":
+  [{
+    "question": "Write the missing letters \n H_w",
+    "answers": ["a", "i", "o", "e"],
+    "correctAnswer": "o",
+    "id": 56
+  },
+    {
+      "question": "Write the missing letters \n you_",
+      "answers": ["s", "q", "r", "t"],
+      "correctAnswer": "r",
+      "id": 57
+    },
+    {
+      "question": "My ……… is Peter.",
+      "answers": ["old", "name", "you", "name's"],
+      "correctAnswer": "name",
+      "id": 58
+    },
+    {
+      "question": "……do you spell your name?",
+      "answers": ["What", "How", "Who", "Which"],
+      "correctAnswer": "How",
+      "id": 59
+    },
+    {
+      "question": "Nice ….. meet you.",
+      "answers": ["to", "too", "two", "three"],
+      "correctAnswer": "to",
+      "id": 60
+    }],
+  "status": 0
+}, {
+  "id": 13,
+  "questions":
+  [{
+    "question": "What’s ........ name?",
+    "answers": ["you", "he", "your", "she"],
+    "correctAnswer": "your",
+    "id": 61
+  },
+    {
+      "question": "one + five = ……",
+      "answers": ["six", "seven", "eight", "four"],
+      "correctAnswer": "six",
+      "id": 62
+    },
+    {
+      "question": "ten - six = ……",
+      "answers": ["three", "four", "five", "six"],
+      "correctAnswer": "four",
+      "id": 63
+    },
+    {
+      "question": "one + two = ……",
+      "answers": ["three", "four", "five", "six"],
+      "correctAnswer": "three",
+      "id": 64
+    },
+    {
+      "question": "eight + one = ……",
+      "answers": ["six", "seven", "two", "nine"],
+      "correctAnswer": "nine",
+      "id": 65
+    }],
+  "status": 0
+}, {
+  "id": 14,
+  "questions":
+  [{
+    "question": "Reorder the words.  \n is / name? / What / your",
+    "answers": ["What is your name?", "What is name your?", "What your name is?", "your name is what?"],
+    "correctAnswer": "What is your name?",
+    "id": 66
+  },
+    {
+      "question": "Reorder the words.  \n old. / am / eight / I / years",
+      "answers": ["I am eight old years.", "I am years eight old.", "I am eight years old.", "am I eight years old."],
+      "correctAnswer": "I am eight years old.",
+      "id": 67
+    },
+    {
+      "question": "Reorder the words.  \n thanks. / fine, / I’m",
+      "answers": ["thanks. I'm fine,", "fine, I'm thanks.", "I'm fine, thanks.", "I'm thanks. Fine"],
+      "correctAnswer": "I'm fine, thanks.",
+      "id": 68
+    },
+    {
+      "question": "Reorder the words.  \n friends? / they / Are / your",
+      "answers": ["Are they your friend?", "they are your friend?", "Are they friend your?", "they are friend your?"],
+      "correctAnswer": "Are they your friend?",
+      "id": 69
+    },
+    {
+      "question": "A: Hello, Nam. \n B: ...",
+      "answers": ["Yes, it is.", "My name’s Tony", "I’m nine years old.", "Hi, Peter"],
+      "correctAnswer": "Hi, Peter",
+      "id": 70
+    }],
+  "status": 0
+}, {
+  "id": 15,
+  "questions":
+  [{
+    "question": "A: How old are you? \n B: ...",
+    "answers": ["Yes, it is.", "My name’s Tony", "I’m nine years old.", "Yes, they are."],
+    "correctAnswer": "I’m nine years old.",
+    "id": 71
+  },
+    {
+      "question": "A: What’s your name? \n B: ...",
+      "answers": ["Yes, it is.", "My name’s Tony", "I’m nine years old.", "Yes, they are."],
+      "correctAnswer": "My name’s Tony",
+      "id": 72
+    },
+    {
+      "question": "A: Is that Tony? \n B: ...",
+      "answers": ["Yes, it is.", "My name’s Tony", "I’m nine years old.", "Yes, they are."],
+      "correctAnswer": "Yes, it is.",
+      "id": 73
+    },
+    {
+      "question": "A: Are Peter and Mary your friends? \n B: ...",
+      "answers": ["Yes, it is.", "My name’s Tony", "I’m nine years old.", "Yes, they are."],
+      "correctAnswer": "Yes, they are.",
+      "id": 74
+    },
+    {
+      "question": "He is Nam. He is ____________ America.",
+      "answers": ["from", "in", "up", "down"],
+      "correctAnswer": "from",
+      "id": 75
+    }],
+  "status": 0
+}, {
+  "id": 16,
+  "questions":
+  [{
+    "question": "He is tweleve. He has got a family. ____________ are a family of seven.",
+    "answers": ["It", "They", "These", "Those"],
+    "correctAnswer": "They",
+    "id": 76
+  },
+    {
+      "question": "He has got two brothers and two sisters. ____________ brothers are twins.",
+      "answers": ["Her", "Our", "Their", "His"],
+      "correctAnswer": "His",
+      "id": 77
+    },
+    {
+      "question": "His brothers are twins. And his sisters are twins, ____________.",
+      "answers": ["too", "very", "rather", "quite"],
+      "correctAnswer": "too",
+      "id": 78
+    },
+    {
+      "question": "His brothers are ten. His sisters are nine. They are pupils. He ____________ his family.",
+      "answers": ["plays", "does", "watches", "loves"],
+      "correctAnswer": "loves",
+      "id": 79
+    },
+    {
+      "question": "Put the words in the orders. \n Do/ spell/ name/ you/ your/ how",
+      "answers": ["How you do spell your name?", "How do you spell your name?", "How do your spell you name?", "How you do your spell name?"],
+      "correctAnswer": "How do you spell your name?",
+      "id": 80
+    }],
+  "status": 0
+}, {
+  "id": 17,
+  "questions":
+  [{
+    "question": "Put the words in the orders. \n Are/ you/ hello/ how?",
+    "answers": ["Hello, how are you?", "Hello, how you are?", "How are you hello?", "How hello are you?"],
+    "correctAnswer": "Hello, how are you?",
+    "id": 81
+  },
+    {
+      "question": "Put the words in the orders. \n See/ later/ good-bye/ you",
+      "answers": ["Good-bye. Later see you .", "Good-bye. You see later.", "Good-bye. See you later.", "Good-bye. See later you."],
+      "correctAnswer": "Good-bye. See you later.",
+      "id": 82
+    },
+    {
+      "question": "Put the words in the orders. \n Tung/ is/ this",
+      "answers": ["Is this Tung.", "Tung is this.", "This is Tung.", "Is tung this."],
+      "correctAnswer": "This is Tung.",
+      "id": 83
+    },
+    {
+      "question": "Put the words in the orders. \n Trang/ she/ is",
+      "answers": ["Trang is she.", "She is Trang.", "Is she Trang.", "Is Trang she."],
+      "correctAnswer": "She is Trang.",
+      "id": 84
+    },
+    {
+      "question": "Put the words in the orders. \n my/ this/ sister/ is",
+      "answers": ["My sister is this.", "Is this my sister.", "This is sister my.", "This is my sister."],
+      "correctAnswer": "This is my sister.",
+      "id": 85
+    }],
+  "status": 0
+}, {
+  "id": 18,
+  "questions":
+  [{
+    "question": "A: Hi. I’m Minh. \n B: ...",
+    "answers": ["I’m fine, thank you.", "It’s Mr Loc.", "Hello. I’m Mai.", "My name is Linda."],
+    "correctAnswer": "Hello. I’m Mai.",
+    "id": 86
+  },
+    {
+      "question": "A: How are you? \n B: ...",
+      "answers": ["I’m fine, thank you.", "It’s Mr Loc.", "Hello. I’m Mai.", "My name is Linda."],
+      "correctAnswer": "I’m fine, thank you.",
+      "id": 87
+    },
+    {
+      "question": "A: What’s your name? \n B: ...",
+      "answers": ["I’m fine, thank you.", "It’s Mr Loc.", "Hello. I’m Mai.", "My name is Linda."],
+      "correctAnswer": "My name is Linda.",
+      "id": 88
+    },
+    {
+      "question": "A: Who’s that? \n B: ...",
+      "answers": ["I’m fine, thank you.", "It’s Mr Loc.", "Hello. I’m Mai.", "My name is Linda."],
+      "correctAnswer": "It’s Mr Loc.",
+      "id": 89
+    },
+    {
+      "question": "A: Is that Phong? \n B: ...",
+      "answers": ["I’m fine, thank you.", "No, it isn’t.", "Hello. I’m Mai.", "My name is Linda."],
+      "correctAnswer": "No, it isn’t.",
+      "id": 90
+    }],
+  "status": 0
+}, {
+  "id": 19,
+  "questions":
+  [{
+    "question": "Hello, My (1)____________ Cuong.",
+    "answers": ["fine", "are", "name's", "your"],
+    "correctAnswer": "name's",
+    "id": 91
+  },
+    {
+      "question": "How (2) ____________you?",
+      "answers": ["fine", "are", "name's", "your"],
+      "correctAnswer": "are",
+      "id": 92
+    },
+    {
+      "question": "I’m (3)_________, thank you.",
+      "answers": ["fine", "are", "name's", "your"],
+      "correctAnswer": "fine",
+      "id": 93
+    },
+    {
+      "question": "What’s (4)___________name?",
+      "answers": ["fine", "are", "name's", "your"],
+      "correctAnswer": "your",
+      "id": 94
+    },
+    {
+      "question": "Odd one out",
+      "answers": ["school", "classroom", "gym", "hell"],
+      "correctAnswer": "hell",
+      "id": 95
+    }],
+  "status": 0
+}, {
+  "id": 20,
+  "questions":
+  [{
+    "question": "Odd one out",
+    "answers": ["hello", "hi", "good morning", "come in"],
+    "correctAnswer": "come in",
+    "id": 96
+  },
+    {
+      "question": "Odd one out",
+      "answers": ["you", "she", "your", "he"],
+      "correctAnswer": "your",
+      "id": 97
+    },
+    {
+      "question": "Odd one out",
+      "answers": ["this", "stand", "sit", "go"],
+      "correctAnswer": "this",
+      "id": 98
+    },
+    {
+      "question": "Odd one out",
+      "answers": ["library", "big", "new", "large"],
+      "correctAnswer": "library",
+      "id": 99
+    },
+    {
+      "question": "Fill in the blank with a suitable letter \n S__hool",
+      "answers": ["g", "h", "p", "l"],
+      "correctAnswer": "h",
+      "id": 100
+    }],
+  "status": 0
+}, {
+  "id": 21,
+  "questions":
+  [{
+    "question": "“Is your classroom big?” nghĩa là:",
+    "answers": ["Trường bạn to phải không?", "Lớp bạn to phải không?", "Thư viện to phải không?", "Nhà bạn to phải không?"],
+    "correctAnswer": "Lớp bạn to phải không?",
+    "id": 101
+  },
+    {
+      "question": "“Xin phép được viết bài” ta nói?",
+      "answers": ["May I speak?", "May I write?", "May I come in?", "May I talk?"],
+      "correctAnswer": "May I write?",
+      "id": 102
+    },
+    {
+      "question": "“ Kia là phòng máy tính” nói sao?",
+      "answers": ["That’s the gym", "That’s the playground", "That’s the computer room", "That’s my room"],
+      "correctAnswer": "That’s the computer room",
+      "id": 103
+    },
+    {
+      "question": "Is ......... vour friend?",
+      "answers": ["rulers", "that", "orange", "gym"],
+      "correctAnswer": "that",
+      "id": 104
+    },
+    {
+      "question": "These are my ....",
+      "answers": ["rulers", "that", "orange", "gym"],
+      "correctAnswer": "rulers",
+      "id": 105
+    }],
+  "status": 0
+}, {
+  "id": 22,
+  "questions":
+  [{
+    "question": "My favourite colour is ...",
+    "answers": ["rulers", "that", "orange", "gym"],
+    "correctAnswer": "orange",
+    "id": 106
+  },
+    {
+      "question": "My school ... is large",
+      "answers": ["rulers", "that", "orange", "gym"],
+      "correctAnswer": "gym",
+      "id": 107
+    },
+    {
+      "question": "Her parents are in the _______. They are cooking a big meal.",
+      "answers": ["kitchen", "Linda", "cleaning", "watching"],
+      "correctAnswer": "kitchen",
+      "id": 108
+    },
+    {
+      "question": "Her brother  is ________TV in his  room.",
+      "answers": ["kitchen", "Linda", "cleaning", "watching"],
+      "correctAnswer": "watching",
+      "id": 109
+    },
+    {
+      "question": "_______ is in the living room.",
+      "answers": ["kitchen", "Linda", "cleaning", "watching"],
+      "correctAnswer": "Linda",
+      "id": 110
+    }],
+  "status": 0
+}, {
+  "id": 23,
+  "questions":
+  [{
+    "question": "She is ___________the floor.",
+    "answers": ["kitchen", "Linda", "cleaning", "watching"],
+    "correctAnswer": "cleaning",
+    "id": 111
+  },
+    {
+      "question": "She is .....................there.",
+      "answers": ["happy", "England", "friend", "music club"],
+      "correctAnswer": "happy",
+      "id": 112
+    },
+    {
+      "question": "Rearrange the words to compete the sentences \n This/ living room/ is/ a.",
+      "answers": ["is This a livingroom.", "a livingroom is This.", "This is a livingroom.", "This livingroom is a."],
+      "correctAnswer": "This is a livingroom.",
+      "id": 113
+    },
+    {
+      "question": "Rearrange the words to compete the sentences \n There/ four/ are/ doors",
+      "answers": ["There are four doors", "are There four doors", "There are doors four", "There doors are four"],
+      "correctAnswer": "There are four doors",
+      "id": 114
+    },
+    {
+      "question": "Rearrange the words to compete the sentences \n I/ a/ robot/ have",
+      "answers": ["a robot have I", "have I a robot", "I have robot a", "I have a robot"],
+      "correctAnswer": "I have a robot",
+      "id": 115
+    }],
+  "status": 0
+}, {
+  "id": 24,
+  "questions":
+  [{
+    "question": "Rearrange the words to compete the sentences \n He/ brothers/ two/ has",
+    "answers": ["He has brothers two", "He has two brothers", "has He two brothers", "two brothers has He"],
+    "correctAnswer": "He has two brothers",
+    "id": 116
+  },
+    {
+      "question": "Rearrange the words to compete the sentences \n She/ the/ playing/ is/ piano",
+      "answers": ["is She playing the piano.", "the piano is playing She.", "She is playing the piano.", "She is the playing piano."],
+      "correctAnswer": "She is playing the piano.",
+      "id": 117
+    },
+    {
+      "question": "Choose the odd one out",
+      "answers": ["mother", "bear", "father", "son"],
+      "correctAnswer": "bear",
+      "id": 118
+    },
+    {
+      "question": "Choose the odd one out",
+      "answers": ["happy", "rainy", "windy", "sunny"],
+      "correctAnswer": "happy",
+      "id": 119
+    },
+    {
+      "question": "Choose the odd one out",
+      "answers": ["green", "small", "red", "brown"],
+      "correctAnswer": "small",
+      "id": 120
+    }],
+  "status": 0
+}, {
+  "id": 25,
+  "questions":
+  [{
+    "question": "Choose the odd one out",
+    "answers": ["twenty", "thirsty", "forty", "fifteen"],
+    "correctAnswer": "thirsty",
+    "id": 121
+  },
+    {
+      "question": "Rearrange the words to compete the sentences \n colour/ they/ are/ What/?",
+      "answers": ["What they are colour?", "What colour are they?", "What colour they are?", "they are what colour?"],
+      "correctAnswer": "What colour are they?",
+      "id": 122
+    },
+    {
+      "question": "Rearrange the words to compete the sentences \n Tom / three dogs/ has/ got / and two cats/.",
+      "answers": ["Tom has got three dogs and two cats.", "Tom got has three dogs and two cats.", "Three dogs has got Tom and two cats.", "Tom has got and two cats three dogs."],
+      "correctAnswer": "Tom has got three dogs and two cats.",
+      "id": 123
+    },
+    {
+      "question": "Rearrange the words to compete the sentences \n Hai Phong/ Is /it / in/ and hot/ sunny/?",
+      "answers": ["It is sunny and hot in Hai Phong?", "Is it and hot sunny in Hai Phong?", "Is Hai Phong sunny and hot in it?", "Is it sunny and hot in Hai Phong?"],
+      "correctAnswer": "Is it sunny and hot in Hai Phong?",
+      "id": 124
+    },
+    {
+      "question": "Rearrange the words to compete the sentences \n Hanoi/ like/ in / today/ what /is/ the/ weather?",
+      "answers": ["What is in the Hanoi weather like today?", "What is Hanoi like today in the weather?", "What is the weather like today in Hanoi?", "What in Hanoi the weather is like today?"],
+      "correctAnswer": "What is the weather like today in Hanoi?",
+      "id": 125
+    }],
+  "status": 0
+}, {
+  "id": 26,
+  "questions":
+  [{
+    "question": "Choose the word whose quote part is pronounced differently from the rest",
+    "answers": ["'s'ix", "'s'even", "'s'ugar", "'s'o"],
+    "correctAnswer": "'s'ugar",
+    "id": 126
+  },
+    {
+      "question": "Choose the word whose quote part is pronounced differently from the rest",
+      "answers": ["'p'en", "'p'ig", "'p'hoto", "'p'upil"],
+      "correctAnswer": "'p'hoto",
+      "id": 127
+    },
+    {
+      "question": "Choose the word whose quote part is pronounced differently from the rest",
+      "answers": ["'h'ow", "'h'ello", "'h'i", "'h'onest"],
+      "correctAnswer": "'h'onest",
+      "id": 128
+    },
+    {
+      "question": "Fill in the blank with a suitable letter \n O__t",
+      "answers": ["a", "u", "e", "i"],
+      "correctAnswer": "u",
+      "id": 129
+    },
+    {
+      "question": "Fill in the blank with a suitable letter \n G__m",
+      "answers": ["a", "y", "e", "i"],
+      "correctAnswer": "y",
+      "id": 130
+    }],
+  "status": 0
+}, {
+  "id": 27,
+  "questions":
+  [{
+    "question": "Fill in the blank with a suitable letter \n Do__n",
+    "answers": ["q", "r", "w", "t"],
+    "correctAnswer": "w",
+    "id": 131
+  },
+    {
+      "question": "Fill in the blank with a suitable letter \n Li__rar__",
+      "answers": ["b/i", "p/i", "b/y", "p/y"],
+      "correctAnswer": "b/y",
+      "id": 132
+    },
+    {
+      "question": "Fill in the blank with a suitable letter \n Cl__se",
+      "answers": ["a", "u", "e", "o"],
+      "correctAnswer": "o",
+      "id": 133
+    },
+    {
+      "question": "Fill in the blank with a suitable letter \n __ig",
+      "answers": ["b", "t", "g", "z"],
+      "correctAnswer": "b",
+      "id": 134
+    },
+    {
+      "question": "Fill in the blank with a suitable letter \n M__",
+      "answers": ["a", "y", "e", "i"],
+      "correctAnswer": "y",
+      "id": 135
+    }],
+  "status": 0
+}, {
+  "id": 28,
+  "questions":
+  [{
+    "question": "Fill in the blank with a suitable letter \n Cl__s__room",
+    "answers": ["a/s", "e/s", "a/t", "e/t"],
+    "correctAnswer": "a/s",
+    "id": 136
+  },
+    {
+      "question": "Fill in the blank with a suitable letter \n O__en",
+      "answers": ["q", "r", "p", "t"],
+      "correctAnswer": "p",
+      "id": 137
+    },
+    {
+      "question": "Fill in the blank with a suitable letter \n S__all",
+      "answers": ["m", "n", "p", "t"],
+      "correctAnswer": "m",
+      "id": 138
+    },
+    {
+      "question": "Fill in the blank with a suitable letter \n C__n",
+      "answers": ["a", "y", "e", "i"],
+      "correctAnswer": "a",
+      "id": 139
+    },
+    {
+      "question": "Fill in the blank with a suitable letter \n __ayg__ound",
+      "answers": ["p/r", "pl/r", "p/a", "pl/a"],
+      "correctAnswer": "pl/r",
+      "id": 140
+    }],
+  "status": 0
+}, {
+  "id": 29,
+  "questions":
+  [{
+    "question": "Fill in the blank with a suitable letter \n Co__p__ter",
+    "answers": ["n/u", "n/o", "m/u", "m/o"],
+    "correctAnswer": "m/u",
+    "id": 141
+  },
+    {
+      "question": "Fill in the blank with a suitable letter \n La__ge",
+      "answers": ["p", "r", "s", "t"],
+      "correctAnswer": "r",
+      "id": 142
+    },
+    {
+      "question": "Fill in the blank with a suitable letter \n L__ok",
+      "answers": ["a", "i", "e", "o"],
+      "correctAnswer": "o",
+      "id": 143
+    },
+    {
+      "question": "Rearrange the words to compete the sentences \n is/ that/ computer/ the/ room/.",
+      "answers": ["That is the computer room.", "Is that the computer room.", "The computer is that room.", "That computer is the room."],
+      "correctAnswer": "That is the computer room.",
+      "id": 144
+    },
+    {
+      "question": "Rearrange the words to compete the sentences \n the/ library/ that/ is/.",
+      "answers": ["Is that the library.", "That is the library.", "That is library the.", "Is the that library."],
+      "correctAnswer": "That is the library.",
+      "id": 145
+    }],
+  "status": 0
+}, {
+  "id": 30,
+  "questions":
+  [{
+    "question": "Rearrange the words to compete the sentences \n my/ that/ is/ school/.",
+    "answers": ["Is that my school.", "Is my that school.", "My is that school.", "That is my school."],
+    "correctAnswer": "That is my school.",
+    "id": 146
+  },
+    {
+      "question": "Rearrange the words to compete the sentences \n that/ music/ the/ room/ is/.",
+      "answers": ["Is that the music room.", "That is the music room.", "The music room is that.", "The room is that music."],
+      "correctAnswer": "That is the music room.",
+      "id": 147
+    },
+    {
+      "question": "Rearrange the words to compete the sentences \n the/ is/ big/ gym/ ? – is/ it/ yes/.",
+      "answers": ["Is the big gym? - Yes, it is.", "Is the gym big? - Yes, it is.", "Is the gym big? - Yes, is it.", "Is the big gym? - Yes, is it."],
+      "correctAnswer": "Is the gym big? - Yes, it is.",
+      "id": 148
+    },
+    {
+      "question": "Rearrange the words to compete the sentences \n my/ is/ this/ friend/ new/.",
+      "answers": ["This is my new friend.", "This friend is my new.", "TMy new friend is this.", "Is this my new friend."],
+      "correctAnswer": "This is my new friend.",
+      "id": 149
+    },
+    {
+      "question": "Rearrange the words to compete t9he sentences \n friends/ they/ your/ are/? – no/ not/ are/ they/.",
+      "answers": ["Are your friends they? - No, they are not.", "Are they your friends? - No, they are not.", "Are your friends they? - No, they not are.", "Are they your friends? - No, they not are."],
+      "correctAnswer": "Are they your friends? - No, they are not.",
+      "id": 150
+    }],
+  "status": 0
+}, {
+  "id": 31,
+  "questions": [
+    {
+      "question": "Rearrange the words to complete the sentence:\nmy/ that/ is/ school/.",
+      "answers": ["Is that my school.", "Is my that school.", "My is that school.", "That is my school."],
+      "correctAnswer": "That is my school.",
+      "id": 151
+    },
+    {
+      "question": "Rearrange the words to complete the sentence:\nthat/ music/ the/ room/ is/.",
+      "answers": ["Is that the music room.", "That is the music room.", "The music room is that.", "The room is that music."],
+      "correctAnswer": "That is the music room.",
+      "id": 152
+    },
+    {
+      "question": "Rearrange the words to complete the sentence:\nthe/ is/ big/ gym/ ? – is/ it/ yes/.",
+      "answers": ["Is the big gym? - Yes, it is.", "Is the gym big? - Yes, it is.", "Is the gym big? - Yes, is it.", "Is the big gym? - Yes, is it."],
+      "correctAnswer": "Is the gym big? - Yes, it is.",
+      "id": 153
+    },
+    {
+      "question": "Rearrange the words to complete the sentence:\nmy/ is/ this/ friend/ new/.",
+      "answers": ["This is my new friend.", "This friend is my new.", "My new friend is this.", "Is this my new friend."],
+      "correctAnswer": "This is my new friend.",
+      "id": 154
+    },
+    {
+      "question": "Rearrange the words to complete the sentence:\nfriends/ they/ your/ are/? – no/ not/ are/ they/.",
+      "answers": ["Are your friends they? - No, they are not.", "Are they your friends? - No, they are not.", "Are your friends they? - No, they not are.", "Are they your friends? - No, they not are."],
+      "correctAnswer": "Are they your friends? - No, they are not.",
+      "id": 155
+    }
+  ],
+  "status": 0
+},
+{
+  "id": 32,
+  "questions": [
+    {
+      "question": "What is the opposite of 'cold'?",
+      "answers": ["Warm", "Hot", "Cool", "Freezing"],
+      "correctAnswer": "Hot",
+      "id": 161
+    },
+    {
+      "question": "Which word is a verb?",
+      "answers": ["Jump", "Quick", "Blue", "Tall"],
+      "correctAnswer": "Jump",
+      "id": 162
+    },
+    {
+      "question": "Choose the correct word to complete the sentence:\nShe __________ her homework every evening.",
+      "answers": ["does", "do", "doing", "done"],
+      "correctAnswer": "does",
+      "id": 163
+    },
+    {
+      "question": "Select the correct word to complete the sentence:\nHe is __________ than me.",
+      "answers": ["older", "old", "oldest", "more old"],
+      "correctAnswer": "older",
+      "id": 164
+    },
+    {
+      "question": "What is the capital of England?",
+      "answers": ["Paris", "London", "Berlin", "Madrid"],
+      "correctAnswer": "London",
+      "id": 165
+    }
+  ],
+  "status": 0
+},
+{
+  "id": 33,
+  "questions": [
+    {
+      "question": "Choose the correct word to complete the sentence:\nThe cat likes to play with __________ ball of yarn.",
+      "answers": ["an", "a", "the", "some"],
+      "correctAnswer": "the",
+      "id": 161
+    },
+    {
+      "question": "Which word is a noun?",
+      "answers": ["run", "happy", "chair", "quickly"],
+      "correctAnswer": "chair",
+      "id": 162
+    },
+    {
+      "question": "Choose the correct past tense of the verb:\nYesterday, I __________ to the park.",
+      "answers": ["go", "going", "went", "gone"],
+      "correctAnswer": "went",
+      "id": 163
+    },
+    {
+      "question": "Select the correct word to complete the sentence:\nShe is __________ than her brother.",
+      "answers": ["tall", "tallest", "taller", "most tall"],
+      "correctAnswer": "taller",
+      "id": 164
+    },
+    {
+      "question": "Read the passage and answer the question:\n\"The dog chased the ball across the yard. It was sunny and warm. The dog was very happy.\"\nWhat was the weather like?",
+      "answers": ["Rainy", "Cloudy", "Windy", "Sunny"],
+      "correctAnswer": "Sunny",
+      "id": 165
+    }
+  ],
+  "status": 0
+},
+{
+  "id": 34,
+  "questions": [
+    {
+      "question": "Read the passage and answer the question:\n\"Sally loves to read books. Her favorite book is about a princess who saves a kingdom.\"\nWhat is Sally's favorite book about?",
+      "answers": ["A dragon", "A princess", "A knight", "A wizard"],
+      "correctAnswer": "A princess",
+      "id": 166
+    },
+    {
+      "question": "Which sentence is written correctly?",
+      "answers": ["he is my friend.", "He is my friend.", "he Is my Friend.", "He Is My Friend."],
+      "correctAnswer": "He is my friend.",
+      "id": 167
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "answers": ["She like to play outside.", "She likes to play outside.", "She liked to play outside.", "She liking to play outside."],
+      "correctAnswer": "She likes to play outside.",
+      "id": 168
+    },
+    {
+      "question": "Choose the correct spelling:",
+      "answers": ["scholl", "school", "schoul", "skool"],
+      "correctAnswer": "school",
+      "id": 169
+    },
+    {
+      "question": "Find the misspelled word and correct it:\nThe sun is brite today.",
+      "answers": ["sun", "brite", "today", "is"],
+      "correctAnswer": "brite",
+      "id": 170
+    }
+  ],
+  "status": 0
+},
+{
+  "id": 35,
+  "questions": [
+    {
+      "question": "Which one of these is a fruit?",
+      "answers": ["Carrot", "Apple", "Broccoli", "Potato"],
+      "correctAnswer": "Apple",
+      "id": 171
+    },
+    {
+      "question": "What color do you get when you mix blue and yellow?",
+      "answers": ["Red", "Green", "Purple", "Orange"],
+      "correctAnswer": "Green",
+      "id": 172
+    },
+    {
+      "question": "What is 5 + 3?",
+      "answers": ["6", "7", "8", "9"],
+      "correctAnswer": "8",
+      "id": 173
+    },
+    {
+      "question": "Which animal says 'Moo'?",
+      "answers": ["Dog", "Cat", "Cow", "Sheep"],
+      "correctAnswer": "Cow",
+      "id": 174
+    },
+    {
+      "question": "Which season comes after spring?",
+      "answers": ["Winter", "Summer", "Autumn", "Fall"],
+      "correctAnswer": "Summer",
+      "id": 175
+    }
+  ],
+  "status": 0
+}
+]
