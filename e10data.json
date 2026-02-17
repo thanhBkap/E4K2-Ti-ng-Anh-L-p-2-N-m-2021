@@ -1,0 +1,681 @@
+[{
+  "id": 1,
+  "questions":
+  [{
+    "question": "Choose the word which has the quoted part pronounced differently from the rest. \n\n A. ar'ou'nd \n\n B. m'ou'se \n\n C.c'ou'nt \n\n D.a'ou'ntry",
+    "answers": [],
+    "correctAnswer": "D",
+    "id": 1
+  },
+  {
+    "question": "Choose the word which has the quoted part pronounced differently from the rest. \n\n A. c'a'mera \n\n B. fa'm'ous \n\n C. gl'a'd \n\n D. f'a'mily",
+    "answers": [],
+    "correctAnswer": "B",
+    "id": 2
+  },
+  {
+    "question": "Choose the word which has the quoted part pronounced differently from the rest. \n\n A. k'i'tchen \n\n B. h'i'story \n\n C. t'i'me \n\n D. f'i'nish",
+    "answers": [],
+    "correctAnswer": "C",
+    "id": 3
+  },
+  {
+    "question": "Choose the word which has the quoted part pronounced differently from the rest. \n\n A. me'ch'anic \n\n B. a'ch'ievement \n\n C. 'ch'emistry \n\n D. s'ch'ool",
+    "answers": [],
+    "correctAnswer": "B",
+    "id": 4
+  },
+  {
+    "question": "Choose the word which has the quoted part pronounced differently from the rest. \n\n A. k'i'ck \n\n B. th'i'nk \n\n C. l'i'fe \n\n D. dr'i'nk",
+    "answers": [],
+    "correctAnswer": "C",
+    "id": 5
+  }],
+  "status": 0
+}, {
+  "id": 2,
+  "questions":
+  [{
+    "question": "John is always late for class, ________ annoys the teacher. \n\n A. which \n\n B. this \n\n C. what \n\n D. that",
+    "answers": ["primary", "compulsory", "national", "second"],
+    "correctAnswer": "A",
+    "id": 6
+  },
+  {
+    "question": "Thuy’s class is different ________ other classes because the children are disabled. \n\n A. for \n\n B. in \n\n C. from \n\n D. on",
+    "answers": ["interested", "impressed", "comprised", "corresponded"],
+    "correctAnswer": "C",
+    "id": 7
+  },
+  {
+    "question": "Would you mind ________ me a hand with these bags? \n\n A. to give \n\n B. giving \n\n C. give \n\n D. gives",
+    "answers": ["to give", "giving", "give", "gives"],
+    "correctAnswer": "B",
+    "id": 8
+  },
+  {
+    "question": "The meeting had been cancelled ________ the chairman's absence. \n\n A. because \n\n B. because of \n\n C. in spite of \n\n D. although",
+    "answers": ["since", "in", "at", "for"],
+    "correctAnswer": "B",
+    "id": 9
+  },
+  {
+    "question": "A personal communicator helps you to ________ with other computers and with people around the world. \n\n A. demonstrate \n\n B. transmit \n\n C. content \n\n D. interact",
+    "answers": ["happen", "hit", "erupt", "occur"],
+    "correctAnswer": "D",
+    "id": 10
+  }],
+  "status": 0
+}, {
+  "id": 3,
+  "questions":
+  [{
+    "question": "If I ________ John tonight, I ________ him my plans. \n\n A. saw/ told \n\n B. will see/ will tell \n\n C. see/ will tell \n\n D. will see/ tell",
+    "answers": ["that", "which", "where", "whom"],
+    "correctAnswer": "C",
+    "id": 11
+  },
+  {
+    "question": "My grandmother ______ drink a glass of water right after getting up in the morning. \n\n A. was used to \n\n B. uses to \n\n C. used to \n\n D. is used to",
+    "answers": ["was used to", "uses to", "used to", "is used to"],
+    "correctAnswer": "C",
+    "id": 12
+  },
+  {
+    "question": "I was listening to music, but I stopped ________ my homework. \n\n A. listening to do \n\n B. to listen to do \n\n C. to listen for doing \n\n D. listening for do",
+    "answers": ["receive", "have receive", "receiving", "be receiving"],
+    "correctAnswer": "A",
+    "id": 13
+  },
+  {
+    "question": "Poverty prevents many children ________ having proper schooling. \n\n A. for \n\n B. with \n\n C. of \n\n D. from",
+    "answers": ["have/ will buy", "has/ will buy", "had/ will buys", "has/buys"],
+    "correctAnswer": "D",
+    "id": 14
+  },
+  {
+    "question": "The girl ________ is standing next to your mother is the daughter of the director of this company. \n\n A. which \n\n B. who \n\n C. whom \n\n D. whose",
+    "answers": ["and", "among", "between", "before"],
+    "correctAnswer": "B",
+    "id": 15
+  }],
+  "status": 0
+}, {
+  "id": 4,
+  "questions":
+  [{
+    "question": "Choose the best answer.\n\nBy / time / we/ arrive / the party / already begin.\n\nA. By the time we had arrived, the party had already begun.\n\nB. By the time we arrived, the party already begun.\n\nC. By the time we arrived, the party had already begun.\n\nD. By the time we had arrived, the party already begun.",
+    "answers": ["Unless", "If", "Although", "Despite"],
+    "correctAnswer": "C",
+    "id": 16
+  },
+  {
+    "question": "Choose the best answer.\n\nMy mother never allows me to go out alone at night.\n\nA. I was not allowed to go out with my mother at night.\n\nB. My mother never lets me go out alone at night.\n\nC. My mother never goes out alone at night.\n\nD. I usually go out with my mother at night.",
+    "answers": ["in", "at", "for", "on"],
+    "correctAnswer": "B",
+    "id": 17
+  },
+  {
+    "question": "Choose the best answer.\n\nAlthough they were very poor, the children seemed happy.\n\nA. The children seemed unhappy because they were very poor.\n\nB. The children were very poor, so they seemed happy.\n\nC. Despite their poverty, the children seemed happy.\n\nD. The children seemed happy whether they were poor or rich.",
+    "answers": ["Plant trees", "Deforestation", "Burden", "Festival"],
+    "correctAnswer": "C",
+    "id": 18
+  },
+  {
+    "question": "Choose the best answer.\n\n“I’m taking my English test tomorrow.” Tom said.\n=> Tom said ______________________________________________.\n\nA. I was taking his English test tomorrow\n\nB. He is taking his English test the next day\n\nC. he was taking his English test the next day\n\nD. he was taking the English test tomorrow",
+    "answers": ["save", "to save", "saving", "should save"],
+    "correctAnswer": "C",
+    "id": 19
+  },
+  {
+    "question": "Choose the best answer.\n\nWe haven't been to the concert for two years.\n\nA. The last time we went to the concert was two years ago.\n\nB. It's two years since we last went to the concert.\n\nC. We didn't go to the concert two years ago.\n\nD. Both A and B are correct.",
+    "answers": ["for", "on", "at", "in"],
+    "correctAnswer": "D",
+    "id": 20
+  }],
+  "status": 0
+}, {
+  "id": 5,
+  "questions":
+  [{
+    "question": "Her flight____________ at 9.45 tomorrow morning.\n\n A. leave\n\n B. leaves\n\n C. will leave\n\n D. is going to leave",
+    "answers": ["whom", "that", "which", "B&C"],
+    "correctAnswer": "C",
+    "id": 21
+  },
+  {
+    "question": "He___________ in Ho Chi Minh City since he was born.\n\n A. lives\n\n B. lived\n\n C. is living\n\n D. has lived",
+    "answers": ["Therefore", "So", "However", "Although"],
+    "correctAnswer": "D",
+    "id": 22
+  },
+  {
+    "question": "I’m bored_________ watching the advertisements on TV.\n\n A. with\n\n B. on\n\n C. of\n\n D. in",
+    "answers": ["will produce", "are produced", "produced", "to produce"],
+    "correctAnswer": "A",
+    "id": 23
+  },
+  {
+    "question": "I____________ a new house last year, but I _______ my old one yet.\n\n A. bought/ hadn’t sold\n\n B. bought/ don’t sell\n\n C. bought/ won’t sell\n\n D. bought/ haven’t sold",
+    "answers": ["between", "which", "therefore", "with"],
+    "correctAnswer": "D",
+    "id": 24
+  },
+  {
+    "question": "The coffee_____________ by the time I got up this morning.\n\n A. was already made\n\n B. has already been made\n\n C. had already been made\n\n D. would have already made",
+    "answers": ["to", "for", "about", "on"],
+    "correctAnswer": "C",
+    "id": 25
+  }],
+  "status": 0
+}, {
+  "id": 6,
+  "questions":
+  [{
+    "question": "Everyone likes him,____________ ?\n\n A. doesn’t he\n\n B. doesn’t she\n\n C. don’t they\n\n D. don’t you",
+    "answers": ["out", "on", "off", "up"],
+    "correctAnswer": "C",
+    "id": 26
+  },
+  {
+    "question": "___________ Christmas, the weather has been quite good.\n\n A. from\n\n B. since\n\n C. on\n\n D. for",
+    "answers": ["about", "in", "by", "with"],
+    "correctAnswer": "B",
+    "id": 27
+  },
+  {
+    "question": "Choose the word which has the same meaning with the quoted part.\n\nShe taught in a school for 'the deaf and dump'.\n\n A. People who are unable to see.\n\n B. People who are mentally ill.\n\n C. People who have a bad memory.\n\n D. People who are unable to hear and speak.",
+    "answers": ["to", "about", "for", "of"],
+    "correctAnswer": "D",
+    "id": 28
+  },
+  {
+    "question": "You can contact with the others by sending___________ from your computer to theirs.\n\n A. programs\n\n B. participants\n\n C. calculations\n\n D. messages",
+    "answers": ["in", "of", "on", "up"],
+    "correctAnswer": "D",
+    "id": 29
+  },
+  {
+    "question": "It’s essential that every student____________ the exam before attending the course.\n\n A. passes\n\n B. would pass\n\n C. passed\n\n D. pass",
+    "answers": ["instead of", "to save", "think", "taking"],
+    "correctAnswer": "C",
+    "id": 30
+  }],
+  "status": 0
+}, {
+  "id": 7,
+  "questions":
+  [{
+    "question": "Most of the children come from large and poor families, which ________ them from having proper schooling.\n\n A. leads\n\n B. makes\n\n C. prevents\n\n D. gets",
+    "answers": ["A. famous", "B. workshop", "C. village", "D. bamboo"],
+    "correctAnswer": "C",
+    "id": 31
+  },
+  {
+    "question": "The school prepares students for a wide range of ________ qualifications.\n\n A. profession\n\n B. profess\n\n C. professional\n\n D. professionally",
+    "answers": ["A. design", "B. mention", "C. prefer", "D. consist"],
+    "correctAnswer": "C",
+    "id": 32
+  },
+  {
+    "question": "We are in regular ________ with each other by telephones or letters.\n\n A. communication\n\n B. communicative\n\n C. communicatively\n\n D. communicate",
+    "answers": ["A", "B", "C", "D"],
+    "correctAnswer": "A",
+    "id": 33
+  },
+  {
+    "question": "With many kinds of games designed, you can get ________ on computer.\n\n A. entertainer\n\n B. entertaining\n\n C. entertainment\n\n D. entertain",
+    "answers": ["A", "B", "C", "D"],
+    "correctAnswer": "C",
+    "id": 34
+  },
+  {
+    "question": "Low-income children do not have the same ______ opportunities as children from wealthier families.\n\n A. educate\n\n B. education\n\n C. educational\n\n D. educator",
+    "answers": ["A", "B", "C", "D"],
+    "correctAnswer": "C",
+    "id": 35
+  }],
+  "status": 0
+}, {
+  "id": 8,
+  "questions":
+  [{
+    "question": " Marie Curie was born in Warsaw _________November 7th, 1869.\n\n A. up\n\n B. on\n\n C. in\n\n D. out",
+    "answers": ["A. because of", "B. although", "C. so that", "D. because"],
+    "correctAnswer": "B",
+    "id": 36
+  },
+  {
+    "question": "No one is capable _______ learning all that in one day.\n\n A. of\n\n B. for\n\n C. to\n\n D. with",
+    "answers": ["A. for", "B. to", "C. in", "D. with"],
+    "correctAnswer": "A",
+    "id": 37
+  },
+  {
+    "question": "My mother always worries ______________ when I don't come home by midnight.\n\n A. about\n\n B. with\n\n C. to\n\n D. at",
+    "answers": ["A. interested", "B. dangerous", "C. impressed", "D. compulsory"],
+    "correctAnswer": "A",
+    "id": 38
+  },
+  {
+    "question": "The Internet helps us ________ with each other easily and quickly.\n\n A. interact\n\n B. orlder\n\n C. relax\n\n D. allow",
+    "answers": ["A. eat", "B. used to eat", "C. would eat", "D. will eat"],
+    "correctAnswer": "A",
+    "id": 39
+  },
+  {
+    "question": "If you like watching quiz shows about general knowledge, please pay a visit to ________ VTV3.\n\n A. comedy\n\n B. programme\n\n C. information\n\n D. channel",
+    "answers": ["A. why", "B. how", "C. what", "D. which"],
+    "correctAnswer": "D",
+    "id": 40
+  }],
+  "status": 0
+}, {
+  "id": 9,
+  "questions":
+  [{
+    "question": "If you ___________ my advice, you'll accept it.\n\n A. will be taking\n\n B. will take\n\n C. are taking\n\n D. take",
+    "answers": ["shoes", "bags", "blanket", "heart"],
+    "correctAnswer": "D",
+    "id": 41
+  },
+  {
+    "question": "If we ___________ a few more days.\n\n A. hang on\n\n B. are hanging on\n\n C. will hang on\n\n D. will be hanging on",
+    "answers": ["on foot", "bare-footed", "playing around", "played around"],
+    "correctAnswer": "A",
+    "id": 42
+  },
+  {
+    "question": "If you _________, I'll tell Jagger that we need time to think it over.\n\n A. want\n\n B. are wanting\n\n C. will want\n\n D. would want",
+    "answers": ["on", "up", "off", "in"],
+    "correctAnswer": "A",
+    "id": 43
+  },
+  {
+    "question": "When he ____________ that, he'll be a bit impatient.\n\n A. is hearing\n\n B. will hear\n\n C. would hear\n\n D. hears",
+    "answers": ["because", "since", "so", "as"],
+    "correctAnswer": "D",
+    "id": 44
+  },
+  {
+    "question": "'m sure that if I _____________ to him sweetly enough he'll hold on and not look elsewhere.\n\n A. am talking\n\n B. will talk\n\n C. talk\n\n D. would talk",
+    "answers": ["A. It’s quite OK.", "B. That’s right.", "C. I’d love to.", "D. You’re welcome."],
+    "correctAnswer": "C",
+    "id": 45
+  }],
+  "status": 0
+}, {
+  "id": 10,
+  "questions":
+  [{
+    "question": "If things are looking a bit dicey, I ____________ to you.\n\n A. get back\n\n B. will get back\n\n C. would get back\n\n D. am getting back",
+    "answers": ["A. Good fortune", "B. Good luck.", "C. Good outcome.", "D. Good success."],
+    "correctAnswer": "B",
+    "id": 46
+  },
+  {
+    "question": "So, if I _________________ from you, I'll assume everything is fine. \n\n A. don't hear\n\n B. hear\n\n C. am hearing\n\n D. won't hear",
+    "answers": ["succeeded", "begun", "finished", "changed"],
+    "correctAnswer": "B",
+    "id": 47
+  },
+  {
+    "question": "I'll only call you if I _______________ there is a problem.\n\n A. would think\n\n B. will think\n\n C. think\n\n D. am thinking",
+    "answers": ["location", "method", "culture", "network"],
+    "correctAnswer": "C",
+    "id": 48
+  },
+  {
+    "question": "If you (send)________ the letter today, it'll arrive tomorrow. \n Fru\n\n A. send\n\n B. are sending\n\n C. sent\n\n D. sends",
+    "answers": ["large quantity", "small quantity", "excess", "sufficiency"],
+    "correctAnswer": "A",
+    "id": 49
+  },
+  {
+    "question": "If you don't study, you (pass)______ the exam. \n\n A. pass\n\n B. will pass\n\n C. won't pass\n\n D. are passing",
+    "answers": ["decreased", "got dressed", "landed", "slowed down"],
+    "correctAnswer": "C",
+    "id": 50
+  }],
+  "status": 0
+}, {
+  "id": 11,
+  "questions":
+  [{
+    "question": "If it rains, we (stay)________ at home.\n\n A. stay\n\n B. will stay\n\n C. won't stay\n\n D. are staying",
+    "answers": ["A. rich", "B. old", "C. young", "D. poor"],
+    "correctAnswer": "C",
+    "id": 51
+  },
+  {
+    "question": " If it (be)_________ sunny, we'll go to the beach.\n\n A. is\n\n B. will be\n\n C. won't be\n\n D. should be",
+    "answers": ["A. utmost", "B. closely", "C. hardly", "D. almost"],
+    "correctAnswer": "A",
+    "id": 52
+  },
+  {
+    "question": "If that shop (be)________ closed, we'll go to another one.\n\n A. is\n\n B. will be\n\n C. won't be\n\n D. should be",
+    "answers": ["A. called", "B. calls", "C. was calling", "D. was called"],
+    "correctAnswer": "A",
+    "id": 53
+  },
+  {
+    "question": "If you (want)__________, we'll go to the park.\n\n A. want\n\n B. will want\n\n C. won't want\n\n D. are wanting",
+    "answers": ["A. famous", "B. popular", "C. good", "D. wonderful"],
+    "correctAnswer": "A",
+    "id": 54
+  },
+  {
+    "question": "If Adam (arrive)_______ late, his father will be upset.\n\n A. arrive\n\n B. will arrive\n\n C. won't arrive\n\n D. arrives",
+    "answers": ["A. workers", "B. drivers", "C. cowboys", "D. farmers"],
+    "correctAnswer": "D",
+    "id": 55
+  }],
+  "status": 0
+}, {
+  "id": 12,
+  "questions":
+  [{
+    "question": "If you work hard, you (get)___________ a bonus.\n\n A. get\n\n B. will get\n\n C. won't get\n\n D. are getting",
+    "answers": ["As", "Such as", "Like", "With"],
+    "correctAnswer": "B",
+    "id": 56
+  },
+  {
+    "question": "If it isn't expensive, I (buy)___________ two.\n\n A. buy\n\n B. will buy\n\n C. won't buy\n\n D. are buying",
+    "answers": ["have known", "knowing", "know", "knew"],
+    "correctAnswer": "B",
+    "id": 57
+  },
+  {
+    "question": "If you (call)____________ me, I won't answer the phone.\n\n A. call\n\n B. will call\n\n C. won't call\n\n D. are calling",
+    "answers": ["visiting", "visited", "will visit", "to visit"],
+    "correctAnswer": "A",
+    "id": 58
+  },
+  {
+    "question": "If you watch this film, you ________ about the cultures of Southeast Asian countries.\n\n A. learned\n\n B. were learning\n\n C. will learn\n\n D. would learn",
+    "answers": ["divided", "was divided", "is divided", "dividing"],
+    "correctAnswer": "C",
+    "id": 59
+  },
+  {
+    "question": "If you press that button what _____?\n\n A. would happen\n\n B. would have happenned\n\n C. will happen\n\n D. happen",
+    "answers": ["see", "have seen", "saw", "seeing"],
+    "correctAnswer": "C",
+    "id": 60
+  }],
+  "status": 0
+}, {
+  "id": 13,
+  "questions":
+  [{
+    "question": "Will you be angry if I _____ your pocket dictionary?\n\n A. stole\n\n B. have stolen\n\n C. were to steal\n\n D. steal",
+    "answers": ["in", "since", "at", "for"],
+    "correctAnswer": "D",
+    "id": 61
+  },
+  {
+    "question": "If she sells her BMW car, she ____ much money.\n\n A. gets\n\n B. would get\n\n C. will get\n\n D. would have got",
+    "answers": ["play", "plays", "playing", "played"],
+    "correctAnswer": "C",
+    "id": 62
+  },
+  {
+    "question": "If I find it, I ____ you.\n\n A. will tell\n\n B. would tell\n\n C. had told\n\n D. told",
+    "answers": ["grown", "grow", "grew", "to grow"],
+    "correctAnswer": "A",
+    "id": 63
+  },
+  {
+    "question": "If I go shopping, I ____ some vegetable and fruits.\n\n A. buy\n\n B. will buy\n\n C. would buy\n\n D. would have bought",
+    "answers": ["traditionalism", "traditionalist", "tradition", "traditonally"],
+    "correctAnswer": "B",
+    "id": 64
+  },
+  {
+    "question": "You’ll get sick if you _____ out.\n\n A. do\n\n B. did go\n\n C. went\n\n D. had gone",
+    "answers": ["fascist", "fashion", "fashionable", "fascination"],
+    "correctAnswer": "A",
+    "id": 65
+  }],
+  "status": 0
+}, {
+  "id": 14,
+  "questions":
+  [{
+    "question": "What will happen if you _____ to school tomorrow?\n\n A. didn't go\n\n B. don't go\n\n C. won't go\n\n D. wouldn't go",
+    "answers": ["modernized", "modern", "modernist", "modernization"],
+    "correctAnswer": "B",
+    "id": 66
+  },
+  {
+    "question": "If you can give me one more reason for your acting, __________this mistake again.\n\n A. I will never mention\n\n B. I never mention\n\n C. will I never mention\n\n D. I don't mention",
+    "answers": ["industry", "industrial", "industriousness", "industriously"],
+    "correctAnswer": "A",
+    "id": 67
+  },
+  {
+    "question": "Unless you __________ my questions, I can't help you.\n\n A. answered\n\n B. answer\n\n C. would answer\n\n D. are answering",
+    "answers": ["industry", "industrial", "industriousness", "industriously"],
+    "correctAnswer": "B",
+    "id": 68
+  },
+  {
+    "question": "If someone __________ into the boutique, smile and say, 'May I help you?'\n\n A. comes\n\n B. came\n\n C. come\n\n D. should come",
+    "answers": ["We have learnt English for three year", "We have learnt English for three years", "We learned English for three year", "We learned English for three years"],
+    "correctAnswer": "A",
+    "id": 69
+  },
+  {
+    "question": "'Here's my telephone number'. 'Thank you. I'll give you a call if I __________your help.'\n\n A. will need\n\n B. need\n\n C. would need\n\n D. needed",
+    "answers": ["industry", "industrial", "industriousness", "industriously"],
+    "correctAnswer": "B",
+    "id": 70
+  }],
+  "status": 0
+}, {
+  "id": 15,
+  "questions":
+  [{
+    "question": "The World War ______ in 1939 and ______ in 1945.\n\n A. begins/ends\n\n B. had begun/ended\n\n C. began/ended\n\n D. has began/ended",
+    "answers": ["industry", "industrial", "industriousness", "industriously"],
+    "correctAnswer": "C",
+    "id": 71
+  },
+  {
+    "question": "According to the research reports, people usually ______ in their sleep 25 to 30 times each night.\n\n A. turned\n\n B. turns\n\n C. is turning\n\n D. turn",
+    "answers": ["do not find", "has not found", "does not find", "have not found"],
+    "correctAnswer": "D",
+    "id": 72
+  },
+  {
+    "question": "John isn't 'content with' his present salary.\n\n A. excited about\n\n B. satisfied with\n\n C. disappointed at\n\n D. interested in",
+    "answers": ["will be rebuilt", "will rebuilt", "will rebuild", "is rebuilt"],
+    "correctAnswer": "B",
+    "id": 73
+  },
+  {
+    "question": "_____ is the subject that I like best.\n\n A. Biologist\n\n B. Biology\n\n C. Biological\n\n D. Biologic",
+    "answers": ["do not find", "has not found", "does not find", "have not found"],
+    "correctAnswer": "B",
+    "id": 74
+  },
+  {
+    "question": "The alarm 'goes off' at 5.00.  \n\n A. goes out\n\n B. goes away\n\n C. goes wrong\n\n D. rings",
+    "answers": ["do not find", "has not found", "does not find", "have not found"],
+    "correctAnswer": "D",
+    "id": 75
+  }],
+  "status": 0
+}, {
+  "id": 16,
+  "questions":
+  [{
+    "question": "Peter ______ game yesterday.\n\n A. didn't play\n\n B. wasn't play\n\n C. didn't played\n\n D. doesn't play",
+    "answers": ["do not find", "has not found", "does not find", "have not found"],
+    "correctAnswer": "A",
+    "id": 76
+  },
+  {
+    "question": "It _____ me fifteen minutes to get to school every morning.\n\n A. took\n\n B. is taking\n\n C. has taken\n\n D. takes",
+    "answers": ["pr'e'fer", "pr'e'pare", "'e'dge", "d'e'lete"],
+    "correctAnswer": "D",
+    "id": 77
+  },
+  {
+    "question": "Ba is an excellent student. He ______ gets bad mark.\n\n A. usually\n\n B. often\n\n C. never\n\n D. normally",
+    "answers": ["minimize", "remember", "deposit", "immediate"],
+    "correctAnswer": "C",
+    "id": 78
+  },
+  {
+    "question": "Harry works all the time. He ______.\n\n A. never relaxes\n\n B. relaxes never\n\n C. often relaxes\n\n D. relaxes sometimes",
+    "answers": ["jungle", "royal", "snorkel", "marine"],
+    "correctAnswer": "A",
+    "id": 79
+  },
+  {
+    "question": "Mr. Vy is a 'farmer'.\n\n A. peasants\n\n B. peasant\n\n C. peseant\n\n D. peseants",
+    "answers": ["exporting-coffee", "coffee-export", "export-coffee", "coffee-exporting"],
+    "correctAnswer": "B",
+    "id": 80
+  }],
+  "status": 0
+}, {
+  "id": 17,
+  "questions":
+  [{
+    "question": "The war __________(break) out three years ago.\n\n A. broke\n\n B. have broken\n\n C. were to break\n\n D. break",
+    "answers": ["ambulance", "victim", "doctor", "wound"],
+    "correctAnswer": "A",
+    "id": 81
+  },
+  {
+    "question": "He ________(write) a letter to his pen-friend every month.\n\n A. wrote\n\n B. write\n\n C. were to written\n\n D. writes",
+    "answers": ["of", "off", "out", "into"],
+    "correctAnswer": "D",
+    "id": 82
+  },
+  {
+    "question": "Why ____________ (you/ not/ come) yesterday?\n\n A. dont not you come\n\n B. are not you come\n\n C. did not you come\n\n D. should not you come",
+    "answers": ["so as", "in order not", "in order to", "so as not to"],
+    "correctAnswer": "C",
+    "id": 83
+  },
+  {
+    "question": "She _______(usually/ not/ play) cards but _________(watch) TV.\n\n A. do not usually play - watches\n\n B. do not usually play - watch\n\n C. does not usually play - watches\n\n D. does not usually play - watch",
+    "answers": ["engineer", "nurse", "florist", "teacher"],
+    "correctAnswer": "C",
+    "id": 84
+  },
+  {
+    "question": "Jack does not like ………….the dishes because he often ………things.\n\n A. to wash-break\n\n B. washing-break\n\n C. to wash-break\n\n D. washing - breaks",
+    "answers": ["didn’t", "don’t", "shouldn’t", "mustn’t"],
+    "correctAnswer": "D",
+    "id": 85
+  }],
+  "status": 0
+}, {
+  "id": 18,
+  "questions":
+  [{
+    "question": "People think that …….housework is a woman’s duty.\n\n A. doing\n\n B. working\n\n C. taking\n\n D. giving",
+    "answers": ["in", "over", "into", "on"],
+    "correctAnswer": "A",
+    "id": 86
+  },
+  {
+    "question": "Mary ……..out the rubbish at the moment.\n\n A. takes\n\n B. is taking\n\n C. took\n\n D. will take",
+    "answers": ["usually", "often", "always", "all time"],
+    "correctAnswer": "B",
+    "id": 87
+  },
+  {
+    "question": "I help my parents …………….the house at the weekend.\n\n A. clean\n\n B. to clean\n\n C. cleaning\n\n D. Both A & B",
+    "answers": ["wonder; cloudy", "wonderful; cloudy", "wonderful; cloud", "wonder; cloud"],
+    "correctAnswer": "D",
+    "id": 88
+  },
+  {
+    "question": "Her mother wants ….the freshest ingredients for their meals.\n\n A. to choose\n\n B. choosing\n\n C. choose\n\n D. to be chosen",
+    "answers": ["readed; rang", "readed; was ringing", "is reading; rang", "was reading; rang"],
+    "correctAnswer": "A",
+    "id": 89
+  },
+  {
+    "question": "I was tired when I got home. I (work) __________ all day.\n\n A. has been working\n\n B. have been working\n\n C. was working\n\n D. had been working",
+    "answers": ["was eating", "is eating", "was eaten", "ate"],
+    "correctAnswer": "D",
+    "id": 90
+  }],
+  "status": 0
+}, {
+  "id": 19,
+  "questions":
+  [{
+    "question": "I want to get married, but I (not meet) _____________ the right person yet.\n\n A. did not met\n\n B. did not meet\n\n C. have not met\n\n D. do not meet",
+    "answers": ["get", "gets", "is getting", "got"],
+    "correctAnswer": "C",
+    "id": 91
+  },
+  {
+    "question": "Why John (not/ want) __________ to play soccer last Sunday?\n\n A. did not John want\n\n B. do not John want\n\n C. do not John want\n\n D. did John not want",
+    "answers": ["naturally", "nature", "natural", "naturalness"],
+    "correctAnswer": "A",
+    "id": 92
+  },
+  {
+    "question": "The astronaut's clothes (make) ___________ from special materials.\n\n A. made\n\n B. have made\n\n C. were to make\n\n D. are made",
+    "answers": ["varying", "various", "vary", "varsity"],
+    "correctAnswer": "D",
+    "id": 93
+  },
+  {
+    "question": "We would have caught the last bus if we (leave) _________ the cinema five minutes earlier.\n\n A. left\n\n B. had left\n\n C. were to leave\n\n D. leave",
+    "answers": ["attracting", "attractive", "attract", "attractions"],
+    "correctAnswer": "B",
+    "id": 94
+  },
+  {
+    "question": "My new car is more __________ than the one I had before. (ECONOMY)\n\n A. economical\n\n B. economy\n\n C. economies\n\n D. economic",
+    "answers": ["sickness", "sic", "sick", "sibyl"],
+    "correctAnswer": "A",
+    "id": 95
+  }],
+  "status": 0
+}, {
+  "id": 20,
+  "questions":
+  [{
+    "question": "How many _____________ entered the race? (COMPETE)\n\n A. competitor\n\n B. competitors\n\n C. compete\n\n D. competitively",
+    "answers": ["skilful", "skillfully", "skill", "skilled"],
+    "correctAnswer": "B",
+    "id": 96
+  },
+  {
+    "question": "Housework has ___________ been regarded as women's work. (TRADITION)\n\n A. traditional\n\n B. traditionally\n\n C. tradition\n\n D. traditionalism",
+    "answers": ["expect", "practice", "know", "understand"],
+    "correctAnswer": "B",
+    "id": 97
+  },
+  {
+    "question": "Read the passage and choose the correct answer\n\nWhile couples without a clear or equal chore division may encounter quarrels over who does what, a recent survey finds the divorce rate among couples sharing chores equally is about fifty percent higher than those in which wives do more or most of the housework, which can be a slap in the face for gender equality.\n\nThe researchers explain that modern couples organize their marriage and work out the tasks and duties, which may gradually turn their marriage into a business or contractual relationship. The woman may gradually feel less needed or happy and what's worse is that no one would care to help if something is not among their assigned chores. That seems to encourage conflicts rather than conflict resolution skills.\n\nOn the contrary, in families without equal task division women tend to be responsible for more chores than men. While they believe they can exchange their roles for their husbands', many women believe they are most naturally suited for certain tasks. They simply enjoy being involved in their children's activities, which means more chores for them. This group of women also report more marital satisfaction.\n\nThe survey also aimed to find out whether women's were happier if men shared more of the burden. In fact, they find that men report fewer family conflicts and greater well-being while women appear to be largely unmoved. This may be partly because they feel less guilty or simply learn how to have a quiet life.\n\n What may turn marriage into a contractual relationship?\n\n A. Too much housework\n\n B. The way couples organize their families and the clear-cut chore division\n\n C. Task and duties that are unclearly assigned\n\n D. Both A & B",
+    "answers": ["needs", "has needed", "needed", "is needing"],
+    "correctAnswer": "B",
+    "id": 98
+  },
+  {
+    "question": "Read the passage and choose the correct answer\n\nWhile couples without a clear or equal chore division may encounter quarrels over who does what, a recent survey finds the divorce rate among couples sharing chores equally is about fifty percent higher than those in which wives do more or most of the housework, which can be a slap in the face for gender equality.\n\nThe researchers explain that modern couples organize their marriage and work out the tasks and duties, which may gradually turn their marriage into a business or contractual relationship. The woman may gradually feel less needed or happy and what's worse is that no one would care to help if something is not among their assigned chores. That seems to encourage conflicts rather than conflict resolution skills.\n\nOn the contrary, in families without equal task division women tend to be responsible for more chores than men. While they believe they can exchange their roles for their husbands', many women believe they are most naturally suited for certain tasks. They simply enjoy being involved in their children's activities, which means more chores for them. This group of women also report more marital satisfaction.\n\nThe survey also aimed to find out whether women's were happier if men shared more of the burden. In fact, they find that men report fewer family conflicts and greater well-being while women appear to be largely unmoved. This may be partly because they feel less guilty or simply learn how to have a quiet life.\n\n What does it mean by 'unmoved'?\n\n A. happy\n\n B. disappointed\n\n C. unshaken\n\n D. Both A & B",
+    "answers": ["join", "link", "gather", "consist"],
+    "correctAnswer": "C",
+    "id": 99
+  },
+  {
+    "question": "I (be)___ a student in Moloxop School in 1998.\n\n A. was\n\n B. were\n\n C. to be\n\n D. to was",
+    "answers": ["sang", "danced", "mentioned", "spoken"],
+    "correctAnswer": "A",
+    "id": 100
+  }],
+  "status": 0
+}]
