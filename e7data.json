@@ -1,0 +1,1328 @@
+[{
+  "id": 1,
+  "questions":
+  [{
+    "question": "Turn the TV off. The show is ……",
+    "answers": ["exciting", "peaceful", "tiring", "boring"],
+    "correctAnswer": "boring",
+    "id": 1
+  },
+    {
+      "question": "What are you doing with all that ingredients, Giang? - I am trying my best to …… a kind of traditional food.",
+      "answers": ["cook", "play", "lend", "agree"],
+      "correctAnswer": "cook",
+      "id": 2
+    },
+    {
+      "question": "She got … nice photos of our classmates",
+      "answers": ["a", "an", "some", "any"],
+      "correctAnswer": "some",
+      "id": 3
+    },
+    {
+      "question": "Mozart was one of the famous……………….of classical music.",
+      "answers": ["actors", "composers", "artists", "makers"],
+      "correctAnswer": "composers",
+      "id": 4
+    },
+    {
+      "question": "His daughter wants to become a well-known … but she has no talent at all.",
+      "answers": ["act", "actor", "actress", "action"],
+      "correctAnswer": "actress",
+      "id": 5
+    }],
+  "status": 0
+}, {
+  "id": 2,
+  "questions":
+  [{
+    "question": "I haven’t got … bread left for lunch",
+    "answers": ["a", "an", "some", "any"],
+    "correctAnswer": "any",
+    "id": 6
+  },
+    {
+      "question": "An: I don’t like the newest song of Son Tung - Mai: I don’t like it, …",
+      "answers": ["too", "so", "either", "neither"],
+      "correctAnswer": "either",
+      "id": 7
+    },
+    {
+      "question": "I like eating omelette so much. - I do …",
+      "answers": ["too", "so", "either", "neither"],
+      "correctAnswer": "too",
+      "id": 8
+    },
+    {
+      "question": "How .... is it from your house to school ? One kilometer.",
+      "answers": ["long", "distance", "far", "tall"],
+      "correctAnswer": "far",
+      "id": 9
+    },
+    {
+      "question": "Nhat .... 9 on his next birthday.",
+      "answers": ["is", "will", "will be", "are"],
+      "correctAnswer": "is",
+      "id": 10
+    }],
+  "status": 0
+}, {
+  "id": 3,
+  "questions":
+  [{
+    "question": "What … colorful picture!",
+    "answers": ["a", "an", "the", "this"],
+    "correctAnswer": "a",
+    "id": 11
+  },
+    {
+      "question": "He works .... the farm.",
+      "answers": ["on", "in", "at", "to"],
+      "correctAnswer": "on",
+      "id": 12
+    },
+    {
+      "question": "… is your telephone number ? ",
+      "answers": ["When", "Which", "What", "Where"],
+      "correctAnswer": "What",
+      "id": 13
+    },
+    {
+      "question": "Her birthday is … Friday, August 20th.",
+      "answers": ["at", "on", "in", "of"],
+      "correctAnswer": "on",
+      "id": 14
+    },
+    {
+      "question": "He writes articles for a newspaper. He is …",
+      "answers": ["a journalist", "a teacher", "a nurse", "a doctor"],
+      "correctAnswer": "a journalist",
+      "id": 15
+    }],
+  "status": 0
+}, {
+  "id": 4,
+  "questions":
+  [{
+    "question": "My father always … in the evening.",
+    "answers": ["watch", "watchs", "watches", "is watching"],
+    "correctAnswer": "watch",
+    "id": 16
+  },
+    {
+      "question": "Ha Noi is a big city, but it is … than Ho chi Minh city.",
+      "answers": ["the smaller", "smaller", "smallest", "small"],
+      "correctAnswer": "smaller",
+      "id": 17
+    },
+    {
+      "question": "My father takes care .... sick children.",
+      "answers": ["about", "at", "of", "on"],
+      "correctAnswer": "of",
+      "id": 18
+    },
+    {
+      "question": "People in the countryside have less stress, … they usually live longer.",
+      "answers": ["so", "and", "but", "or"],
+      "correctAnswer": "so",
+      "id": 19
+    },
+    {
+      "question": "Vietnamese has some kinds of traditional …… such as “Cheo” or “Cai luong”.",
+      "answers": ["music", "opera", "play", "instrument"],
+      "correctAnswer": "music",
+      "id": 20
+    }],
+  "status": 0
+}, {
+  "id": 5,
+  "questions":
+  [{
+    "question": "A: “This weekend I’m going to the orphanage to teach the children there.” B: “I … you.”",
+    "answers": ["am going join", "join", "will join", "have joined"],
+    "correctAnswer": "join",
+    "id": 21
+  },
+    {
+      "question": "You’ll become healthier if you consume … soft drinks.",
+      "answers": ["much", "fewer", "more", "less"],
+      "correctAnswer": "less",
+      "id": 22
+    },
+    {
+      "question": "Last Sunday, Tuan participated in …… funds for street children.",
+      "answers": ["making", "taking", "raising", "gathering"],
+      "correctAnswer": "raising",
+      "id": 23
+    },
+    {
+      "question": "The film was so boring. ……, Jack saw it from the beginning to the end.",
+      "answers": ["Therefore", "However", "Although", "Despite"],
+      "correctAnswer": "However",
+      "id": 24
+    },
+    {
+      "question": "According to the report, many road users don’t …… traffic rules.",
+      "answers": ["obey", "obeying", "to obey", "obeyed"],
+      "correctAnswer": "obey",
+      "id": 25
+    }],
+  "status": 0
+}, {
+  "id": 6,
+  "questions":
+  [{
+    "question": "I used to ride my bike to school …… I was small.",
+    "answers": ["where", "because", "when", "although"],
+    "correctAnswer": "when",
+    "id": 26
+  },
+    {
+      "question": "My father …… the bus to work every day, but I cycle.",
+      "answers": ["catches", "drives", "goes", "runs"],
+      "correctAnswer": "catches",
+      "id": 27
+    },
+    {
+      "question": "Minh ….English for 7 years.",
+      "answers": ["was learnt", "have learnt", "is learnt", "has learnt"],
+      "correctAnswer": "has learnt",
+      "id": 28
+    },
+    {
+      "question": "…… about 5kilometers from my house to the nearest town.",
+      "answers": ["They’re", "It's", "There’re", "There’s"],
+      "correctAnswer": "It's",
+      "id": 29
+    },
+    {
+      "question": "Look! The bus ………",
+      "answers": ["came", "come", "is coming", "comes"],
+      "correctAnswer": "is coming",
+      "id": 30
+    }],
+  "status": 0
+}, {
+  "id": 7,
+  "questions":
+  [{
+    "question": "Her parents still live there .......... her grandparents.",
+    "answers": ["for", "at", "with", "on"],
+    "correctAnswer": "with",
+    "id": 31
+  },
+    {
+      "question": "Lan is ............ than Hoa",
+      "answers": ["tallest", "tall", "taller", "more tall"],
+      "correctAnswer": "taller",
+      "id": 32
+    },
+    {
+      "question": "... do you live?",
+      "answers": ["Who", "What", "Which", "Where"],
+      "correctAnswer": "Where",
+      "id": 33
+    },
+    {
+      "question": "......... are you talking to?",
+      "answers": ["Who", "What", "Which", "Where"],
+      "correctAnswer": "Who",
+      "id": 34
+    },
+    {
+      "question": "What ................. your telephone number?",
+      "answers": ["is", "are", "does", "do"],
+      "correctAnswer": "is",
+      "id": 35
+    }],
+  "status": 0
+}, {
+  "id": 8,
+  "questions":
+  [{
+    "question": "Nga lives ............. 52 Nguyen Hue Street.",
+    "answers": ["on", "in", "at", "under"],
+    "correctAnswer": "at",
+    "id": 36
+  },
+    {
+      "question": "Tomorrow my family ...................... to Ho Chi Minh City.",
+      "answers": ["is", "is going to go", "is going", "goes"],
+      "correctAnswer": "is going to go",
+      "id": 37
+    },
+    {
+      "question": "My mother takes care ............... sick children.",
+      "answers": ["about", "in", "at", "of"],
+      "correctAnswer": "of",
+      "id": 38
+    },
+    {
+      "question": "He works ................ the farm.",
+      "answers": ["on", "in", "about", "at"],
+      "correctAnswer": "on",
+      "id": 39
+    },
+    {
+      "question": "Are there .......... pens on the table? Yes, there are.",
+      "answers": ["any", "some", "much", "a"],
+      "correctAnswer": "any",
+      "id": 40
+    }],
+  "status": 0
+}, {
+  "id": 9,
+  "questions":
+  [{
+    "question": ".................... a beautiful day!",
+    "answers": ["It", "Which", "Where", "What"],
+    "correctAnswer": "What",
+    "id": 41
+  },
+    {
+      "question": "My birthday is....................June eighth.",
+      "answers": ["on", "in", "at", "in front of"],
+      "correctAnswer": "on",
+      "id": 42
+    },
+    {
+      "question": "I live..............Gio Quang.",
+      "answers": ["on", "in", "at", "in front of"],
+      "correctAnswer": "in",
+      "id": 43
+    },
+    {
+      "question": "I get up................6 o’clock every day.",
+      "answers": ["on", "in", "at", "in front of"],
+      "correctAnswer": "at",
+      "id": 44
+    },
+    {
+      "question": "My house is.............................a lake.",
+      "answers": ["on", "in", "at", "in front of"],
+      "correctAnswer": "in front of",
+      "id": 45
+    }],
+  "status": 0
+}, {
+  "id": 10,
+  "questions":
+  [{
+    "question": "Choose the correct form of the verbs \n My aunt Thuy (live) ................ (1) in Ha Dong.",
+    "answers": ["live", "lives", "lived", "is living"],
+    "correctAnswer": "lives",
+    "id": 46
+  },
+    {
+      "question": "Choose the correct form of the verbs \n She (work) .....................(2) in a hospital in the centre of Ha Noi.",
+      "answers": ["works", "work", "is working", "are working"],
+      "correctAnswer": "works",
+      "id": 47
+    },
+    {
+      "question": "Choose the correct form of the verbs \n Every morning, she (catch) ..................(3) a bus to her hospital.",
+      "answers": ["catch", "is catching", "will catch", "catches"],
+      "correctAnswer": "catches",
+      "id": 48
+    },
+    {
+      "question": "Choose the correct form of the verbs \n Her work is (take) .................(4) care of sick children.",
+      "answers": ["taked", "take", "takes", "taking"],
+      "correctAnswer": "taking",
+      "id": 49
+    },
+    {
+      "question": "Choose the correct form of the verbs \n She (love) .................(5) the children.",
+      "answers": ["love", "is loving", "will love", "loves"],
+      "correctAnswer": "loves",
+      "id": 50
+    }],
+  "status": 0
+}, {
+  "id": 11,
+  "questions":
+  [{
+    "question": "Choose the correct form of the verbs \n She always (say) ............(6) that children (be) ............(7) very lovely.",
+    "answers": ["say/is", "says/is", "says/are", "say/are"],
+    "correctAnswer": "says/is",
+    "id": 51
+  },
+    {
+      "question": "Choose the correct form of the verbs \n Now she (do) ........................(8) her job with great pleasure.",
+      "answers": ["are doing", "do", "does", "is doing"],
+      "correctAnswer": "is doing",
+      "id": 52
+    },
+    {
+      "question": "Choose the correct form of the verbs \n But next year she (go).............(9) to Ho Chi Minh City with her husband.",
+      "answers": ["go", "goes", "will go", "is going"],
+      "correctAnswer": "will go",
+      "id": 53
+    },
+    {
+      "question": "Choose the correct form of the verbs \n She (be)..................(10) very unhappy",
+      "answers": ["is", "are", "be", "am"],
+      "correctAnswer": "is",
+      "id": 54
+    },
+    {
+      "question": "........... does your father do?",
+      "answers": ["When", "Which", "Where", "What"],
+      "correctAnswer": "What",
+      "id": 55
+    }],
+  "status": 0
+}, {
+  "id": 12,
+  "questions":
+  [{
+    "question": "Jim thinks arranging flowers is more boring than __________ stamps",
+    "answers": ["buying", "swimming", "collecting", "writing"],
+    "correctAnswer": "collecting",
+    "id": 56
+  },
+    {
+      "question": "They ___________ trees in public areas recently",
+      "answers": ["plant", "planted", "have planted", "will plant"],
+      "correctAnswer": "have planted",
+      "id": 57
+    },
+    {
+      "question": "My brother doesn’t like ice-skating because he think it is ___________.",
+      "answers": ["danger", "in danger", "dangerous", "endangered"],
+      "correctAnswer": "dangerous",
+      "id": 58
+    },
+    {
+      "question": "You need to be ____________ to follow eggshell carving because it may take two weeks to complete one shell",
+      "answers": ["careful", "interested", "fit", "patient"],
+      "correctAnswer": "patient",
+      "id": 59
+    },
+    {
+      "question": "Do more exercise ___________eat more fruit and vegetables",
+      "answers": ["but", "or", "and", "so"],
+      "correctAnswer": "and",
+      "id": 60
+    }],
+  "status": 0
+}, {
+  "id": 13,
+  "questions":
+  [{
+    "question": "Watching too much television is not good ____________ you and your eyes",
+    "answers": ["with", "to", "at", "for"],
+    "correctAnswer": "for",
+    "id": 61
+  },
+    {
+      "question": "When you have flu, you may have a cough and a _________ nose",
+      "answers": ["runny", "running", "flowing", "noisy"],
+      "correctAnswer": "runny",
+      "id": 62
+    },
+    {
+      "question": "Find a mistake in each sentence \n I find carve (A) eggshells (B) boring (C) because it takes (D) a lot of time to complete one shell",
+      "answers": ["A", "B", "C", "D"],
+      "correctAnswer": "A",
+      "id": 63
+    },
+    {
+      "question": "Find a mistake in each sentence \n Would (A) you like seeing (B) a (C) movie with (D) me tonight?",
+      "answers": ["A", "B", "C", "D"],
+      "correctAnswer": "B",
+      "id": 64
+    },
+    {
+      "question": "Choose the word or phrase that is CLOSET in meaning to the 'words' part in each sentence \n He often eats fatty food, so he has 'put on' a lot of weight recently",
+      "answers": ["controlled", "decreased", "lost", "gained"],
+      "correctAnswer": "gained",
+      "id": 65
+    }],
+  "status": 0
+}, {
+  "id": 14,
+  "questions":
+  [{
+    "question": "Choose the word or phrase that is CLOSET in meaning to the 'words' part in each sentence \n 'Solving that math problem was a piece of cake to me. I just needed two minutes'",
+    "answers": ["very hard", "very cheap", "very delicious", "very easy"],
+    "correctAnswer": "very easy",
+    "id": 66
+  },
+    {
+      "question": "Choose the word or phrase that is OPPOSITE in meaning to the <word> part in each sentence \n It’s quite <different> to be there in person",
+      "answers": ["interesting", "similar", "fantastic", "happy"],
+      "correctAnswer": "similar",
+      "id": 67
+    },
+    {
+      "question": "Choose the word or phrase that is OPPOSITE in meaning to the <word> part in each sentence \n I had flu two weeks ago. I felt so <weak> .",
+      "answers": ["tired", "sick", "awake", "strong"],
+      "correctAnswer": "strong",
+      "id": 68
+    },
+    {
+      "question": "Each year volunteers from England work abroad: teachers, nurses, engineers, and people with special skills. They do not go for money. Volunteers from Voluntary Service Overseas (VSO) receive the (17)__________ pay as a local colleague.",
+      "answers": ["like", "same", "similar", "average"],
+      "correctAnswer": "same",
+      "id": 69
+    },
+    {
+      "question": "VSO first (18) __________ in 1958 when 14 young school leavers went away for a year.",
+      "answers": ["was starting", "has started", "started", "starts"],
+      "correctAnswer": "started",
+      "id": 70
+    }],
+  "status": 0
+}, {
+  "id": 15,
+  "questions":
+  [{
+    "question": "Only three years later there were 176 volunteers in 25 different countries, and ten years later there were 15,000 volunteers. At first, almost everyone (19)__________young, and without very much experience. ",
+    "answers": ["was", "is", "were", "are"],
+    "correctAnswer": "was",
+    "id": 71
+  },
+    {
+      "question": "Now more than 20,000 people from England have worked abroad as volunteers, some are young, (20)__________are old.",
+      "answers": ["other", "another", "the other", "others"],
+      "correctAnswer": "others",
+      "id": 72
+    },
+    {
+      "question": "Abroad they live simply with the local people, and they return (21)__________ England with great understanding of other people in other parts of the world.",
+      "answers": ["in", "to", "at", "for"],
+      "correctAnswer": "to",
+      "id": 73
+    },
+    {
+      "question": "Choose the sentence that has the same meaning as the first. \n You should clean this room every day.",
+      "answers": ["This room should be cleaned every day.", "This room should been cleaned every day.", "This room should clean every day.", "This room should be clean every day."],
+      "correctAnswer": "This room should be cleaned every day.",
+      "id": 74
+    },
+    {
+      "question": "Choose the sentence that has the same meaning as the first. \n People must not leave bicycles in the hall.",
+      "answers": ["Bicycles must not be left in the hall.", "Bicycles in the hall must not being left.", "Bicycles in the hall must not left.", "Bicycles must been not left in the hall."],
+      "correctAnswer": "Bicycles must not be left in the hall.",
+      "id": 75
+    }],
+  "status": 0
+}, {
+  "id": 16,
+  "questions":
+  [{
+    "question": "Choose the sentence that has the same meaning as the first. \n They cancelled all flights because of fog.",
+    "answers": ["All flights was cancelled by them because of fog.", "All flights because of fog were cancelled.", "All flights were because of fog cancelled.", "All flights were cancelled because of fog."],
+    "correctAnswer": "All flights were cancelled because of fog.",
+    "id": 76
+  },
+    {
+      "question": "Choose the sentence that has the same meaning as the first. \n People should send their complaints to the head office.",
+      "answers": ["Complaints should be send to the head office by people.", "Complaints should be sent to the head office.", "Their complaints should send to the head office by people.", "Their complaints to the head office should be sent."],
+      "correctAnswer": "Complaints should be sent to the head office.",
+      "id": 77
+    },
+    {
+      "question": "Choose the word which is pronounced differently from the others \n  a. t'oo'k b. sch'oo'l c. f'oo'd d. ch'oo'se",
+      "answers": ["a", "b", "c", "d"],
+      "correctAnswer": "a",
+      "id": 78
+    },
+    {
+      "question": "Choose the word which is pronounced differently from the others \n  a. pl'ea'se b. pl'ea'sure c. 'ea'sy d. t'ea'cher",
+      "answers": ["a", "b", "c", "d"],
+      "correctAnswer": "b",
+      "id": 79
+    },
+    {
+      "question": "Choose the word which is pronounced differently from the others \n  a. 'wh'at b. 'wh'o c. 'wh'ere d. 'wh'en",
+      "answers": ["a", "b", "c", "d"],
+      "correctAnswer": "b",
+      "id": 80
+    }],
+  "status": 0
+}, {
+  "id": 17,
+  "questions":
+  [{
+    "question": "Choose the word which is pronounced differently from the others \n  a. 'h'at b. 'h'ouse c. 'h'our d. 'h'ang",
+    "answers": ["a", "b", "c", "d"],
+    "correctAnswer": "c",
+    "id": 81
+  },
+    {
+      "question": "...................... does Lan have science class?",
+      "answers": ["When", "What time", "How long", "Who"],
+      "correctAnswer": "When",
+      "id": 82
+    },
+    {
+      "question": "History is ............. interesting and important subject",
+      "answers": ["a", "an", "the", "very"],
+      "correctAnswer": "an",
+      "id": 83
+    },
+    {
+      "question": "Children should ........ to bed early.",
+      "answers": ["to go", "go", "going", "went"],
+      "correctAnswer": "go",
+      "id": 84
+    },
+    {
+      "question": "Lan ............... reading books",
+      "answers": ["are", "is", "am", "will be"],
+      "correctAnswer": "is",
+      "id": 85
+    }],
+  "status": 0
+}, {
+  "id": 18,
+  "questions":
+  [{
+    "question": "............. don't you come to my house? OK. Let's go",
+    "answers": ["What", "How about", "Why", "Where"],
+    "correctAnswer": "Why",
+    "id": 86
+  },
+    {
+      "question": "Blind man's bluff is a ..........................",
+      "answers": ["exercise", "game", "example", "video"],
+      "correctAnswer": "game",
+      "id": 87
+    },
+    {
+      "question": "........... are you doing?",
+      "answers": ["What", "Who", "When", "Where"],
+      "correctAnswer": "What",
+      "id": 88
+    },
+    {
+      "question": "Would you like ..................... badminton?",
+      "answers": ["play", "playing", "to play", "played"],
+      "correctAnswer": "to play",
+      "id": 89
+    },
+    {
+      "question": "Does Nam play marbles .................... recess?",
+      "answers": ["on", "at", "in", "under"],
+      "correctAnswer": "at",
+      "id": 90
+    }],
+  "status": 0
+}, {
+  "id": 19,
+  "questions":
+  [{
+    "question": "Mai learns ............. to use computer",
+    "answers": ["how", "when", "what", "where"],
+    "correctAnswer": "how",
+    "id": 91
+  },
+    {
+      "question": "I am .............. my Math homework",
+      "answers": ["do", "doing", "to do", "going to do"],
+      "correctAnswer": "doing",
+      "id": 92
+    },
+    {
+      "question": "Jane is ..... beautiful than Hoa",
+      "answers": ["more", "the most", "fewer", "the fewer"],
+      "correctAnswer": "more",
+      "id": 93
+    },
+    {
+      "question": "Hello, my name 's Lan. I'm a student in grade 7 . I go to school 6 days a week. What grade is Lan in?",
+      "answers": ["grade 6", "grade 7", "grade 8", "grade 9"],
+      "correctAnswer": "grade 7",
+      "id": 94
+    },
+    {
+      "question": "I go to school 6 days a week. I often walk to school. My classes start at 6:45 and finish at 11: 15. How does she often go to school?",
+      "answers": ["2 days a week", "3 days a week", "7 days a week", "6 days a week"],
+      "correctAnswer": "6 days a week",
+      "id": 95
+    }],
+  "status": 0
+}, {
+  "id": 20,
+  "questions":
+  [{
+    "question": "My favorite subject is English. But I don't like Math because it's difficult. At recess, I usually chat with my friends, sometimes I play skipping rope or eat some snacks. Does Lan never eat at recess?",
+    "answers": ["yes, she does", "yes, she do", "no, she does", "no, she doesn't"],
+    "correctAnswer": "no, she doesn't",
+    "id": 96
+  },
+    {
+      "question": "At recess, I usually chat with my friends, sometimes I play skipping rope or eat some snacks. I like to go fishing with my father after school. What does Lan do after school?",
+      "answers": ["go fishing", "go to bed", "play game", "jogging"],
+      "correctAnswer": "go fishing",
+      "id": 97
+    },
+    {
+      "question": "Put the verb in correct tense \n He (travel) to work by car.",
+      "answers": ["traveled", "is traveling", "travel", "travels"],
+      "correctAnswer": "travels",
+      "id": 98
+    },
+    {
+      "question": "Put the verb in correct tense \n The children (play) soccer at the moment.",
+      "answers": ["played", "play", "are playing", "is playing"],
+      "correctAnswer": "are playing",
+      "id": 99
+    },
+    {
+      "question": "Put the verb in correct tense \n She (not do ) her housework every afternoon.",
+      "answers": ["don't do", "doesn't do", "doesn't", "don't"],
+      "correctAnswer": "doesn't do",
+      "id": 100
+    }],
+  "status": 0
+}, {
+  "id": 21,
+  "questions":
+  [{
+    "question": "Choose the word whose quoted part is pronounced differently.",
+    "answers": ["c'o'me", "m'o'ney", "n'o'tebook", "M'o'nday"],
+    "correctAnswer": "n'o'tebook",
+    "id": 101
+  },
+    {
+      "question": "Choose the word whose quoted part is pronounced differently.",
+      "answers": ["c'ou'ple", "th'ou'gh", "s'ou'l", "elb'ow'"],
+      "correctAnswer": "c'ou'ple",
+      "id": 102
+    },
+    {
+      "question": "Choose the word whose quoted part is pronounced differently.",
+      "answers": ["se'v'en", "'v'owel'", "'v'ery'", "'f'oot'"],
+      "correctAnswer": "'f'oot'",
+      "id": 103
+    },
+    {
+      "question": "Choose the odd one out.",
+      "answers": ["friend", "parent", "uncle", "aunt"],
+      "correctAnswer": "friend",
+      "id": 104
+    },
+    {
+      "question": "Choose the odd one out.",
+      "answers": ["small", "big", "old", "meet"],
+      "correctAnswer": "meet",
+      "id": 105
+    }],
+  "status": 0
+}, {
+  "id": 22,
+  "questions":
+  [{
+    "question": "Choose the odd one out.",
+    "answers": ["school", "classmate", "theater", "market"],
+    "correctAnswer": "classmate",
+    "id": 106
+  },
+    {
+      "question": "Do volunteers often spend time helping other people in ___________, orphanages or homes for the aged.",
+      "answers": ["capitals", "markets", "schools", "hospitals"],
+      "correctAnswer": "hospitals",
+      "id": 107
+    },
+    {
+      "question": "Substitutes for the quoted word or phrase. \nWe are helping the poor people in the 'remote' areas.",
+      "answers": ["faraway", "nearby", "small", "difficult"],
+      "correctAnswer": "faraway",
+      "id": 108
+    },
+    {
+      "question": "During summer vacations, we teach children in ___________ areas how to read and write.",
+      "answers": ["mountain", "urban", "mountainous", "suburb"],
+      "correctAnswer": "mountainous",
+      "id": 109
+    },
+    {
+      "question": "What kind of ___________ work are you participating in?",
+      "answers": ["voluntarily", "volunteer", "voluntary", "volunteerism"],
+      "correctAnswer": "voluntary",
+      "id": 110
+    }],
+  "status": 0
+}, {
+  "id": 23,
+  "questions":
+  [{
+    "question": "People who are not in good health are ___________ people.",
+    "answers": ["elderly", "homeless", "rich", "sick"],
+    "correctAnswer": "sick",
+    "id": 111
+  },
+    {
+      "question": "I was absent ___________ class yesterday.",
+      "answers": ["in", "of", "from", "at"],
+      "correctAnswer": "from",
+      "id": 112
+    },
+    {
+      "question": "He was delighted ___________ the present you gave him.",
+      "answers": ["in", "to", "for", "with"],
+      "correctAnswer": "with",
+      "id": 113
+    },
+    {
+      "question": "It is very kind ___________ you to help them.",
+      "answers": ["of", "in", "about", "to"],
+      "correctAnswer": "of",
+      "id": 114
+    },
+    {
+      "question": "It is difficult ___________ handicapped children to study with other children.",
+      "answers": ["to", "for", "on", "from"],
+      "correctAnswer": "for",
+      "id": 116
+    }],
+  "status": 0
+}, {
+  "id": 24,
+  "questions":
+  [{
+    "question": "I'm very grateful ___________ her for her help.",
+    "answers": ["on", "of", "about", "to"],
+    "correctAnswer": "to",
+    "id": 117
+  },
+    {
+      "question": "Five years ago, Will Slade read about ______ organization called Earthwatch.",
+      "answers": ["a", "the", "an", "some"],
+      "correctAnswer": "an",
+      "id": 118
+    },
+    {
+      "question": "Earthwatch finds volunteers ______ expeditions",
+      "answers": ["to", "for", "at", "on"],
+      "correctAnswer": "for",
+      "id": 119
+    },
+    {
+      "question": "Earthwatch finds volunteers for expeditions ______ and explore different parts of the world.",
+      "answers": ["studying", "studied", "study", "to study"],
+      "correctAnswer": "to study",
+      "id": 110
+    },
+    {
+      "question": "Will decided ______ an expedition to study elephants in Africa.",
+      "answers": ["to join", "join", "joining", "joined"],
+      "correctAnswer": "to join",
+      "id": 120
+    }],
+  "status": 0
+}, {
+  "id": 25,
+  "questions":
+  [{
+    "question": "We slept ______ tents and we cooked our own food",
+    "answers": ["on", "in", "at", "under"],
+    "correctAnswer": "in",
+    "id": 121
+  },
+    {
+      "question": "We cooked our own food, but it was the great ______ elephants and all the other animals there",
+      "answers": ["see", "saw", "seeing", "to see"],
+      "correctAnswer": "to see",
+      "id": 122
+    },
+    {
+      "question": "I've ______ all the expeditions, and I have seen some fantastic places.",
+      "answers": ["enjoyed", "enjoy", "enjoying", "to enjoy"],
+      "correctAnswer": "enjoyed",
+      "id": 123
+    },
+    {
+      "question": "How ______ people have slept ______ a beach, climbed a mountain, or see a whale?",
+      "answers": ["much/in", "many/on", "far/to", "long/above"],
+      "correctAnswer": "many/on",
+      "id": 124
+    },
+    {
+      "question": "We have to learn more ______ it if we are going to save it.",
+      "answers": ["at", "in", "of", "about"],
+      "correctAnswer": "about",
+      "id": 125
+    }],
+  "status": 0
+},
+{
+  "id": 26,
+  "questions": [
+    {
+      "question": "What is the meaning of the word 'ubiquitous'?",
+      "answers": ["rare", "everywhere", "absent", "unique"],
+      "correctAnswer": "everywhere",
+      "id": 126
+    },
+    {
+      "question": "Which sentence uses the correct form of 'their'?",
+      "answers": ["Their going to the park.", "They're dog is cute.", "Their house is big.", "There car is new."],
+      "correctAnswer": "Their house is big.",
+      "id": 127
+    },
+    {
+      "question": "What is the correct comparative form of 'good'?",
+      "answers": ["gooder", "better", "best", "more good"],
+      "correctAnswer": "better",
+      "id": 128
+    },
+    {
+      "question": "Which sentence is in the passive voice?",
+      "answers": ["The cat chased the mouse.", "The mouse was chased by the cat.", "The dog barked loudly.", "The bird sang a song."],
+      "correctAnswer": "The mouse was chased by the cat.",
+      "id": 129
+    },
+    {
+      "question": "Which word is a synonym for 'elated'?",
+      "answers": ["sad", "happy", "angry", "confused"],
+      "correctAnswer": "happy",
+      "id": 130
+    }
+  ],
+  "status": 0
+},{
+  "id": 27,
+  "questions": [
+    {
+      "question": "What is the opposite of 'intricate'?",
+      "answers": ["complex", "simple", "detailed", "complicated"],
+      "correctAnswer": "simple",
+      "id": 131
+    },
+    {
+      "question": "Choose the correct word to complete the sentence:\nShe __________ the marathon in record time.",
+      "answers": ["run", "ran", "running", "runs"],
+      "correctAnswer": "ran",
+      "id": 132
+    },
+    {
+      "question": "What is the past participle of 'see'?",
+      "answers": ["seen", "saw", "seeing", "sees"],
+      "correctAnswer": "seen",
+      "id": 133
+    },
+    {
+      "question": "Which of the following is a coordinating conjunction?",
+      "answers": ["because", "although", "and", "if"],
+      "correctAnswer": "and",
+      "id": 134
+    },
+    {
+      "question": "What is the main idea of a paragraph?",
+      "answers": ["The first sentence", "The last sentence", "The central point", "The title"],
+      "correctAnswer": "The central point",
+      "id": 135
+    }
+  ],
+  "status": 0
+},{
+  "id": 28,
+  "questions": [
+    {
+      "question": "Which sentence is written in the future tense?",
+      "answers": ["I will go to the store.", "I am going to the store.", "I went to the store.", "I go to the store."],
+      "correctAnswer": "I will go to the store.",
+      "id": 136
+    },
+    {
+      "question": "What is an antonym for 'frugal'?",
+      "answers": ["generous", "thrifty", "cheap", "stingy"],
+      "correctAnswer": "generous",
+      "id": 137
+    },
+    {
+      "question": "Which word correctly completes the sentence:\nThe cake was divided __________ the three children.",
+      "answers": ["between", "among", "with", "for"],
+      "correctAnswer": "among",
+      "id": 138
+    },
+    {
+      "question": "What is the function of an adverb in a sentence?",
+      "answers": ["To describe a noun", "To describe a verb", "To connect clauses", "To replace a noun"],
+      "correctAnswer": "To describe a verb",
+      "id": 139
+    },
+    {
+      "question": "Which of the following is a compound sentence?",
+      "answers": ["I went to the park.", "She likes apples and oranges.", "He ran fast, but she ran faster.", "They are playing."],
+      "correctAnswer": "He ran fast, but she ran faster.",
+      "id": 140
+    }
+  ],
+  "status": 0
+},{
+  "id": 29,
+  "questions": [
+    {
+      "question": "Which word is a synonym for 'conundrum'?",
+      "answers": ["solution", "puzzle", "answer", "decision"],
+      "correctAnswer": "puzzle",
+      "id": 141
+    },
+    {
+      "question": "Choose the correct form of 'to be' for the sentence:\nThey __________ going to the concert tonight.",
+      "answers": ["is", "are", "am", "be"],
+      "correctAnswer": "are",
+      "id": 142
+    },
+    {
+      "question": "What is the meaning of the prefix 'un-' in the word 'unhappy'?",
+      "answers": ["again", "not", "very", "half"],
+      "correctAnswer": "not",
+      "id": 143
+    },
+    {
+      "question": "Which sentence uses the correct form of 'who' or 'whom'?",
+      "answers": ["Whom did you see?", "Who is this for?", "Who are you talking to?", "All of the above"],
+      "correctAnswer": "All of the above",
+      "id": 144
+    },
+    {
+      "question": "What is the correct past tense of 'to read'?",
+      "answers": ["readed", "reads", "red", "read"],
+      "correctAnswer": "read",
+      "id": 145
+    }
+  ],
+  "status": 0
+},{
+  "id": 30,
+  "questions": [
+    {
+      "question": "What is the correct order of adjectives in the sentence:\nShe bought a __________ dress.",
+      "answers": ["red new beautiful", "new beautiful red", "beautiful new red", "red beautiful new"],
+      "correctAnswer": "beautiful new red",
+      "id": 146
+    },
+    {
+      "question": "Which sentence uses 'affect' correctly?",
+      "answers": ["The weather will affect our plans.", "He showed no affect.", "The affect of the speech was great.", "The medicine had a strong affect."],
+      "correctAnswer": "The weather will affect our plans.",
+      "id": 147
+    },
+    {
+      "question": "Which of the following is a homophone for 'pair'?",
+      "answers": ["pare", "pear", "pare and pear", "par"],
+      "correctAnswer": "pare and pear",
+      "id": 148
+    },
+    {
+      "question": "What is the meaning of the idiom 'break the ice'?",
+      "answers": ["To start a conversation", "To make something cold", "To shatter ice", "To create a problem"],
+      "correctAnswer": "To start a conversation",
+      "id": 149
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "answers": ["She don't like pizza.", "She doesn't likes pizza.", "She doesn't like pizza.", "She do not like pizza."],
+      "correctAnswer": "She doesn't like pizza.",
+      "id": 150
+    }
+  ],
+  "status": 0
+},{
+  "id": 31,
+  "questions": [
+    {
+      "question": "Which sentence correctly uses the word 'their'?",
+      "answers": [
+        "Their going to the park.",
+        "They're going to the park.",
+        "There going to the park.",
+        "Their dog is very friendly."
+      ],
+      "correctAnswer": "Their dog is very friendly.",
+      "id": 151
+    },
+    {
+      "question": "What is the past tense of the verb 'to run'?",
+      "answers": [
+        "runned",
+        "ran",
+        "running",
+        "run"
+      ],
+      "correctAnswer": "ran",
+      "id": 152
+    },
+    {
+      "question": "Which word means the opposite of 'generous'?",
+      "answers": [
+        "stingy",
+        "kind",
+        "thoughtful",
+        "caring"
+      ],
+      "correctAnswer": "stingy",
+      "id": 153
+    },
+    {
+      "question": "What does the phrase 'hit the books' mean?",
+      "answers": [
+        "To study hard",
+        "To damage books",
+        "To throw books",
+        "To read casually"
+      ],
+      "correctAnswer": "To study hard",
+      "id": 154
+    },
+    {
+      "question": "Which is the correct form of the verb in the sentence:\nHe __________ to the market every day.",
+      "answers": [
+        "go",
+        "goes",
+        "going",
+        "gone"
+      ],
+      "correctAnswer": "goes",
+      "id": 155
+    }
+  ],
+  "status": 0
+},{
+  "id": 32,
+  "questions": [
+    {
+      "question": "Choose the correct sentence:",
+      "answers": [
+        "He readed the book yesterday.",
+        "He reads the book yesterday.",
+        "He reading the book yesterday.",
+        "He read the book yesterday."
+      ],
+      "correctAnswer": "He read the book yesterday.",
+      "id": 156
+    },
+    {
+      "question": "What is the synonym of 'happy'?",
+      "answers": [
+        "sad",
+        "angry",
+        "joyful",
+        "tired"
+      ],
+      "correctAnswer": "joyful",
+      "id": 157
+    },
+    {
+      "question": "Which word correctly completes the sentence:\nShe __________ to the music.",
+      "answers": [
+        "listened",
+        "listen",
+        "listens",
+        "listening"
+      ],
+      "correctAnswer": "listened",
+      "id": 158
+    },
+    {
+      "question": "What is the plural form of 'child'?",
+      "answers": [
+        "childs",
+        "childrens",
+        "children",
+        "child's"
+      ],
+      "correctAnswer": "children",
+      "id": 159
+    },
+    {
+      "question": "Which word best completes the sentence:\nThey are planning __________ vacation.",
+      "answers": [
+        "there",
+        "their",
+        "they're",
+        "theirs"
+      ],
+      "correctAnswer": "their",
+      "id": 160
+    }
+  ],
+  "status": 0
+},{
+  "id": 33,
+  "questions": [
+    {
+      "question": "What is the correct form of the verb in the sentence:\nShe __________ to the store yesterday.",
+      "answers": [
+        "go",
+        "goes",
+        "went",
+        "going"
+      ],
+      "correctAnswer": "went",
+      "id": 161
+    },
+    {
+      "question": "Which word is an antonym for 'hot'?",
+      "answers": [
+        "warm",
+        "cold",
+        "cool",
+        "lukewarm"
+      ],
+      "correctAnswer": "cold",
+      "id": 162
+    },
+    {
+      "question": "What does the idiom 'piece of cake' mean?",
+      "answers": [
+        "A dessert",
+        "A difficult task",
+        "An easy task",
+        "A small portion"
+      ],
+      "correctAnswer": "An easy task",
+      "id": 163
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "answers": [
+        "She have three cats.",
+        "She has three cat.",
+        "She has three cats.",
+        "She haves three cat."
+      ],
+      "correctAnswer": "She has three cats.",
+      "id": 164
+    },
+    {
+      "question": "Which word is a synonym for 'big'?",
+      "answers": [
+        "small",
+        "huge",
+        "tiny",
+        "little"
+      ],
+      "correctAnswer": "huge",
+      "id": 165
+    }
+  ],
+  "status": 0
+},{
+  "id": 34,
+  "questions": [
+    {
+      "question": "What is the opposite of 'night'?",
+      "answers": [
+        "day",
+        "morning",
+        "evening",
+        "afternoon"
+      ],
+      "correctAnswer": "day",
+      "id": 166
+    },
+    {
+      "question": "Which of the following words is a noun?",
+      "answers": [
+        "quickly",
+        "run",
+        "happiness",
+        "blue"
+      ],
+      "correctAnswer": "happiness",
+      "id": 167
+    },
+    {
+      "question": "Choose the correct word to complete the sentence:\nI ________ a cake for the party.",
+      "answers": [
+        "bakes",
+        "bake",
+        "baked",
+        "baking"
+      ],
+      "correctAnswer": "baked",
+      "id": 168
+    },
+    {
+      "question": "What is the correct past tense form of 'to fly'?",
+      "answers": [
+        "fly",
+        "flew",
+        "flied",
+        "flying"
+      ],
+      "correctAnswer": "flew",
+      "id": 169
+    },
+    {
+      "question": "Which of the following is a question?",
+      "answers": [
+        "She is reading a book.",
+        "Is she reading a book?",
+        "She reads a book.",
+        "She will read a book."
+      ],
+      "correctAnswer": "Is she reading a book?",
+      "id": 170
+    }
+  ],
+  "status": 0
+},{
+  "id": 35,
+  "questions": [
+    {
+      "question": "Which word means 'to make a choice'?",
+      "answers": [
+        "choose",
+        "chose",
+        "choice",
+        "chosen"
+      ],
+      "correctAnswer": "choose",
+      "id": 171
+    },
+    {
+      "question": "What is the meaning of the word 'ancient'?",
+      "answers": [
+        "new",
+        "modern",
+        "old",
+        "recent"
+      ],
+      "correctAnswer": "old",
+      "id": 172
+    },
+    {
+      "question": "Choose the correct word to complete the sentence:\nShe __________ a letter to her friend.",
+      "answers": [
+        "writes",
+        "write",
+        "wrote",
+        "written"
+      ],
+      "correctAnswer": "wrote",
+      "id": 173
+    },
+    {
+      "question": "Which of the following is an adverb?",
+      "answers": [
+        "quick",
+        "quickly",
+        "quicker",
+        "quickness"
+      ],
+      "correctAnswer": "quickly",
+      "id": 174
+    },
+    {
+      "question": "What is the opposite of 'happy'?",
+      "answers": [
+        "sad",
+        "joyful",
+        "glad",
+        "pleased"
+      ],
+      "correctAnswer": "sad",
+      "id": 175
+    }
+  ],
+  "status": 0
+}
+]
