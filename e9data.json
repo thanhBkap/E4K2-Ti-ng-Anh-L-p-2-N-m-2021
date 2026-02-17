@@ -1,0 +1,1041 @@
+[{
+  "id": 1,
+  "questions":
+  [{
+    "question": "Thu and Lan …………. pen pals for over 5 years.",
+    "answers": ["were", "are", "haven't", "have been"],
+    "correctAnswer": "have been",
+    "id": 1
+  },
+  {
+    "question": "The students used  …………. football in that stadium, but now they don’t.",
+    "answers": ["played", "playing", "play", "to play"],
+    "correctAnswer": "to play",
+    "id": 2
+  },
+  {
+    "question": "Would you like …………. and visit my country?",
+    "answers": ["came", "come", "to come", "coming"],
+    "correctAnswer": "to come",
+    "id": 3
+  },
+  {
+    "question": "He wishes he ……………. around the world.",
+    "answers": ["can travel", "could travel", "travels", "traveling"],
+    "correctAnswer": "could travel",
+    "id": 4
+  },
+  {
+    "question": "They wish they ……….. a new house.",
+    "answers": ["have", "has", "to have", "had"],
+    "correctAnswer": "had",
+    "id": 5
+  }],
+  "status": 0
+}, {
+  "id": 2,
+  "questions":
+  [{
+    "question": "You must learn English at school. It’s a…………..….. subject.",
+    "answers": ["primary", "compulsory", "national", "second"],
+    "correctAnswer": "compulsory",
+    "id": 6
+  },
+  {
+    "question": "I was …………. by the friendliness of the people and the beautiful sights.",
+    "answers": ["interested", "impressed", "comprised", "corresponded"],
+    "correctAnswer": "impressed",
+    "id": 7
+  },
+  {
+    "question": "Ringgit is the unit of ……………. in Malaysia.",
+    "answers": ["money", "lesson", "currency", "language"],
+    "correctAnswer": "currency",
+    "id": 8
+  },
+  {
+    "question": "My uncle has smoked _______20 years.",
+    "answers": ["since", "in", "at", "for"],
+    "correctAnswer": "for",
+    "id": 9
+  },
+  {
+    "question": "Most of earthquakes in the world____________ in the Ring of Fire.",
+    "answers": ["happen", "hit", "erupt", "occur"],
+    "correctAnswer": "occur",
+    "id": 10
+  }],
+  "status": 0
+}, {
+  "id": 3,
+  "questions":
+  [{
+    "question": "The men and animals ____________ you saw on TV were from Japan.",
+    "answers": ["that", "which", "where", "whom"],
+    "correctAnswer": "that",
+    "id": 11
+  },
+  {
+    "question": "Mr. Brown is ______________ that people have spoiled this area.",
+    "answers": ["disappoint", "disappointed", "to disappoint", "disappointing"],
+    "correctAnswer": "disappointed",
+    "id": 12
+  },
+  {
+    "question": "She is looked forward to __________ his first pay packet.",
+    "answers": ["receive", "have receive", "receiving", "be receiving"],
+    "correctAnswer": "receiving",
+    "id": 13
+  },
+  {
+    "question": "If she _______ enough money, She _________ a new car.",
+    "answers": ["have/ will buy", "has/ will buy", "had/ will buys", "has/buys"],
+    "correctAnswer": "has/ will buy",
+    "id": 14
+  },
+  {
+    "question": "The baby is crowing ________ his father’s legs.",
+    "answers": ["and", "among", "between", "before"],
+    "correctAnswer": "between",
+    "id": 15
+  }],
+  "status": 0
+}, {
+  "id": 4,
+  "questions":
+  [{
+    "question": "____________ he comes in haft an hour, I shall go alone.",
+    "answers": ["Unless", "If", "Although", "Despite"],
+    "correctAnswer": "Unless",
+    "id": 16
+  },
+  {
+    "question": "Congratulations ___________ your first prize in the English Speaking Contest.",
+    "answers": ["in", "at", "for", "on"],
+    "correctAnswer": "on",
+    "id": 17
+  },
+  {
+    "question": "_____________ is now a serious problem in many countries.",
+    "answers": ["Plant trees", "Deforestation", "Burden", "Festival"],
+    "correctAnswer": "Deforestation",
+    "id": 18
+  },
+  {
+    "question": "I suggest that we__________ money for the poor people in our neighborhood.",
+    "answers": ["save", "to save", "saving", "should save"],
+    "correctAnswer": "should save",
+    "id": 19
+  },
+  {
+    "question": "“What are you looking ______? – “ My picture book. I’ve lost it”",
+    "answers": ["for", "on", "at", "in"],
+    "correctAnswer": "for",
+    "id": 20
+  }],
+  "status": 0
+}, {
+  "id": 5,
+  "questions":
+  [{
+    "question": "Auld Lang Syne is a song __________ is sung on New Year’s Eve.",
+    "answers": ["whom", "that", "which", "B&C"],
+    "correctAnswer": "that",
+    "id": 21
+  },
+  {
+    "question": "Lan is very tired. _____________, she has to finish her assignment before going to bed.",
+    "answers": ["Therefore", "So", "However", "Although"],
+    "correctAnswer": "Therefore",
+    "id": 22
+  },
+  {
+    "question": "Toyota cars _________ in Japan. – It’s very beautiful.",
+    "answers": ["will produce", "are produced", "produced", "to produce"],
+    "correctAnswer": "are produced",
+    "id": 23
+  },
+  {
+    "question": "Phu Yen will have a temperature __________ 23 degrees Celsius and 27 degrees Celsius.",
+    "answers": ["between", "which", "therefore", "with"],
+    "correctAnswer": "between",
+    "id": 24
+  },
+  {
+    "question": "Lan apologized ________ breaking my phone.",
+    "answers": ["to", "for", "about", "on"],
+    "correctAnswer": "for",
+    "id": 25
+  }],
+  "status": 0
+}, {
+  "id": 6,
+  "questions":
+  [{
+    "question": "Don’t forget to turn ________ the TV before going to bed.",
+    "answers": ["out", "on", "off", "up"],
+    "correctAnswer": "off",
+    "id": 26
+  },
+  {
+    "question": "I always think ______ you. I miss you very much.",
+    "answers": ["about", "in", "by", "with"],
+    "correctAnswer": "about",
+    "id": 27
+  },
+  {
+    "question": "It is nice ________ you to help us with our housework",
+    "answers": ["to", "about", "for", "of"],
+    "correctAnswer": "of",
+    "id": 28
+  },
+  {
+    "question": "The girl keeps _____ asking her mother about protecting the environment.",
+    "answers": ["in", "of", "on", "up"],
+    "correctAnswer": "on",
+    "id": 29
+  },
+  {
+    "question": "Identify and choose one underlined word or phrase that is incorrect in next sentence: \n I think we should taking a shower instead of a bath to save energy ",
+    "answers": ["instead of", "to save", "think", "taking"],
+    "correctAnswer": "taking",
+    "id": 30
+  }],
+  "status": 0
+}, {
+  "id": 7,
+  "questions":
+  [{
+    "question": "Indicate the word that differs from the other three in the position of primary stress",
+    "answers": ["A. famous", "B. workshop", "C. village", "D. bamboo"],
+    "correctAnswer": "D. bamboo",
+    "id": 31
+  },
+  {
+    "question": "Indicate the word that differs from the other three in the position of primary stress",
+    "answers": ["A. design", "B. mention", "C. prefer", "D. consist"],
+    "correctAnswer": "B. mention",
+    "id": 32
+  },
+  {
+    "question": "Indicate the underlined part that needs correction \n She wishes (A) she is (B) the most (C) beautiful girl in (D) the world.",
+    "answers": ["A", "B", "C", "D"],
+    "correctAnswer": "B",
+    "id": 33
+  },
+  {
+    "question": "Indicate the underlined part that needs correction \n Ba is very depressing (A) because his closest (B) friend is moving (C) to another (D) town.",
+    "answers": ["A", "B", "C", "D"],
+    "correctAnswer": "A",
+    "id": 34
+  },
+  {
+    "question": "Indicate the underlined part that needs correction \n Nick asked (A) Phong if (B) he has gone (C) to Nga’s birthday party the previous night (D).",
+    "answers": ["A", "B", "C", "D"],
+    "correctAnswer": "C",
+    "id": 35
+  }],
+  "status": 0
+}, {
+  "id": 8,
+  "questions":
+  [{
+    "question": "For that artisans, making the paintings is a career ______ it supports the life of many generations of the family.",
+    "answers": ["A. because of", "B. although", "C. so that", "D. because"],
+    "correctAnswer": "D. because",
+    "id": 36
+  },
+  {
+    "question": "Vietnamese women today prefer modern clothes ______ Ao Dai.",
+    "answers": ["A. for", "B. to", "C. in", "D. with"],
+    "correctAnswer": "B. to",
+    "id": 37
+  },
+  {
+    "question": "Should all motorcyclists be __________to wear helmets?",
+    "answers": ["A. interested", "B. dangerous", "C. impressed", "D. compulsory"],
+    "correctAnswer": "D. compulsory",
+    "id": 38
+  },
+  {
+    "question": "I rarely eat ice cream now but I______ it when I was a child.",
+    "answers": ["A. eat", "B. used to eat", "C. would eat", "D. will eat"],
+    "correctAnswer": "B. used to eat",
+    "id": 39
+  },
+  {
+    "question": "He wondered _________to tell the news to his parents.",
+    "answers": ["A. why", "B. how", "C. what", "D. which"],
+    "correctAnswer": "B. how",
+    "id": 40
+  }],
+  "status": 0
+}, {
+  "id": 9,
+  "questions":
+  [{
+    "question": "I wish my parents could put themselves in my _____",
+    "answers": ["shoes", "bags", "blanket", "heart"],
+    "correctAnswer": "shoes",
+    "id": 41
+  },
+  {
+    "question": "The children in my village used to go ______, even in winter. Now they all have shoes.",
+    "answers": ["on foot", "bare-footed", "playing around", "played around"],
+    "correctAnswer": "bare-footed",
+    "id": 42
+  },
+  {
+    "question": "You should take your shoes ________ when you go into the pagoda.",
+    "answers": ["on", "up", "off", "in"],
+    "correctAnswer": "off",
+    "id": 43
+  },
+  {
+    "question": "He was lazy ______ he was dismissed. Now he's out of work.",
+    "answers": ["because", "since", "so", "as"],
+    "correctAnswer": "so",
+    "id": 44
+  },
+  {
+    "question": "“Thank you very much for your help.” “______”",
+    "answers": ["A. It’s quite OK.", "B. That’s right.", "C. I’d love to.", "D. You’re welcome."],
+    "correctAnswer": "D. You’re welcome.",
+    "id": 45
+  }],
+  "status": 0
+}, {
+  "id": 10,
+  "questions":
+  [{
+    "question": "Phuong: “I’m taking my TOEFL test tomorrow.” - Daisy: “_________”",
+    "answers": ["A. Good fortune", "B. Good luck.", "C. Good outcome.", "D. Good success."],
+    "correctAnswer": "B. Good luck.",
+    "id": 46
+  },
+  {
+    "question": "Indicate the word(s) CLOSEST in meaning to the 'words' \n The graduation is sad, because the time we studied together has 'come to an end'.",
+    "answers": ["succeeded", "begun", "finished", "changed"],
+    "correctAnswer": "finished",
+    "id": 47
+  },
+  {
+    "question": "Indicate the word(s) CLOSEST in meaning to the 'words' \n Everyone has their own 'style' of studying. I prefer to study by myself so I am not disturbed.",
+    "answers": ["location", "method", "culture", "network"],
+    "correctAnswer": "method",
+    "id": 48
+  },
+  {
+    "question": "Indicate the word(s) OPPOSITE in meaning to the 'words' \n Fruit and vegetables grew in 'abundance' on the island. The islanders even exported the surplus.",
+    "answers": ["large quantity", "small quantity", "excess", "sufficiency"],
+    "correctAnswer": "small quantity",
+    "id": 49
+  },
+  {
+    "question": "Indicate the word(s) OPPOSITE in meaning to the 'words' \n At 8 o’clock the plane 'took off into the air' and soared above the clouds.",
+    "answers": ["decreased", "got dressed", "landed", "slowed down"],
+    "correctAnswer": "landed",
+    "id": 50
+  }],
+  "status": 0
+}, {
+  "id": 11,
+  "questions":
+  [{
+    "question": "Jeans are very popular with (23) _________ people all over the world. ",
+    "answers": ["A. rich", "B. old", "C. young", "D. poor"],
+    "correctAnswer": "C. young",
+    "id": 51
+  },
+  {
+    "question": "The story of jeans started (24) _________ two hundred years ago.",
+    "answers": ["A. utmost", "B. closely", "C. hardly", "D. almost"],
+    "correctAnswer": "D. almost",
+    "id": 52
+  },
+  {
+    "question": "People in Genoa, Italy made pants so the cloth made in Genoa (25) _________ “jeanos”.",
+    "answers": ["A. called", "B. calls", "C. was calling", "D. was called"],
+    "correctAnswer": "D. was called",
+    "id": 53
+  },
+  {
+    "question": "In 1850, a salesman in California began selling pants made of canvas. His name was Levi Strauss. Because they were so strong, “Levi’s pants” became (26)_________ gold miners, farmers and cowboys.",
+    "answers": ["A. famous", "B. popular", "C. good", "D. wonderful"],
+    "correctAnswer": "B. popular",
+    "id": 54
+  },
+  {
+    "question": "Six years later, Levi began making his pants with blue cotton cloth called denim. Soon after, factory (27) _________in the US and Europe began wearing jeans.",
+    "answers": ["A. workers", "B. drivers", "C. cowboys", "D. farmers"],
+    "correctAnswer": "A. workers",
+    "id": 55
+  }],
+  "status": 0
+}, {
+  "id": 12,
+  "questions":
+  [{
+    "question": "…………… Kuala Lumpur, Ha Noi is a busy modern city.",
+    "answers": ["As", "Such as", "Like", "With"],
+    "correctAnswer": "Like",
+    "id": 56
+  },
+  {
+    "question": "I wish I ………………………… his name and his phone number.",
+    "answers": ["have known", "knowing", "know", "knew"],
+    "correctAnswer": "knew",
+    "id": 57
+  },
+  {
+    "question": "Last year we ………………… Ha Noi, Ho Chi Minh City and Ha Long Bay.",
+    "answers": ["visiting", "visited", "will visit", "to visit"],
+    "correctAnswer": "visited",
+    "id": 58
+  },
+  {
+    "question": "Malaysia ………………………… into two regions.",
+    "answers": ["divided", "was divided", "is divided", "dividing"],
+    "correctAnswer": "is divided",
+    "id": 59
+  },
+  {
+    "question": "I ………………………… this movie 5 years ago.",
+    "answers": ["see", "have seen", "saw", "seeing"],
+    "correctAnswer": "saw",
+    "id": 60
+  }],
+  "status": 0
+}, {
+  "id": 13,
+  "questions":
+  [{
+    "question": "She has taught English here ………………………… 10 years.",
+    "answers": ["in", "since", "at", "for"],
+    "correctAnswer": "for",
+    "id": 61
+  },
+  {
+    "question": "We used to …………… badminton in the afternoon when we were in the countryside.",
+    "answers": ["play", "plays", "playing", "played"],
+    "correctAnswer": "play",
+    "id": 62
+  },
+  {
+    "question": "Rice is ………………………… in Asian countries.",
+    "answers": ["grown", "grow", "grew", "to grow"],
+    "correctAnswer": "grown",
+    "id": 63
+  },
+  {
+    "question": "………………….., The ao dai was frequently worn by both men and women.  (tradition).",
+    "answers": ["traditionalism", "traditionalist", "tradition", "traditonally"],
+    "correctAnswer": "traditonally",
+    "id": 64
+  },
+  {
+    "question": "The ao dai is now both traditional and ……………………. (fashion).",
+    "answers": ["fascist", "fashion", "fashionable", "fascination"],
+    "correctAnswer": "fashionable",
+    "id": 65
+  }],
+  "status": 0
+}, {
+  "id": 14,
+  "questions":
+  [{
+    "question": "Some designers have ………………….the ao dai by printing lines of poetry on the ao dai. (modern)",
+    "answers": ["modernized", "modern", "modernist", "modernization"],
+    "correctAnswer": "modernized",
+    "id": 66
+  },
+  {
+    "question": "Liverpool is an ……………………city, north of England. (industry)",
+    "answers": ["industry", "industrial", "industriousness", "industriously"],
+    "correctAnswer": "industrial",
+    "id": 67
+  },
+  {
+    "question": "Choose the answer has the same meaning as the sentence \n I don’t have a car.",
+    "answers": ["I wish I have a car", "I wish I had a car", "I wish I will have a car", "I wish I don't have a car"],
+    "correctAnswer": "I wish I had a car",
+    "id": 68
+  },
+  {
+    "question": "Choose the answer has the same meaning as the sentence \n We started learning English 3 years ago.",
+    "answers": ["We have learnt English for three year", "We have learnt English for three years", "We learned English for three year", "We learned English for three years"],
+    "correctAnswer": "We have learnt English for three years",
+    "id": 69
+  },
+  {
+    "question": "Choose the answer has the same meaning as the sentence \n My father smoked cigarettes 5 years ago, but now he doesn’t smoke any more. ",
+    "answers": ["My father used to smoking 5 years ago", "My father used to smoked 5 years ago", "My father used to be smoked 5 years ago", "My father used to smoke 5 years ago"],
+    "correctAnswer": "My father used to smoke 5 years ago",
+    "id": 70
+  }],
+  "status": 0
+}, {
+  "id": 15,
+  "questions":
+  [{
+    "question": "Choose the answer has the same meaning as the sentence \n My mother tidies the living room everyday.",
+    "answers": ["The living room is tidied everyday", "The living room tidied by my mother everyday", "The living room is tidied by my mother everyday", "The living room was tidied by my mother everyday"],
+    "correctAnswer": "The living room is tidied by my mother everyday",
+    "id": 71
+  },
+  {
+    "question": "Minh ( not find ) ………………………………….his pen yet.",
+    "answers": ["do not find", "has not found", "does not find", "have not found"],
+    "correctAnswer": "has not found",
+    "id": 72
+  },
+  {
+    "question": "My house (rebuild) ………………………………..….next month.",
+    "answers": ["will be rebuilt", "will rebuilt", "will rebuild", "is rebuilt"],
+    "correctAnswer": "will be rebuilt",
+    "id": 73
+  },
+  {
+    "question": "Arrange the sentences. \n I / arrive / Ha Noi Train station / 2 p.m / last Monday.",
+    "answers": ["I have arrived at Ha Noi Train station at 2 p.m last Monday.", "I arrived at Ha Noi Train station at 2 p.m last Monday.", "I arrived at Ha Noi Train station on 2 p.m last Monday.", "I arrive at Ha Noi Train station at 2 p.m last Monday."],
+    "correctAnswer": "I arrived at Ha Noi Train station at 2 p.m last Monday.",
+    "id": 74
+  },
+  {
+    "question": "Arrange the sentences. \n I / return / home / next Friday.  ",
+    "answers": ["I return home next Friday.", "I returns home next Friday.", "I returned home next Friday.", "I will return home next Friday."],
+    "correctAnswer": "I will return home next Friday.",
+    "id": 75
+  }],
+  "status": 0
+}, {
+  "id": 16,
+  "questions":
+  [{
+    "question": "Choose the word whose quote part is pronounced differently from the others",
+    "answers": ["tea'ch'er", "bro'ch'ure", "bea'ch'", "mu'ch'"],
+    "correctAnswer": "bea'ch'",
+    "id": 76
+  },
+  {
+    "question": "Choose the word whose quote part is pronounced differently from the others",
+    "answers": ["pr'e'fer", "pr'e'pare", "'e'dge", "d'e'lete"],
+    "correctAnswer": "'e'dge",
+    "id": 77
+  },
+  {
+    "question": "Choose the word whose stress is placed differently from the others",
+    "answers": ["minimize", "remember", "deposit", "immediate"],
+    "correctAnswer": "minimize",
+    "id": 78
+  },
+  {
+    "question": "Choose the word whose stress is placed differently from the others",
+    "answers": ["jungle", "royal", "snorkel", "marine"],
+    "correctAnswer": "marine",
+    "id": 79
+  },
+  {
+    "question": "Vietnam is a (an)......................country.",
+    "answers": ["exporting-coffee", "coffee-export", "export-coffee", "coffee-exporting"],
+    "correctAnswer": "coffee-exporting",
+    "id": 80
+  }],
+  "status": 0
+}, {
+  "id": 17,
+  "questions":
+  [{
+    "question": "When the …………….came, they carried her out to it.",
+    "answers": ["ambulance", "victim", "doctor", "wound"],
+    "correctAnswer": "ambulance",
+    "id": 81
+  },
+  {
+    "question": "The boy fell………….his bike and had an injured knee.",
+    "answers": ["of", "off", "out", "into"],
+    "correctAnswer": "off",
+    "id": 82
+  },
+  {
+    "question": "He is working very hard……………get good grades.",
+    "answers": ["so as", "in order not", "in order to", "so as not to"],
+    "correctAnswer": "in order to",
+    "id": 83
+  },
+  {
+    "question": "Linh is a (an) …………..She works in a flower shop in Tay Ninh Town.",
+    "answers": ["engineer", "nurse", "florist", "teacher"],
+    "correctAnswer": "florist",
+    "id": 84
+  },
+  {
+    "question": "“Would you mind if I smoked?” – “I’d rather you ……….”.",
+    "answers": ["didn’t", "don’t", "shouldn’t", "mustn’t"],
+    "correctAnswer": "didn’t",
+    "id": 85
+  }],
+  "status": 0
+}, {
+  "id": 18,
+  "questions":
+  [{
+    "question": "You must come………….my house for dinner on the weekend.",
+    "answers": ["in", "over", "into", "on"],
+    "correctAnswer": "over",
+    "id": 86
+  },
+  {
+    "question": "Oh, no! I’m ……………making the same mistakes",
+    "answers": ["usually", "often", "always", "all time"],
+    "correctAnswer": "always",
+    "id": 87
+  },
+  {
+    "question": "We are having a (wonder)……………time in China, the weather is (cloud) …………. and humid.",
+    "answers": ["wonder; cloudy", "wonderful; cloudy", "wonderful; cloud", "wonder; cloud"],
+    "correctAnswer": "wonderful; cloudy",
+    "id": 88
+  },
+  {
+    "question": "While Lan (read)…………………the newspaper, the phone (ring)………………….",
+    "answers": ["readed; rang", "readed; was ringing", "is reading; rang", "was reading; rang"],
+    "correctAnswer": "was reading; rang",
+    "id": 89
+  },
+  {
+    "question": "Lan (eat)............. dinner when his friend called.",
+    "answers": ["was eating", "is eating", "was eaten", "ate"],
+    "correctAnswer": "was eating",
+    "id": 90
+  }],
+  "status": 0
+}, {
+  "id": 19,
+  "questions":
+  [{
+    "question": "She rarely (get) ................ home before six o'clock.",
+    "answers": ["get", "gets", "is getting", "got"],
+    "correctAnswer": "gets",
+    "id": 91
+  },
+  {
+    "question": "Many tourists like the ___________features of Viet Nam. (nature)",
+    "answers": ["naturally", "nature", "natural", "naturalness"],
+    "correctAnswer": "natural",
+    "id": 92
+  },
+  {
+    "question": "There are ________types made of silk such as cloth, ties, dress.... (vary)",
+    "answers": ["varying", "various", "vary", "varsity"],
+    "correctAnswer": "various",
+    "id": 93
+  },
+  {
+    "question": "What are the greatest ___________in Sydney? (attract)",
+    "answers": ["attracting", "attractive", "attract", "attractions"],
+    "correctAnswer": "attractions",
+    "id": 94
+  },
+  {
+    "question": "Lan couldn’t go to school yesterday because of her_______. (sick)",
+    "answers": ["sickness", "sic", "sick", "sibyl"],
+    "correctAnswer": "sickness",
+    "id": 95
+  }],
+  "status": 0
+}, {
+  "id": 20,
+  "questions":
+  [{
+    "question": "A person who made the crafts ___________called an artisan. (skill)",
+    "answers": ["skilful", "skillfully", "skill", "skilled"],
+    "correctAnswer": "skillfully",
+    "id": 96
+  },
+  {
+    "question": "If you study in the USA you can ............. speaking with the native speakers.",
+    "answers": ["expect", "practice", "know", "understand"],
+    "correctAnswer": "practice",
+    "id": 97
+  },
+  {
+    "question": "Phil said that he ............ to borrow some money.",
+    "answers": ["needs", "has needed", "needed", "is needing"],
+    "correctAnswer": "needed",
+    "id": 98
+  },
+  {
+    "question": "Last week Ba invited Liz to ............... his family on a day trip to the country. ",
+    "answers": ["join", "link", "gather", "consist"],
+    "correctAnswer": "join",
+    "id": 99
+  },
+  {
+    "question": "Musicians have ................ the ao dai in songs for many years.",
+    "answers": ["sang", "danced", "mentioned", "spoken"],
+    "correctAnswer": "mentioned",
+    "id": 100
+  }],
+  "status": 0
+},{
+  "id": 21,
+  "questions": [
+    {
+      "question": "Choose the correct form of the verb: \n She (go/goes) to school every day.",
+      "answers": ["go", "goes", "", ""],
+      "correctAnswer": "goes",
+      "id": 101
+    },
+    {
+      "question": "What is the synonym of 'intelligent'?",
+      "answers": ["Dull", "Smart", "Lazy", "Kind"],
+      "correctAnswer": "Smart",
+      "id": 102
+    },
+    {
+      "question": "Solve the equation: \n 2x + 4 = 10",
+      "answers": ["x = 2", "x = 3", "x = 4", "x = 5"],
+      "correctAnswer": "x = 3",
+      "id": 103
+    },
+    {
+      "question": "What is the correct order of operations for the expression 8 / 2 + 3?",
+      "answers": ["Division then addition", "Addition then division", "Do from left to right", "Do from right to left"],
+      "correctAnswer": "Division then addition",
+      "id": 104
+    },
+    {
+      "question": "Identify the main clause: \n Although it was raining, we went for a walk.",
+      "answers": ["Although it was raining", "We went for a walk", "It was raining", "Went for a walk"],
+      "correctAnswer": "We went for a walk",
+      "id": 105
+    }
+  ],
+  "status": 0
+},
+{
+  "id": 22,
+  "questions": [
+    {
+      "question": "Choose the correct pronoun: \n Everyone must bring (his/their) own book.",
+      "answers": ["his", "their", "", ""],
+      "correctAnswer": "their",
+      "id": 106
+    },
+    {
+      "question": "Which of the following is a personification?",
+      "answers": ["The wind howled in the night", "As light as a feather", "Her eyes were like diamonds", "The car was a beast on the road"],
+      "correctAnswer": "The wind howled in the night",
+      "id": 107
+    },
+    {
+      "question": "Solve the equation: \n 4x - 5 = 7",
+      "answers": ["x = 3", "x = 4", "x = 2", "x = 1"],
+      "correctAnswer": "x = 3",
+      "id": 108
+    },
+    {
+      "question": "What is the value of the expression 5 + 2 * 3?",
+      "answers": ["11", "15", "21", "10"],
+      "correctAnswer": "11",
+      "id": 109
+    },
+    {
+      "question": "Choose the correct conjunction: \n I will call you (before/unless) I leave.",
+      "answers": ["before", "unless", "", ""],
+      "correctAnswer": "before",
+      "id": 110
+    }
+  ],
+  "status": 0
+},
+{
+  "id": 23,
+  "questions": [
+    {
+      "question": "Which sentence uses the correct form of the verb? \n They (has/have) been waiting for hours.",
+      "answers": ["has", "have", "", ""],
+      "correctAnswer": "have",
+      "id": 111
+    },
+    {
+      "question": "Which of the following is an oxymoron?",
+      "answers": ["Jumbo shrimp", "Sweet sorrow", "Deafening silence", "All of the above"],
+      "correctAnswer": "All of the above",
+      "id": 112
+    },
+    {
+      "question": "What is the solution to the inequality: \n x + 4 > 9",
+      "answers": ["x > 5", "x < 5", "x > 4", "x < 4"],
+      "correctAnswer": "x > 5",
+      "id": 113
+    },
+    {
+      "question": "Calculate the value of: \n 3 * (4 + 2)",
+      "answers": ["18", "14", "20", "16"],
+      "correctAnswer": "18",
+      "id": 114
+    },
+    {
+      "question": "Identify the type of sentence: \n How did you do that?",
+      "answers": ["Declarative", "Interrogative", "Imperative", "Exclamatory"],
+      "correctAnswer": "Interrogative",
+      "id": 115
+    }
+  ],
+  "status": 0
+},
+{
+  "id": 24,
+  "questions": [
+    {
+      "question": "What is the correct plural form of 'foot'?",
+      "answers": ["Foots", "Feet", "Foot", "Feets"],
+      "correctAnswer": "Feet",
+      "id": 116
+    },
+    {
+      "question": "Choose the word that best completes the sentence: \n He is (stronger/strongest) than his brother.",
+      "answers": ["stronger", "strongest", "", ""],
+      "correctAnswer": "stronger",
+      "id": 117
+    },
+    {
+      "question": "Solve for y: \n 3y + 6 = 12",
+      "answers": ["y = 2", "y = 3", "y = 4", "y = 5"],
+      "correctAnswer": "y = 2",
+      "id": 118
+    },
+    {
+      "question": "Find the value of: \n 7 + 3 * 5",
+      "answers": ["50", "22", "17", "28"],
+      "correctAnswer": "22",
+      "id": 119
+    },
+    {
+      "question": "Which of the following is a complex sentence?",
+      "answers": ["She reads books, and he writes poems.", "If it rains, we will stay inside.", "I love pizza.", "She sings and dances."],
+      "correctAnswer": "If it rains, we will stay inside.",
+      "id": 120
+    }
+  ],
+  "status": 0
+},
+{
+  "id": 25,
+  "questions": [
+    {
+      "question": "Choose the correct homophone: \n She will (by/buy/bye) a new dress.",
+      "answers": ["by", "buy", "bye", ""],
+      "correctAnswer": "buy",
+      "id": 121
+    },
+    {
+      "question": "Which of these sentences contains an idiom?",
+      "answers": ["It costs an arm and a leg.", "She runs like the wind.", "He is a shining star.", "The sun is a golden orb."],
+      "correctAnswer": "It costs an arm and a leg.",
+      "id": 122
+    },
+    {
+      "question": "Solve for x: \n 5x - 15 = 10",
+      "answers": ["x = 3", "x = 5", "x = 4", "x = 6"],
+      "correctAnswer": "x = 5",
+      "id": 123
+    },
+    {
+      "question": "Calculate: \n 12 - 4 + 2",
+      "answers": ["10", "8", "6", "14"],
+      "correctAnswer": "10",
+      "id": 124
+    },
+    {
+      "question": "Identify the part of speech of the word 'quick' in the sentence: \n She made a quick decision.",
+      "answers": ["Noun", "Verb", "Adverb", "Adjective"],
+      "correctAnswer": "Adjective",
+      "id": 125
+    }
+  ],
+  "status": 0
+},
+{
+  "id": 26,
+  "questions": [
+    {
+      "question": "Correct the sentence: \n The book on the table are mine.",
+      "answers": ["The books on the table is mine.", "The books on the table are mine.", "The book on the table is mine.", "The book on the tables are mine."],
+      "correctAnswer": "The books on the table are mine.",
+      "id": 126
+    },
+    {
+      "question": "Which of the following is an example of alliteration?",
+      "answers": ["Peter Piper picked a peck of pickled peppers.", "She sells seashells by the seashore.", "The sun sets slowly.", "All of the above."],
+      "correctAnswer": "All of the above.",
+      "id": 127
+    },
+    {
+      "question": "Solve the equation: \n 2x - 7 = 5",
+      "answers": ["x = 6", "x = 4", "x = 2", "x = 5"],
+      "correctAnswer": "x = 6",
+      "id": 128
+    },
+    {
+      "question": "What is the value of the expression 6 / 2 * (3 + 1)?",
+      "answers": ["12", "18", "9", "6"],
+      "correctAnswer": "12",
+      "id": 129
+    },
+    {
+      "question": "Identify the type of sentence: \n Watch out for the car!",
+      "answers": ["Declarative", "Interrogative", "Imperative", "Exclamatory"],
+      "correctAnswer": "Exclamatory",
+      "id": 130
+    }
+  ],
+  "status": 0
+},
+{
+  "id": 27,
+  "questions": [
+    {
+      "question": "Choose the correct form of the adjective: \n This is the (best/better) cake I've ever had.",
+      "answers": ["best", "better", "", ""],
+      "correctAnswer": "best",
+      "id": 131
+    },
+    {
+      "question": "Which of the following sentences contains a metaphor?",
+      "answers": ["The curtain of night fell upon us.", "Her smile was as bright as the sun.", "He is as brave as a lion.", "She sings like an angel."],
+      "correctAnswer": "The curtain of night fell upon us.",
+      "id": 132
+    },
+    {
+      "question": "What is the solution to the equation: \n 3y + 2 = 11",
+      "answers": ["y = 3", "y = 2", "y = 4", "y = 5"],
+      "correctAnswer": "y = 3",
+      "id": 133
+    },
+    {
+      "question": "Calculate the value of: \n 8 - 3 + 2",
+      "answers": ["7", "8", "6", "9"],
+      "correctAnswer": "7",
+      "id": 134
+    },
+    {
+      "question": "Which of the following is an independent clause?",
+      "answers": ["Because I was tired", "Although it was raining", "I went to the store", "While she was reading"],
+      "correctAnswer": "I went to the store",
+      "id": 135
+    }
+  ],
+  "status": 0
+},
+{
+  "id": 28,
+  "questions": [
+    {
+      "question": "Identify the correct sentence: \n The dog barks loudly at night.",
+      "answers": ["The dog bark loud at night.", "The dog barks loud at night.", "The dog barked loudly at night.", "The dog barks loudly at night."],
+      "correctAnswer": "The dog barks loudly at night.",
+      "id": 136
+    },
+    {
+      "question": "What is the antonym of 'generous'?",
+      "answers": ["Kind", "Selfish", "Friendly", "Greedy"],
+      "correctAnswer": "Selfish",
+      "id": 137
+    },
+    {
+      "question": "Solve for x: \n 7x - 3 = 18",
+      "answers": ["x = 2", "x = 3", "x = 4", "x = 5"],
+      "correctAnswer": "x = 3",
+      "id": 138
+    },
+    {
+      "question": "Find the value of: \n 2 * 3 + 4",
+      "answers": ["10", "8", "6", "12"],
+      "correctAnswer": "10",
+      "id": 139
+    },
+    {
+      "question": "Which sentence is an example of a simple sentence?",
+      "answers": ["She went to the store and bought some milk.", "If it rains, we will stay inside.", "He likes coffee.", "He was late, but she waited for him."],
+      "correctAnswer": "He likes coffee.",
+      "id": 140
+    }
+  ],
+  "status": 0
+},
+{
+  "id": 29,
+  "questions": [
+    {
+      "question": "Correct the sentence: \n I should of called you yesterday.",
+      "answers": ["I should have called you yesterday.", "I should had called you yesterday.", "I should call you yesterday.", "I should has called you yesterday."],
+      "correctAnswer": "I should have called you yesterday.",
+      "id": 141
+    },
+    {
+      "question": "Which of the following is an example of a hyperbole?",
+      "answers": ["It's raining cats and dogs.", "He is a couch potato.", "She is as busy as a bee.", "I'm so hungry I could eat a horse."],
+      "correctAnswer": "I'm so hungry I could eat a horse.",
+      "id": 142
+    },
+    {
+      "question": "Solve the equation: \n 6x + 2 = 20",
+      "answers": ["x = 2", "x = 3", "x = 4", "x = 5"],
+      "correctAnswer": "x = 3",
+      "id": 143
+    },
+    {
+      "question": "What is the value of the expression 5 * 2 + 6?",
+      "answers": ["16", "20", "12", "18"],
+      "correctAnswer": "16",
+      "id": 144
+    },
+    {
+      "question": "Identify the part of speech of the word 'beautiful' in the sentence: \n She is a beautiful dancer.",
+      "answers": ["Noun", "Verb", "Adverb", "Adjective"],
+      "correctAnswer": "Adjective",
+      "id": 145
+    }
+  ],
+  "status": 0
+},
+{
+  "id": 30,
+  "questions": [
+    {
+      "question": "Choose the correct word: \n The team played (good/well) in the match.",
+      "answers": ["good", "well", "", ""],
+      "correctAnswer": "well",
+      "id": 146
+    },
+    {
+      "question": "Which of these sentences contains an example of onomatopoeia?",
+      "answers": ["The leaves rustled in the wind.", "The cat's fur was as soft as silk.", "He is as strong as an ox.", "The sun was a blazing orb in the sky."],
+      "correctAnswer": "The leaves rustled in the wind.",
+      "id": 147
+    },
+    {
+      "question": "Solve for y: \n 4y + 5 = 21",
+      "answers": ["y = 4", "y = 5", "y = 3", "y = 2"],
+      "correctAnswer": "y = 4",
+      "id": 148
+    },
+    {
+      "question": "Calculate: \n 8 - 3 * 2",
+      "answers": ["10", "5", "2", "6"],
+      "correctAnswer": "2",
+      "id": 149
+    },
+    {
+      "question": "What type of sentence is this: \n Can you help me with my homework?",
+      "answers": ["Declarative", "Interrogative", "Imperative", "Exclamatory"],
+      "correctAnswer": "Interrogative",
+      "id": 150
+    }
+  ],
+  "status": 0
+}
+]
