@@ -1,0 +1,1197 @@
+[{
+  "id": 1,
+  "questions":
+  [{
+    "question": "What ___ you ___ next weekend?",
+    "answers": ["do/ do", "are/ do", "did/ do", "are/ going to do"],
+    "correctAnswer": "are/ going to do",
+    "id": 1
+  },
+    {
+      "question": "Where is Tony from? ~ He is from___.",
+      "answers": ["Vietnamese", "American", "Singapore", "Singaporean"],
+      "correctAnswer": "Singapore",
+      "id": 2
+    },
+    {
+      "question": "Yesterday John________ go to school because he__________ a toothache.",
+      "answers": ["didn’t/ had", "doesn’t/ has", "didn’t/ has", "doesn’t/ had"],
+      "correctAnswer": "didn’t/ had",
+      "id": 3
+    },
+    {
+      "question": "___________ are you going this summer holiday? - I’m going to Paris.",
+      "answers": ["How", "What", "Where", "Who"],
+      "correctAnswer": "Where",
+      "id": 5
+    },
+    {
+      "question": "I sometimes go___________ in the winter.",
+      "answers": ["ski", "skiing", "to ski", "to skiing"],
+      "correctAnswer": "skiing",
+      "id": 4
+    }],
+  "status": 0
+}, {
+  "id": 2,
+  "questions":
+  [{
+    "question": "We want to have a good time___________Hanoi.",
+    "answers": ["on", "at", "for", "in"],
+    "correctAnswer": "in",
+    "id": 6
+  },
+    {
+      "question": "Hoa___________ a letter to her pen friend now.",
+      "answers": ["is writeing", "is writing", "writes", "wrote"],
+      "correctAnswer": "is writing",
+      "id": 7
+    },
+    {
+      "question": "It takes about thirty hours_________________ from Hanoi to Ho Chi Minh City.",
+      "answers": ["to fly", "flying", "fly", "to flying"],
+      "correctAnswer": "to fly",
+      "id": 8
+    },
+    {
+      "question": "___________ is it from Hanoi to Hue? ~ About 900 kilometers.",
+      "answers": ["How old", "How", "How far", "How many"],
+      "correctAnswer": "How far",
+      "id": 9
+    },
+    {
+      "question": "There are four______________ in my country: spring, summer, autumn and winter.",
+      "answers": ["season", "seasons", "people", "students"],
+      "correctAnswer": "seasons",
+      "id": 10
+    }],
+  "status": 0
+}, {
+  "id": 3,
+  "questions":
+  [{
+    "question": "Choose the word in each group which is different.",
+    "answers": ["mirror", "photo", "picture", "newspaper"],
+    "correctAnswer": "mirror",
+    "id": 11
+  },
+    {
+      "question": "Choose the word in each group which is different.",
+      "answers": ["fridge", "washing machine", "stereo", "cooker"],
+      "correctAnswer": "stereo",
+      "id": 12
+    },
+    {
+      "question": "Choose the word in each group which is different.",
+      "answers": ["behind", "until", "near", "next to"],
+      "correctAnswer": "until",
+      "id": 13
+    },
+    {
+      "question": "Choose the word in each group which is different.",
+      "answers": ["third", "second", "one", "first"],
+      "correctAnswer": "one",
+      "id": 14
+    },
+    {
+      "question": "Choose the word in each group which is different.",
+      "answers": ["tomorrow", "Christmas Day", "birthday", "weeding day"],
+      "correctAnswer": "tomorrow",
+      "id": 15
+    }],
+  "status": 0
+}, {
+  "id": 4,
+  "questions":
+  [{
+    "question": "They traveling to school by bus. Choose the words or phrases that are not correct.",
+    "answers": ["They", "traveling", "to", "by"],
+    "correctAnswer": "traveling",
+    "id": 16
+  },
+    {
+      "question": "She is ride her bike to the market. Choose the words or phrases that are not correct.",
+      "answers": ["ride", "her", "to", "the"],
+      "correctAnswer": "ride",
+      "id": 17
+    },
+    {
+      "question": "Some signs says you can not do something. Choose the words or phrases that are not correct.",
+      "answers": ["Some", "says", "can not", "something"],
+      "correctAnswer": "says",
+      "id": 18
+    },
+    {
+      "question": "Where is he going at five on the morning. Choose the words or phrases that are not correct.",
+      "answers": ["Where", "going", "at", "on"],
+      "correctAnswer": "on",
+      "id": 19
+    },
+    {
+      "question": "Is there a lake to the right from the house? Choose the words or phrases that are not correct.",
+      "answers": ["Is", "a", "to", "from"],
+      "correctAnswer": "from",
+      "id": 20
+    }],
+  "status": 0
+}, {
+  "id": 5,
+  "questions":
+  [{
+    "question": "Choose the odd one out.",
+    "answers": ["beautiful", "souvenir", "interesting", "colorful"],
+    "correctAnswer": "souvenir",
+    "id": 21
+  },
+    {
+      "question": "Choose the odd one out",
+      "answers": ["weather", "summer", "autumn", "winter"],
+      "correctAnswer": "weather",
+      "id": 22
+    },
+    {
+      "question": "Choose the odd one out",
+      "answers": ["who", "how", "why", "this"],
+      "correctAnswer": "this",
+      "id": 23
+    },
+    {
+      "question": "Choose the odd one out",
+      "answers": ["tooth", "eye", "head", "aspirin"],
+      "correctAnswer": "aspirin",
+      "id": 24
+    },
+    {
+      "question": "Choose the odd one out",
+      "answers": ["bought", "flew", "danced", "sang"],
+      "correctAnswer": "danced",
+      "id": 25
+    }],
+  "status": 0
+}, {
+  "id": 6,
+  "questions":
+  [{
+    "question": "He looks different___________ his father.",
+    "answers": ["at", "with", "from", "for"],
+    "correctAnswer": "from",
+    "id": 26
+  },
+    {
+      "question": "Ba has__________ days off than Mr. Trung.",
+      "answers": ["much", "many", "less", "fewer"],
+      "correctAnswer": "fewer",
+      "id": 27
+    },
+    {
+      "question": "Hung is in his He___________ the guitar now.",
+      "answers": ["play", "plays", "will play", "is playing"],
+      "correctAnswer": "is playing",
+      "id": 28
+    },
+    {
+      "question": "__________a lovely house!",
+      "answers": ["How", "What", "When", "Where"],
+      "correctAnswer": "What",
+      "id": 29
+    },
+    {
+      "question": "My brother is the__________ in my family.",
+      "answers": ["more intelligent", "intelligent", "most intelligent", "less intelligent"],
+      "correctAnswer": "most intelligent",
+      "id": 30
+    }],
+  "status": 0
+}, {
+  "id": 7,
+  "questions":
+  [{
+    "question": "Leo ______________ goes swimming in summer because the weather is hot.",
+    "answers": ["never", "always", "seldom", "rarely"],
+    "correctAnswer": "always",
+    "id": 31
+  },
+    {
+      "question": "Where is he going to _____________ in Quy Nhon?",
+      "answers": ["stays", "stay", "staying", "stayed"],
+      "correctAnswer": "stay",
+      "id": 32
+    },
+    {
+      "question": "What _____________ the weather today?",
+      "answers": ["do", "are", "will", "is"],
+      "correctAnswer": "is",
+      "id": 33
+    },
+    {
+      "question": "How many _____________ do you have?",
+      "answers": ["dog", "pet", "dogs", "cat"],
+      "correctAnswer": "dogs",
+      "id": 34
+    },
+    {
+      "question": "I eat _____________ chocolate every morning.",
+      "answers": ["bar of", "carton of", "a bar of", "a carton of"],
+      "correctAnswer": "a bar of",
+      "id": 35
+    }],
+  "status": 0
+}, {
+  "id": 8,
+  "questions":
+  [{
+    "question": "Which are your brother’s favorite dishes? - ............",
+    "answers": ["No, thanks", "I'm thirsty", "Cartoons", "Chicken noodles and apple pies"],
+    "correctAnswer": "Chicken noodles and apple pies",
+    "id": 36
+  },
+    {
+      "question": "........... is there to eat? - There’re some apples.",
+      "answers": ["Who", "Where", "When", "What"],
+      "correctAnswer": "What",
+      "id": 37
+    },
+    {
+      "question": "John is riding his bike _______ the park.",
+      "answers": ["on", "at", "above", "in"],
+      "correctAnswer": "in",
+      "id": 38
+    },
+    {
+      "question": "I love karate. I _______ karate every day.",
+      "answers": ["work", "make", "do", "clean"],
+      "correctAnswer": "do",
+      "id": 39
+    },
+    {
+      "question": "Hoa often _______ to the music club every Sunday.",
+      "answers": ["goes", "does", "listens", "climbs"],
+      "correctAnswer": "goes",
+      "id": 40
+    }],
+  "status": 0
+}, {
+  "id": 9,
+  "questions":
+  [{
+    "question": "A________ works on the farm.",
+    "answers": ["teacher", "doctor", "farmer", "journalist"],
+    "correctAnswer": "farmer",
+    "id": 41
+  },
+    {
+      "question": "________ do you usually do after school? – I read books and watch TV.",
+      "answers": ["How", "What", "When", "Why"],
+      "correctAnswer": "What",
+      "id": 42
+    },
+    {
+      "question": "Lan lives__________20 Nguyen Tat Thanh Street.",
+      "answers": ["on", "at", "to", "in"],
+      "correctAnswer": "at",
+      "id": 43
+    },
+    {
+      "question": "Many English families have three callers between the hours of 7 and 8.30 in the ____",
+      "answers": ["morning", "afternoon", "evening", "weekend"],
+      "correctAnswer": "morning",
+      "id": 44
+    },
+    {
+      "question": "Two of them, the postman and the milk man, are doing their normal full-time working day, but the third – the newspaper boy or girl – is earning some pocket money _______ going to school.",
+      "answers": ["after", "while", "before", "until"],
+      "correctAnswer": "before",
+      "id": 45
+    }],
+  "status": 0
+}, {
+  "id": 10,
+  "questions":
+  [{
+    "question": "They deliver newspapers and magazines 6 days _______ week in all weather",
+    "answers": ["once", "one", "a", "first"],
+    "correctAnswer": "a",
+    "id": 46
+  },
+    {
+      "question": "They can get $2.50 per week for an hour’s work ___________ the morning",
+      "answers": ["on", "at", "of", "in"],
+      "correctAnswer": "in",
+      "id": 47
+    },
+    {
+      "question": "They are usually between 14 and 16 __________ old.",
+      "answers": ["years", "year", "years old", "year old"],
+      "correctAnswer": "years",
+      "id": 48
+    },
+    {
+      "question": "Huong: Hi, Phuong. Where’s Mom? Phuong: ....................................",
+      "answers": ["No, she isn’t.", "Mom cooks the best chicken noodles.", "She’s cooking dinner", "She’s in the kitchen"],
+      "correctAnswer": "She’s in the kitchen",
+      "id": 49
+    },
+    {
+      "question": "Huong: What’s she doing? Phuong: .................................... ",
+      "answers": ["No, she isn’t.", "Mom cooks the best chicken noodles.", "She’s cooking dinner", "She’s in the kitchen"],
+      "correctAnswer": "She’s cooking dinner",
+      "id": 50
+    }],
+  "status": 0
+}, {
+  "id": 11,
+  "questions":
+  [{
+    "question": "Sắp xếp các từ sau: \n picture/ my/ this/ of/ village/ is/ a",
+    "answers": ["This a picture is of my village.","This is a picture of my village.","This a village is of my picture.","This is a village is of my picture."],
+    "correctAnswer": "This is a picture of my village.",
+    "id": 51
+  },
+    {
+      "question": "Sắp xếp các từ sau: \n to/ happy/ you./ birthday/ gift/ you/ for/ this /is/",
+      "answers": ["Happy birthday to you. This gift is for you.", "Happy gift to you. This birthday is for you.", "Happy birthday gift to you. This is for you.", "Happy gift birthday to you. This is for you."],
+      "correctAnswer": "Happy birthday to you. This gift is for you.",
+      "id": 52
+    },
+    {
+      "question": "Sắp xếp các từ sau: \n is/ hometown/ your/ like/ what/?",
+      "answers": ["What is your hometown like?", "What is your like hometown?", "What hometown is your like?", "What hometown like your is?"],
+      "correctAnswer": "What is your hometown like?",
+      "id": 53
+    },
+    {
+      "question": "Sắp xếp các từ sau: \n hometown/ beautiful/ my/ is/ peaceful/ and",
+      "answers": ["My hometown is and beautiful peaceful.", "My beautiful and peaceful hometown is.", "My peaceful and beautiful hometown is.", "My hometown is beautiful and peaceful."],
+      "correctAnswer": "My hometown is beautiful and peaceful.",
+      "id": 54
+    },
+    {
+      "question": "Sắp xếp các từ sau: \n in/ Nam/ a/ and/ big/ lives/ city/ busy",
+      "answers": ["Nam lives in a city big and noisy.", "Nam in lives a big and noisy city.", "Nam lives in a big and noisy city.", "in a big and noisy city Nam lives."],
+      "correctAnswer": "Nam lives in a big and noisy city.",
+      "id": 55
+    }],
+  "status": 0
+}, {
+  "id": 12,
+  "questions":
+  [{
+    "question": "Chọn từ sai: \n Phong lives on his family in Hai Phong, Vietnam.",
+    "answers": ["lives", "in", "his", "on"],
+    "correctAnswer": "on",
+    "id": 56
+  },
+    {
+      "question": "Chọn từ sai: \n Do your live in the countryside?",
+      "answers": ["do", "your", "live", "in"],
+      "correctAnswer": "your",
+      "id": 57
+    },
+    {
+      "question": "Chọn từ sai: \n Nga and Quan lives at 56 Duy Tan Street.",
+      "answers": ["and", "at", "street", "lives"],
+      "correctAnswer": "lives",
+      "id": 58
+    },
+    {
+      "question": "Chọn từ sai: \n I lives in flat 203 on the second floor of SM tower.",
+      "answers": ["lives", "in", "of", "on"],
+      "correctAnswer": "lives",
+      "id": 59
+    },
+    {
+      "question": "Chọn từ sai: \n Where are you come from?",
+      "answers": ["where", "come", "are", "from"],
+      "correctAnswer": "are",
+      "id": 60
+    }],
+  "status": 0
+}, {
+  "id": 13,
+  "questions":
+  [{
+    "question": "Điền từ còn thiếu: \n  What does she do ____ break time? - She often sings with his friends.",
+    "answers": ["in", "at", "for", "with"],
+    "correctAnswer": "at",
+    "id": 61
+  },
+    {
+      "question": "Điền từ còn thiếu: \n  What does your mother do in the evening? - She ______ TV and goes to bed.",
+      "answers": ["watch", "watches", "watching", "watcher"],
+      "correctAnswer": "watches",
+      "id": 62
+    },
+    {
+      "question": "Điền từ còn thiếu: \n  She never goes ________.",
+      "answers": ["jog", "jogs", "jogging", "joges"],
+      "correctAnswer": "jogging",
+      "id": 63
+    },
+    {
+      "question": "Điền từ còn thiếu: \n He watches films ______ lunch.",
+      "answers": ["after", "before", "in", "about"],
+      "correctAnswer": "after",
+      "id": 64
+    },
+    {
+      "question": "Điền từ còn thiếu: \n _________ does Linda go to the gym? - Three times a week.",
+      "answers": ["How", "Where", "How often", "What"],
+      "correctAnswer": "How often",
+      "id": 65
+    }],
+  "status": 0
+}, {
+  "id": 14,
+  "questions":
+  [{
+    "question": "Điền từ còn thiếu: \n James often get up ________ in the morning.",
+    "answers": ["Early", "Bad", "Lately", "Nice"],
+    "correctAnswer": "Early",
+    "id": 66
+  },
+    {
+      "question": "Điền từ còn thiếu: \n Do you _______ to the cinema centre in the evening?",
+      "answers": ["Usually go", "Go usually", "Sometime goes", "Go always"],
+      "correctAnswer": "Usually go",
+      "id": 67
+    },
+    {
+      "question": "Điền từ còn thiếu: \n Mary __________ helps her mother cook dinner.",
+      "answers": ["How", "Does", "Sometimes", "Once a day"],
+      "correctAnswer": "Sometimes",
+      "id": 68
+    },
+    {
+      "question": "Điền từ còn thiếu: \n ________ does he do every morning?",
+      "answers": ["Which", "What", "What time", "When"],
+      "correctAnswer": "What",
+      "id": 69
+    },
+    {
+      "question": "Điền từ còn thiếu: \n _______? – I am reading books.",
+      "answers": ["What are you doing?", "What do you do in the morning?", "How often do you read books?", "Are you reading books?"],
+      "correctAnswer": "What are you doing?",
+      "id": 70
+    }],
+  "status": 0
+}, {
+  "id": 15,
+  "questions":
+  [{
+    "question": "What ______________ names ? – They’re Mai and Nga .",
+    "answers": ["are/ their", "is/ your", "are/ they", "Both A and C"],
+    "correctAnswer": "are/ their",
+    "id": 71
+  },
+    {
+      "question": "You can __________ here.",
+      "answers": ["parks", "to park", "parking", "park"],
+      "correctAnswer": "park",
+      "id": 72
+    },
+    {
+      "question": "How often ___________ Nga go to the park?",
+      "answers": ["do", "does", "is", "are"],
+      "correctAnswer": "does",
+      "id": 73
+    },
+    {
+      "question": "How long are you going to stay here? - ____ a week.",
+      "answers": ["for", "at", "on", "in"],
+      "correctAnswer": "for",
+      "id": 74
+    },
+    {
+      "question": "What about ___________ swimming?",
+      "answers": ["to", "go", "went", "going"],
+      "correctAnswer": "going",
+      "id": 75
+    }],
+  "status": 0
+}, {
+  "id": 16,
+  "questions":
+  [{
+    "question": "There isn’t _________ food in the house.",
+    "answers": ["none", "no", "some", "any"],
+    "correctAnswer": "any",
+    "id": 76
+  },
+    {
+      "question": "We live ___ Le Loi street _____ Quy Nhan city.",
+      "answers": ["on/ in", "in/ in", "at/ in", "by/ on"],
+      "correctAnswer": "on/ in",
+      "id": 77
+    },
+    {
+      "question": "How many ___________ there in your school?",
+      "answers": ["is student", "are students", "student are", "do students"],
+      "correctAnswer": "student are",
+      "id": 78
+    },
+    {
+      "question": "He often travels ________ car _____ my father.",
+      "answers": ["by/ for", "by/ with", "with/ by", "for/ by"],
+      "correctAnswer": "by/ with",
+      "id": 79
+    },
+    {
+      "question": "His mother bought him ________ uniform yesterday.",
+      "answers": ["a", "an", "the", "two"],
+      "correctAnswer": "a",
+      "id": 80
+    }],
+  "status": 0
+}, {
+  "id": 17,
+  "questions":
+  [{
+    "question": "He (see) ____________ a big dragon in his dream.",
+    "answers": ["see", "sees", "is seeing", "saw"],
+    "correctAnswer": "saw",
+    "id": 81
+  },
+    {
+      "question": "Let's (go)__________ to school together.",
+      "answers": ["going", "go", "goes", "gone"],
+      "correctAnswer": "go",
+      "id": 82
+    },
+    {
+      "question": "Mai (play)__________ online game while her younger slept.",
+      "answers": ["is playing", "played", "plays", "was playing"],
+      "correctAnswer": "was playing",
+      "id": 83
+    },
+    {
+      "question": "My father is a worker. He (work)___________ in the factory.",
+      "answers": ["works", "work", "is working", "worked"],
+      "correctAnswer": "works",
+      "id": 84
+    },
+    {
+      "question": "The weather today (predict)___________ to be extremely hot.",
+      "answers": ["predicts", "is predicted", "is predicting", "predicted"],
+      "correctAnswer": "is predicted",
+      "id": 85
+    }],
+  "status": 0
+}, {
+  "id": 18,
+  "questions":
+  [{
+    "question": "This food is usually brown. You can eat or drink it.",
+    "answers": ["chocolate", "planets", "waves", "storm"],
+    "correctAnswer": "chocolate",
+    "id": 86
+  },
+    {
+      "question": "There are nine of them in our solar system.",
+      "answers": ["a rhinoceros", "planets", "waves", "storm"],
+      "correctAnswer": "planets",
+      "id": 87
+    },
+    {
+      "question": "Children enjoy riding this.",
+      "answers": ["a rhinoceros", "a whale", "the merry-go-round", "waves"],
+      "correctAnswer": "the merry-go-round",
+      "id": 88
+    },
+    {
+      "question": "This sweet milky food is really delicious.",
+      "answers": ["a rhinoceros", "a whale", "a custard", "storm"],
+      "correctAnswer": "a custard",
+      "id": 89
+    },
+    {
+      "question": "This is a field event.",
+      "answers": ["an ankle", "a whale", "storm", "the javelin"],
+      "correctAnswer": "the javelin",
+      "id": 90
+    }],
+  "status": 0
+}, {
+  "id": 19,
+  "questions":
+  [{
+    "question": "You may hurt this when running or playing soccer.",
+    "answers": ["a rhinoceros", "an ankle", "a garden", "a news stand"],
+    "correctAnswer": "an ankle",
+    "id": 91
+  },
+    {
+      "question": "You see them when you go to the sea. You can swim and play in them.",
+      "answers": ["waves", "an astronaut", "a garden", "a news stand"],
+      "correctAnswer": "waves",
+      "id": 92
+    },
+    {
+      "question": "This person makes journeys into outer space.",
+      "answers": ["the merry-go-round", "an ankle", "an elbow", "an astronaut"],
+      "correctAnswer": "an astronaut",
+      "id": 93
+    },
+    {
+      "question": "The kind of clothing worn by a girl or a woman.",
+      "answers": ["a blouse", "an ankle", "a garden", "storm"],
+      "correctAnswer": "a blouse",
+      "id": 94
+    },
+    {
+      "question": "It is like rain, but it may cause damage.",
+      "answers": ["an elbow", "storm", "earth quake", "a custard"],
+      "correctAnswer": "storm",
+      "id": 95
+    }],
+  "status": 0
+}, {
+  "id": 20,
+  "questions":
+  [{
+    "question": "This kind of animals lives on land and it is in danger of extinction.",
+    "answers": ["a rhinoceros", "a dog", "a whale", "a fish"],
+    "correctAnswer": "a rhinoceros",
+    "id": 96
+  },
+    {
+      "question": "Flowers and vegetables are planted here.",
+      "answers": ["an umpire", "an ankle", "a garden", "a news stand"],
+      "correctAnswer": "a garden",
+      "id": 97
+    },
+    {
+      "question": "You can get newpapers and magazines here.",
+      "answers": ["a rhinoceros", "an ankle", "an umpire", "a news stand"],
+      "correctAnswer": "a news stand",
+      "id": 98
+    },
+    {
+      "question": "The feeling you have when you are surprised.",
+      "answers": ["cry", "sad", "amazement", "happy"],
+      "correctAnswer": "amazement",
+      "id": 99
+    },
+    {
+      "question": "People see him/her at a tennis match but he/she is not a player.",
+      "answers": ["a rhinoceros", "an ankle", "an umpire", "an astronaut"],
+      "correctAnswer": "an umpire",
+      "id": 100
+    }],
+  "status": 0
+}, {
+  "id": 21,
+  "questions":
+  [{
+    "question": "What Am I? School pupils love me very much. I take them to school in the morning. I bring them home in the afternoon. I always observe traffic rules. I stop when I see red light. I go when I see green light. I always stop for people to cross the street. I never go fast in busy streets. I always slow down when people block my way. I pick up pupils along my way to the school. I stop for pupils to get on or get off. I love pupils and they love me. Can you say what I am? \nIt takes ..... to school in the morning.",
+    "answers": ["home", "pupil", "them", "pupils"],
+    "correctAnswer": "pupils",
+    "id": 101
+  },
+    {
+      "question": "What Am I? School pupils love me very much. I take them to school in the morning. I bring them home in the afternoon. I always observe traffic rules. I stop when I see red light. I go when I see green light. I always stop for people to cross the street. I never go fast in busy streets. I always slow down when people block my way. I pick up pupils along my way to the school. I stop for pupils to get on or get off. I love pupils and they love me. Can you say what I am? \n It always observes ……………………………………",
+      "answers": ["traffic rule", "traffic rules", "traffic", "rules"],
+      "correctAnswer": "traffic rules",
+      "id": 102
+    },
+    {
+      "question": "What Am I? School pupils love me very much. I take them to school in the morning. I bring them home in the afternoon. I always observe traffic rules. I stop when I see red light. I go when I see green light. I always stop for people to cross the street. I never go fast in busy streets. I always slow down when people block my way. I pick up pupils along my way to the school. I stop for pupils to get on or get off. I love pupils and they love me. Can you say what I am? \n It never …………………………………… in busy street.",
+      "answers": ["go fast", "goes faster", "go faster", "goes fast"],
+      "correctAnswer": "goes fast",
+      "id": 103
+    },
+    {
+      "question": "What Am I? School pupils love me very much. I take them to school in the morning. I bring them home in the afternoon. I always observe traffic rules. I stop when I see red light. I go when I see green light. I always stop for people to cross the street. I never go fast in busy streets. I always slow down when people block my way. I pick up pupils along my way to the school. I stop for pupils to get on or get off. I love pupils and they love me. Can you say what I am? \n It always stops for people ………………",
+      "answers": ["cross the street", "to the street", "to cross street", "to cross the street"],
+      "correctAnswer": "to cross the street",
+      "id": 104
+    },
+    {
+      "question": "What Am I? School pupils love me very much. I take them to school in the morning. I bring them home in the afternoon. I always observe traffic rules. I stop when I see red light. I go when I see green light. I always stop for people to cross the street. I never go fast in busy streets. I always slow down when people block my way. I pick up pupils along my way to the school. I stop for pupils to get on or get off. I love pupils and they love me. Can you say what I am? \n It stops for pupils to ……………………. or ……………",
+      "answers": ["get on/ get on", "get off/ get on", "get off/ get off", "get on/ get off"],
+      "correctAnswer": "get on/ get off",
+      "id": 105
+    }],
+  "status": 0
+}, {
+  "id": 22,
+  "questions":
+  [{
+    "question": "Choose the odd one out.",
+    "answers": ["behind", "door", "next to", "on"],
+    "correctAnswer": "door",
+    "id": 106
+  },
+    {
+      "question": "Choose the odd one out.",
+      "answers": ["sing", "dance", "play", "bathtub"],
+      "correctAnswer": "bathtub",
+      "id": 107
+    },
+    {
+      "question": "Choose the odd one out.",
+      "answers": ["teacher", "door", "window", "table"],
+      "correctAnswer": "teacher",
+      "id": 108
+    },
+    {
+      "question": "Choose the odd one out.",
+      "answers": ["his", "my", "her", "they"],
+      "correctAnswer": "they",
+      "id": 109
+    },
+    {
+      "question": "Choose the odd one out.",
+      "answers": ["am", "is", "are", "can"],
+      "correctAnswer": "can",
+      "id": 110
+    }],
+  "status": 0
+}, {
+  "id": 23,
+  "questions":
+  [{
+    "question": "Put the sentences in the correct order\n have/ They/ books/ don’t",
+    "answers": ["Books don't have they.", "Don't they have books.", "They have don't books.", "They don't have books."],
+    "correctAnswer": "They don't have books.",
+    "id": 111
+  },
+    {
+      "question": "Put the sentences in the correct order\n  baseball/ like/ you/ Do/ ?",
+      "answers": ["Do baseball like you?", "Do you like baseball?", "You do like baseball?", "Do you baseball like?"],
+      "correctAnswer": "Do you like baseball?",
+      "id": 112
+    },
+    {
+      "question": "Put the sentences in the correct order\n Have/ tent/ doesn’t/ Lan/ a/ .",
+      "answers": ["Doesn't Lan have a tent.", "A Tent doesn't have Lan.", "A Lan doesn't have tent.", "Lan doesn't have a tent."],
+      "correctAnswer": "Lan doesn't have a tent.",
+      "id": 113
+    },
+    {
+      "question": "Put the sentences in the correct order\n there/ are/ many/ students/ in/ class/ your/ How/ ?",
+      "answers": ["How many your class students are there in?", "How many students are there in your class?", "How many students there are in your class?", "Students are how many there in your class?"],
+      "correctAnswer": "How many students are there in your class?",
+      "id": 114
+    },
+    {
+      "question": "Put the sentences in the correct order\n The/ under/ bed/ socks/ are/ the/ .",
+      "answers": ["The socks are under the table.", "The table are under the socks.", "The socks are the table under.", "The table are the socks under."],
+      "correctAnswer": "The socks are under the table.",
+      "id": 115
+    }],
+  "status": 0
+}, {
+  "id": 24,
+  "questions":
+  [{
+    "question": "Where _ _ _ they from ?",
+    "answers": ["is", "are", "am", "be"],
+    "correctAnswer": "are",
+    "id": 116
+  },
+    {
+      "question": "My father _ _ a farmer.",
+      "answers": ["is", "are", "am", "be"],
+      "correctAnswer": "is",
+      "id": 117
+    },
+    {
+      "question": "_ _ _ _ were you born ?",
+      "answers": ["Who", "Which", "What", "When"],
+      "correctAnswer": "When",
+      "id": 118
+    },
+    {
+      "question": "What are you doing _ _ _ ?",
+      "answers": ["recently", "yesterday", "tomorrow", "now"],
+      "correctAnswer": "now",
+      "id": 119
+    },
+    {
+      "question": "What is the matter _ _ _ _ you ?",
+      "answers": ["with", "to", "for", "from"],
+      "correctAnswer": "with",
+      "id": 120
+    }],
+  "status": 0
+}, {
+  "id": 25,
+  "questions":
+  [{
+    "question": "She wants to _ _ a doctor.",
+    "answers": ["is", "are", "am", "be"],
+    "correctAnswer": "be",
+    "id": 121
+  },
+    {
+      "question": " _ _ far is it from here to Hong Linh Town ?",
+      "answers": ["Who", "Which", "How", "When"],
+      "correctAnswer": "How",
+      "id": 122
+    },
+    {
+      "question": "It’s _ _ _ in summer",
+      "answers": ["cold", "hot", "cool", "wet"],
+      "correctAnswer": "hot",
+      "id": 123
+    },
+    {
+      "question": "Leo ______________ goes swimming in summer because the weather is hot.",
+      "answers": ["never", "always", "rarely", "seldom"],
+      "correctAnswer": "always",
+      "id": 124
+    },
+    {
+      "question": "Where is he going to _____________ in this summer holiday?",
+      "answers": ["visits", "visit", "visiting", "visited"],
+      "correctAnswer": "visit",
+      "id": 125
+    }],
+  "status": 0
+}, {
+  "id": 26,
+  "questions":
+  [{
+    "question": "Put the correct verbs form of the sentences. \n She (give)_______ me a book last month.",
+    "answers": ["gives", "give", "gave", "given"],
+    "correctAnswer": "gave",
+    "id": 126
+  },
+    {
+      "question": "Put the correct verbs form of the sentences. \n Tom (never be)_________ to Hanoi.",
+      "answers": ["never being", "never is", "have never been", "has never been"],
+      "correctAnswer": "has never been",
+      "id": 127
+    },
+    {
+      "question": "Put the correct verbs form of the sentences. \n We often (go)_________ fishing in the summer.",
+      "answers": ["go", "goes", "went", "gone"],
+      "correctAnswer": "go",
+      "id": 128
+    },
+    {
+      "question": "Put the correct verbs form of the sentences. \n My brother (begin)________ looking for a job in January.",
+      "answers": ["begin", "begins", "began", "begun"],
+      "correctAnswer": "began",
+      "id": 129
+    },
+    {
+      "question": "Put the correct verbs form of the sentences. \n His father (die)________ of cancer at the age of 60.",
+      "answers": ["die", "dies", "died", "was died"],
+      "correctAnswer": "died",
+      "id": 130
+    }],
+  "status": 0
+}, {
+  "id": 27,
+  "questions":
+  [{
+    "question": "Put the correct verbs form of the sentences. \n Do you feel like (go)________ the theatre or would you rather (watch)________ TV at night?",
+    "answers": ["going/watching", "go/watch", "going/watch", "go/watching"],
+    "correctAnswer": "going/watch",
+    "id": 131
+  },
+    {
+      "question": "Put the correct verbs form of the sentences. \n I (not have)_________ much time for entertainment these days.",
+      "answers": ["don't has", "don't have", "didn't has", "didn't have"],
+      "correctAnswer": "don't have",
+      "id": 132
+    },
+    {
+      "question": "Reorder the sentences. \n didn’t/ do/ his/ homework/ he/ yesterday.",
+      "answers": ["Didn’t he do his homework yesterday.", "He didn’t does his homework yesterday.", "He didn’t do his homework yesterday.", "Didn’t he does his homework yesterday."],
+      "correctAnswer": "He didn’t do his homework yesterday.",
+      "id": 133
+    },
+    {
+      "question": "Reorder the sentences. \n do/ prefer/ or/ books/ you/ films/ which/ ?/:",
+      "answers": ["Which do you prefer: films or books?", "films or books: which do you prefer?", "Which do films or books: prefer you?", "Do you prefer which: films or books?"],
+      "correctAnswer": "Which do you prefer: films or books?",
+      "id": 134
+    },
+    {
+      "question": "Reorder the sentences. \n English/ father/ a/ teacher/ good/ my/ is.",
+      "answers": ["My father is a good teacher English.", "My father is a good English teacher.", "My good English is a father teacher.", "My English teacher is a father good."],
+      "correctAnswer": "My father is a good English teacher.",
+      "id": 135
+    }],
+  "status": 0
+}, {
+  "id": 28,
+  "questions":
+  [{
+    "question": "Reorder the sentences. \n will/ he/ the/ theatre/ go/ with/ to/ girlfriend/ tomorrow/ his.",
+    "answers": ["He will go to his friend with the theatre tomorrow.", "He will go to theatre with the his friend tomorrow.", "Will he go to the theatre with his friend tomorrow.", "He will go to the theatre with his friend tomorrow."],
+    "correctAnswer": "He will go to the theatre with his friend tomorrow.",
+    "id": 136
+  },
+    {
+      "question": "Reorder the sentences. \n born/ I/ in/ 1992/ was/ Hai Phong/ in.",
+      "answers": ["I was in born in 1990 Hai Phong.", "I was born in 1990 in Hai Phong.", "Was I born in 1990 in Hai Phong.", "Hai Phong was born in 1990 in I."],
+      "correctAnswer": "I was born in 1990 in Hai Phong.",
+      "id": 137
+    },
+    {
+      "question": "Reorder the words to complete sentences. \n doctor/ see/ you/ the/ should.",
+      "answers": ["Should you see the doctor.", "The doctor should see you.", "You should see doctor the.", "You should see the doctor."],
+      "correctAnswer": "You should see the doctor.",
+      "id": 138
+    },
+    {
+      "question": "Reorder the words to complete sentences. \n My/ anything/ didn’t/ mother/ buy.",
+      "answers": ["Didn’t my mother buy anything.", "My mother didn’t buy anything.", "My anything didn’t buy mother.", "Mother didn’t buy my anything."],
+      "correctAnswer": "My mother didn’t buy anything.",
+      "id": 139
+    },
+    {
+      "question": "Reorder the words to complete sentences. \n the/ is/ warm/ spring/ in/ weather?",
+      "answers": ["Is the weather warm in spring?", "the weather is warm in spring?", "The weather is in warm spring?", "The spring is warm in weather?"],
+      "correctAnswer": "Is the weather warm in spring?",
+      "id": 140
+    }],
+  "status": 0
+}, {
+  "id": 29,
+  "questions":
+  [{
+    "question": "Reorder the words to complete sentences. \n going/ we/ to/ are/ Nha Trang/ next weekend/ visit?",
+    "answers": ["We are going to visit to next weekend Nha Trang.", "Are we going to visit to Nha Trang next weekend.", "We are going to visit to Nha Trang next weekend.", "We are going to visit Nha Trang to next weekend."],
+    "correctAnswer": "We are going to visit to Nha Trang next weekend.",
+    "id": 141
+  },
+    {
+      "question": "Reorder the words to complete sentences. \n fly/ he/ the/ wants/ kite/ to.",
+      "answers": ["He wants fly to the kite.", "He wants to fly the kite.", "He wants to the kite fly.", "The kite wants to fly he."],
+      "correctAnswer": "He wants to fly the kite.",
+      "id": 142
+    },
+    {
+      "question": "Hello! My name is John. I am from America. I’m having a wonderful time in Da Nang. The beach is nice. The hotels look beautiful and the seafood is excellent. The weather is lovely, so I go swimming most of the time. Yesterday, I met a pretty girl from Ha Noi. She was very friendly. \n 1. Where is Peter from?",
+      "answers": ["He is from Ha Noi.", "He is from Da Nang.", "He is from America.", "He is from the beach."],
+      "correctAnswer": "He is from America.",
+      "id": 143
+    },
+    {
+      "question": "Hello! My name is John. I am from America. I’m having a wonderful time in Da Nang. The beach is nice. The hotels look beautiful and the seafood is excellent. The weather is lovely, so I go swimming most of the time. Yesterday, I met a pretty girl from Ha Noi. She was very friendly. \n 2. Where is he now?",
+      "answers": ["He is in America.", "He is in Da Nang.", "He is in the hotel.", "He is in Ha Noi."],
+      "correctAnswer": "He is in Da Nang.",
+      "id": 144
+    },
+    {
+      "question": "Hello! My name is John. I am from America. I’m having a wonderful time in Da Nang. The beach is nice. The hotels look beautiful and the seafood is excellent. The weather is lovely, so I go swimming most of the time. Yesterday, I met a pretty girl from Ha Noi. She was very friendly. \n 3. What is seafood like??",
+      "answers": ["The seafood is excellent.", "The seafood is nice.", "The seafood is pretty.", "The seafood is friendly."],
+      "correctAnswer": "The seafood is excellent.",
+      "id": 145
+    }],
+  "status": 0
+}, {
+  "id": 30,
+  "questions":
+  [{
+    "question": "Hello! My name is John. I am from America. I’m having a wonderful time in Da Nang. The beach is nice. The hotels look beautiful and the seafood is excellent. The weather is lovely, so I go swimming most of the time. Yesterday, I met a pretty girl from Ha Noi. She was very friendly. \n 4. What is the weather like??",
+    "answers": ["The weather is nice.", "The weather is pretty.", "The weather is friendly.", "The weather is lovely."],
+    "correctAnswer": "The weather is lovely.",
+    "id": 146
+  },
+    {
+      "question": "Hello! My name is John. I am from America. I’m having a wonderful time in Da Nang. The beach is nice. The hotels look beautiful and the seafood is excellent. The weather is lovely, so I go swimming most of the time. Yesterday, I met a pretty girl from Ha Noi. She was very friendly. \n 5. Did he meet a pretty girl from Hanoi?",
+      "answers": ["Yes, he didn't.", "Yes, he did.", "No, he did.", "No, he didn't."],
+      "correctAnswer": "Yes, he did.",
+      "id": 147
+    },
+    {
+      "question": "Odd one out ?",
+      "answers": ["left", "right", "opposite", "welcome"],
+      "correctAnswer": "welcome",
+      "id": 148
+    },
+    {
+      "question": "Odd one out ?",
+      "answers": ["show", "take", "street", "tell"],
+      "correctAnswer": "street",
+      "id": 149
+    },
+    {
+      "question": "Odd one out ?",
+      "answers": ["shoe", "bakery", "drugstore", "restaurant"],
+      "correctAnswer": "shoe",
+      "id": 150
+    }],
+  "status": 0
+},{
+  "id": 31,
+  "questions": [
+    {
+      "question": "Which of the following words is a noun?",
+      "answers": ["run", "happy", "book", "quickly"],
+      "correctAnswer": "book",
+      "id": 151
+    },
+    {
+      "question": "Which is the correct plural form of 'child'?",
+      "answers": ["childs", "children", "childes", "child"],
+      "correctAnswer": "children",
+      "id": 152
+    },
+    {
+      "question": "What is the past tense of 'go'?",
+      "answers": ["goes", "went", "gone", "going"],
+      "correctAnswer": "went",
+      "id": 153
+    },
+    {
+      "question": "Choose the correct word to complete the sentence:\nShe __________ the book on the table.",
+      "answers": ["lay", "laid", "lays", "lied"],
+      "correctAnswer": "laid",
+      "id": 154
+    },
+    {
+      "question": "What is the synonym of 'fast'?",
+      "answers": ["quick", "slow", "big", "small"],
+      "correctAnswer": "quick",
+      "id": 155
+    }
+  ],
+  "status": 0
+},{
+  "id": 32,
+  "questions": [
+    {
+      "question": "Which sentence is punctuated correctly?",
+      "answers": ["The dog barked loudly", "The dog barked loudly.", "The dog, barked loudly", "The dog barked, loudly"],
+      "correctAnswer": "The dog barked loudly.",
+      "id": 156
+    },
+    {
+      "question": "What is the antonym of 'bright'?",
+      "answers": ["shiny", "dark", "light", "colorful"],
+      "correctAnswer": "dark",
+      "id": 157
+    },
+    {
+      "question": "Choose the correct word to complete the sentence:\nThe cake was __________ than the cookies.",
+      "answers": ["sweet", "sweeter", "sweetest", "more sweet"],
+      "correctAnswer": "sweeter",
+      "id": 158
+    },
+    {
+      "question": "What part of speech is the word 'quickly'?",
+      "answers": ["noun", "verb", "adjective", "adverb"],
+      "correctAnswer": "adverb",
+      "id": 159
+    },
+    {
+      "question": "Select the correct word to complete the sentence:\nThey __________ playing soccer.",
+      "answers": ["is", "are", "was", "were"],
+      "correctAnswer": "are",
+      "id": 160
+    }
+  ],
+  "status": 0
+},{
+  "id": 33,
+  "questions": [
+    {
+      "question": "Which word means the same as 'enormous'?",
+      "answers": ["tiny", "huge", "small", "little"],
+      "correctAnswer": "huge",
+      "id": 161
+    },
+    {
+      "question": "What is the opposite of 'frequently'?",
+      "answers": ["often", "rarely", "always", "sometimes"],
+      "correctAnswer": "rarely",
+      "id": 162
+    },
+    {
+      "question": "Choose the correct word to complete the sentence:\nShe __________ her homework before dinner.",
+      "answers": ["finished", "finish", "finishes", "finishing"],
+      "correctAnswer": "finished",
+      "id": 163
+    },
+    {
+      "question": "What is the correct contraction for 'do not'?",
+      "answers": ["don'", "dont'", "don't", "do'nt"],
+      "correctAnswer": "don't",
+      "id": 164
+    },
+    {
+      "question": "Which of the following is a compound word?",
+      "answers": ["notebook", "note", "book", "writing"],
+      "correctAnswer": "notebook",
+      "id": 165
+    }
+  ],
+  "status": 0
+},{
+  "id": 34,
+  "questions": [
+    {
+      "question": "What is the correct order of the planets in our solar system?",
+      "answers": ["Earth, Mars, Venus, Mercury", "Mercury, Venus, Earth, Mars", "Mars, Earth, Venus, Mercury", "Venus, Mars, Earth, Mercury"],
+      "correctAnswer": "Mercury, Venus, Earth, Mars",
+      "id": 166
+    },
+    {
+      "question": "Which sentence is written correctly?",
+      "answers": ["Him went to the store.", "He went to the store.", "Her went to the store.", "They him to the store went."],
+      "correctAnswer": "He went to the store.",
+      "id": 167
+    },
+    {
+      "question": "What is the plural form of 'fox'?",
+      "answers": ["foxs", "foxes", "foxies", "fox"],
+      "correctAnswer": "foxes",
+      "id": 168
+    },
+    {
+      "question": "Choose the correct word to complete the sentence:\nWe __________ a movie last night.",
+      "answers": ["watch", "watches", "watched", "watching"],
+      "correctAnswer": "watched",
+      "id": 169
+    },
+    {
+      "question": "Which of these is a proper noun?",
+      "answers": ["city", "dog", "London", "house"],
+      "correctAnswer": "London",
+      "id": 170
+    }
+  ],
+  "status": 0
+},{
+  "id": 35,
+  "questions": [
+    {
+      "question": "Which word is a verb?",
+      "answers": ["jump", "blue", "quick", "happy"],
+      "correctAnswer": "jump",
+      "id": 171
+    },
+    {
+      "question": "Choose the correct word to complete the sentence:\nThe __________ was very tasty.",
+      "answers": ["shoe", "ball", "cake", "book"],
+      "correctAnswer": "cake",
+      "id": 172
+    },
+    {
+      "question": "What is the past tense of 'eat'?",
+      "answers": ["eat", "eats", "ate", "eaten"],
+      "correctAnswer": "ate",
+      "id": 173
+    },
+    {
+      "question": "Which of the following is an adjective?",
+      "answers": ["sing", "beautiful", "quickly", "play"],
+      "correctAnswer": "beautiful",
+      "id": 174
+    },
+    {
+      "question": "Select the correct word to complete the sentence:\nThey __________ to the park every weekend.",
+      "answers": ["go", "goes", "going", "gone"],
+      "correctAnswer": "go",
+      "id": 175
+    }
+  ],
+  "status": 0
+}
+]
