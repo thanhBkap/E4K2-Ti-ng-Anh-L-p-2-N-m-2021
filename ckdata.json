@@ -531,6 +531,18 @@
       {},{},{},{},{},{},{},{},
       {},{},{},{},{},{},{},{},
       {},{},{},{},{},{},{},{}]
+    },
+    { "id" : 42,
+      "level": 42,
+      "wordsCount": 5,
+      "words": ["S", "D", "E", "V", "A"],
+      "rounds": [{"char":"S", "words": ["SAVE","SAVED"]},{"char":"A", "words": ["SAVE"]},{"char":"V", "words": ["SAVE","VASE"]},{"char":"E", "words": ["SAVE"]},{},{},{},{},
+      {"char":"A", "words": ["SAVED"]},{},{"char":"A", "words": ["VASE"]},{},{"char":"A", "words": ["ADS"]},{},{},{},
+      {"char":"V", "words": ["SAVED"]},{},{"char":"S", "words": ["VASE","SAD"]},{"char":"A", "words": ["SAD"]},{"char":"D", "words": ["SAD","ADS"]},{},{},{},
+      {"char":"E", "words": ["SAVED"]},{},{"char":"E", "words": ["VASE"]},{},{"char":"S", "words": ["ADS"]},{},{},{},
+      {"char":"D", "words": ["SAVED"]},{},{},{},{},{},{},{},
+      {},{},{},{},{},{},{},{},
+      {},{},{},{},{},{},{},{},
+      {},{},{},{},{},{},{},{}]
     }
 ]
- 
