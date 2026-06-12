@@ -545,49 +545,49 @@
       {},{},{},{},{},{},{},{},
       {},{},{},{},{},{},{},{}]
     },
-  { "id" : 43,
-    "level": 43,
-    "wordsCount": 7,
-    "words": ["C", "O", "V", "E", "R"],
-    "rounds": [
-      {"char":"C", "words": ["COVER"]}, {"char":"O", "words": ["COVER", "CORE"]}, {"char":"V", "words": ["COVER"]}, {"char":"E", "words": ["COVER", "ORE"]}, {"char":"R", "words": ["COVER", "REV"]}, {}, {}, {},
-      {}, {"char":"R", "words": ["CORE"]}, {}, {"char":"R", "words": ["ORE"]}, {"char":"E", "words": ["REV"]}, {}, {}, {},
-      {}, {"char":"E", "words": ["CORE"]}, {}, {"char":"O", "words": ["ORE"]}, {"char":"V", "words": ["REV"]}, {}, {}, {},
-      {}, {}, {}, {}, {}, {}, {}, {},
-      {"char":"O", "words": ["OVER"]}, {"char":"V", "words": ["OVER"]}, {"char":"E", "words": ["OVER", "ECO"]}, {"char":"R", "words": ["OVER"]}, {}, {}, {}, {},
-      {}, {}, {"char":"C", "words": ["ECO", "ROC"]}, {}, {}, {}, {}, {},
-      {}, {}, {"char":"O", "words": ["ECO", "ROC"]}, {"char":"R", "words": ["ROC"]}, {}, {}, {}, {},
-      {}, {}, {}, {}, {}, {}, {}, {}
-    ]
-  },
+    { "id" : 43,
+      "level": 43,
+      "wordsCount": 8,
+      "words": ["L", "O", "V", "E", "D"],
+      "rounds": [
+        {}, {}, {"char":"D", "words": ["DOLE"]}, {}, {}, {}, {},{},
+        {}, {}, {"char":"O", "words": ["DOLE"]}, {}, {}, {}, {},{},
+        {}, {}, {"char":"L", "words": ["DOLE","LOVED"]}, {"char":"O", "words": ["LOVED"]}, {"char":"V", "words": ["LOVED"]}, {"char":"E", "words": ["LOVED"]}, {"char":"D", "words": ["LOVED", "DOE"]},{},
+        {"char":"O", "words": ["ODE", "OLD"]}, {"char":"D", "words": ["ODE"]}, {"char":"E", "words": ["DOLE", "ODE"]}, {}, {}, {}, {"char":"O", "words": ["DOE"]},{},
+        {"char":"L", "words": ["OLD"]}, {}, {}, {"char":"L", "words": ["LOVE","LED"]}, {"char":"O", "words": ["LOVE"]}, {"char":"V", "words": ["LOVE"]}, {"char":"E", "words": ["LOVE", "DOE"]},{},
+        {"char":"D", "words": ["OLD","DOVE"]}, {"char":"O", "words": ["DOVE"]}, {"char":"V", "words": ["DOVE"]}, {"char":"E", "words": ["DOVE","LED"]}, {}, {}, {},{},
+        {}, {}, {}, {"char":"D", "words": ["LED"]}, {}, {}, {}, {},
+        {},{},{},{},{},{},{},{}
+      ]
+    },
   { "id" : 44,
     "level": 44,
-    "wordsCount": 8,
-    "words": ["S", "H", "A", "R", "K"],
+    "wordsCount": 7,
+    "words": ["T", "G", "S", "I", "H"],
     "rounds": [
-      {"char":"S", "words": ["SHARK"]}, {"char":"H", "words": ["SHARK", "HAS"]}, {"char":"A", "words": ["SHARK", "ARK"]}, {"char":"R", "words": ["SHARK", "RASH"]}, {"char":"K", "words": ["SHARK", "ARKS"]}, {}, {}, {},
-      {}, {"char":"A", "words": ["HAS"]}, {"char":"R", "words": ["ARK"]}, {"char":"A", "words": ["RASH"]}, {"char":"S", "words": ["ARKS"]}, {}, {}, {},
-      {}, {"char":"S", "words": ["HAS", "ASH"]}, {"char":"K", "words": ["ARK", "ASK"]}, {"char":"S", "words": ["RASH"]}, {}, {}, {}, {},
-      {}, {"char":"H", "words": ["ASH"]}, {"char":"S", "words": ["ASK"]}, {"char":"H", "words": ["RASH"]}, {}, {}, {}, {},
-      {}, {}, {}, {}, {}, {}, {}, {},
-      {"char":"R", "words": ["RAH"]}, {"char":"A", "words": ["RAH"]}, {"char":"H", "words": ["RAH"]}, {}, {}, {}, {}, {},
-      {}, {}, {}, {}, {}, {}, {}, {},
-      {}, {}, {}, {}, {}, {}, {}, {}
+      {"char":"S", "words": ["SIGH","SIT"]}, {"char":"I", "words": ["SIGH"]}, {"char":"G", "words": ["SIGH"]}, {"char":"H", "words": ["SIGH","HIS"]}, {}, {}, {},{},
+      {"char":"I", "words": ["SIT"]}, {}, {}, {"char":"I", "words": ["HIS"]}, {}, {}, {},{},
+      {"char":"T", "words": ["THIS","SIT"]}, {"char":"H", "words": ["THIS"]}, {"char":"I", "words": ["THIS","ITS"]}, {"char":"S", "words": ["THIS","HIS"]}, {}, {}, {"char":"H", "words": ["HIT"]},{},
+      {}, {}, {"char":"T", "words": ["ITS"]}, {}, {}, {}, {"char":"I", "words": ["HIT"]},{},
+      {}, {}, {"char":"S", "words": ["ITS","SIGHT"]}, {"char":"I", "words": ["SIGHT"]}, {"char":"G", "words": ["SIGHT"]}, {"char":"H", "words": ["SIGHT"]}, {"char":"T", "words": ["HIT","SIGHT"]},{},
+      {},{},{},{},{},{},{},{},
+      {},{},{},{},{},{},{},{},
+      {},{},{},{},{},{},{},{}
     ]
   },
   { "id" : 45,
     "level": 45,
-    "wordsCount": 8,
-    "words": ["S", "M", "I", "L", "E"],
+    "wordsCount": 7,
+    "words": ["T", "C", "R", "T", "A"],
     "rounds": [
-      {"char":"S", "words": ["SMILE", "SLIM"]}, {"char":"M", "words": ["SMILE", "SEMI"]}, {"char":"I", "words": ["SMILE"]}, {"char":"L", "words": ["SMILE", "LIME"]}, {"char":"E", "words": ["SMILE", "ELM"]}, {}, {}, {},
-      {"char":"L", "words": ["SLIM"]}, {"char":"I", "words": ["SEMI"]}, {}, {"char":"I", "words": ["LIME"]}, {"char":"L", "words": ["ELM"]}, {}, {}, {},
-      {"char":"I", "words": ["SLIM"]}, {"char":"L", "words": ["SEMI"]}, {}, {"char":"M", "words": ["LIME"]}, {"char":"M", "words": ["ELM"]}, {}, {}, {},
-      {"char":"M", "words": ["SLIM"]}, {"char":"E", "words": ["SEMI"]}, {}, {"char":"E", "words": ["LIME", "LIE"]}, {}, {}, {}, {},
-      {}, {}, {}, {"char":"I", "words": ["LIE"]}, {}, {}, {}, {},
-      {"char":"M", "words": ["MILE"]}, {"char":"I", "words": ["MILE", "ISM"]}, {"char":"L", "words": ["MILE"]}, {"char":"E", "words": ["MILE", "LIE"]}, {}, {}, {}, {},
-      {}, {"char":"S", "words": ["ISM"]}, {}, {}, {}, {}, {}, {},
-      {}, {"char":"M", "words": ["ISM"]}, {}, {}, {}, {}, {}, {}
+      {}, {}, {"char":"T", "words": ["TAR","TRACT"]}, {"char":"A", "words": ["TAR"]}, {"char":"R", "words": ["TAR","RAT"]}, {}, {"char":"C", "words": ["CART"]},{},
+      {"char":"C", "words": ["CAR", "CAT"]}, {"char":"A", "words": ["CAR"]}, {"char":"R", "words": ["CAR","TRACT"]}, {}, {"char":"A", "words": ["RAT"]}, {}, {"char":"A", "words": ["CART"]},{},
+      {"char":"A", "words": ["CAT"]}, {}, {"char":"A", "words": ["ART","TRACT"]}, {"char":"R", "words": ["ART"]}, {"char":"T", "words": ["ART","RAT"]}, {}, {"char":"R", "words": ["CART"]},{},
+      {"char":"T", "words": ["CAT"]}, {}, {"char":"C", "words": ["TRACT"]}, {}, {}, {}, {"char":"T", "words": ["CART"]},{},
+      {}, {}, {"char":"T", "words": ["TRACT"]}, {}, {}, {}, {}, {},
+      {},{},{},{},{},{},{},{},
+      {},{},{},{},{},{},{},{},
+      {},{},{},{},{},{},{},{}
     ]
   }
 ]
