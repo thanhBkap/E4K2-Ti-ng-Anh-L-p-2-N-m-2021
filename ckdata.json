@@ -544,5 +544,50 @@
       {},{},{},{},{},{},{},{},
       {},{},{},{},{},{},{},{},
       {},{},{},{},{},{},{},{}]
-    }
+    },
+  { "id" : 43,
+    "level": 43,
+    "wordsCount": 7,
+    "words": ["C", "O", "V", "E", "R"],
+    "rounds": [
+      {"char":"C", "words": ["COVER"]}, {"char":"O", "words": ["COVER", "CORE"]}, {"char":"V", "words": ["COVER"]}, {"char":"E", "words": ["COVER", "ORE"]}, {"char":"R", "words": ["COVER", "REV"]}, {}, {}, {},
+      {}, {"char":"R", "words": ["CORE"]}, {}, {"char":"R", "words": ["ORE"]}, {"char":"E", "words": ["REV"]}, {}, {}, {},
+      {}, {"char":"E", "words": ["CORE"]}, {}, {"char":"O", "words": ["ORE"]}, {"char":"V", "words": ["REV"]}, {}, {}, {},
+      {}, {}, {}, {}, {}, {}, {}, {},
+      {"char":"O", "words": ["OVER"]}, {"char":"V", "words": ["OVER"]}, {"char":"E", "words": ["OVER", "ECO"]}, {"char":"R", "words": ["OVER"]}, {}, {}, {}, {},
+      {}, {}, {"char":"C", "words": ["ECO", "ROC"]}, {}, {}, {}, {}, {},
+      {}, {}, {"char":"O", "words": ["ECO", "ROC"]}, {"char":"R", "words": ["ROC"]}, {}, {}, {}, {},
+      {}, {}, {}, {}, {}, {}, {}, {}
+    ]
+  },
+  { "id" : 44,
+    "level": 44,
+    "wordsCount": 8,
+    "words": ["S", "H", "A", "R", "K"],
+    "rounds": [
+      {"char":"S", "words": ["SHARK"]}, {"char":"H", "words": ["SHARK", "HAS"]}, {"char":"A", "words": ["SHARK", "ARK"]}, {"char":"R", "words": ["SHARK", "RASH"]}, {"char":"K", "words": ["SHARK", "ARKS"]}, {}, {}, {},
+      {}, {"char":"A", "words": ["HAS"]}, {"char":"R", "words": ["ARK"]}, {"char":"A", "words": ["RASH"]}, {"char":"S", "words": ["ARKS"]}, {}, {}, {},
+      {}, {"char":"S", "words": ["HAS", "ASH"]}, {"char":"K", "words": ["ARK", "ASK"]}, {"char":"S", "words": ["RASH"]}, {}, {}, {}, {},
+      {}, {"char":"H", "words": ["ASH"]}, {"char":"S", "words": ["ASK"]}, {"char":"H", "words": ["RASH"]}, {}, {}, {}, {},
+      {}, {}, {}, {}, {}, {}, {}, {},
+      {"char":"R", "words": ["RAH"]}, {"char":"A", "words": ["RAH"]}, {"char":"H", "words": ["RAH"]}, {}, {}, {}, {}, {},
+      {}, {}, {}, {}, {}, {}, {}, {},
+      {}, {}, {}, {}, {}, {}, {}, {}
+    ]
+  },
+  { "id" : 45,
+    "level": 45,
+    "wordsCount": 8,
+    "words": ["S", "M", "I", "L", "E"],
+    "rounds": [
+      {"char":"S", "words": ["SMILE", "SLIM"]}, {"char":"M", "words": ["SMILE", "SEMI"]}, {"char":"I", "words": ["SMILE"]}, {"char":"L", "words": ["SMILE", "LIME"]}, {"char":"E", "words": ["SMILE", "ELM"]}, {}, {}, {},
+      {"char":"L", "words": ["SLIM"]}, {"char":"I", "words": ["SEMI"]}, {}, {"char":"I", "words": ["LIME"]}, {"char":"L", "words": ["ELM"]}, {}, {}, {},
+      {"char":"I", "words": ["SLIM"]}, {"char":"L", "words": ["SEMI"]}, {}, {"char":"M", "words": ["LIME"]}, {"char":"M", "words": ["ELM"]}, {}, {}, {},
+      {"char":"M", "words": ["SLIM"]}, {"char":"E", "words": ["SEMI"]}, {}, {"char":"E", "words": ["LIME", "LIE"]}, {}, {}, {}, {},
+      {}, {}, {}, {"char":"I", "words": ["LIE"]}, {}, {}, {}, {},
+      {"char":"M", "words": ["MILE"]}, {"char":"I", "words": ["MILE", "ISM"]}, {"char":"L", "words": ["MILE"]}, {"char":"E", "words": ["MILE", "LIE"]}, {}, {}, {}, {},
+      {}, {"char":"S", "words": ["ISM"]}, {}, {}, {}, {}, {}, {},
+      {}, {"char":"M", "words": ["ISM"]}, {}, {}, {}, {}, {}, {}
+    ]
+  }
 ]
