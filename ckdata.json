@@ -589,5 +589,50 @@
       {},{},{},{},{},{},{},{},
       {},{},{},{},{},{},{},{}
     ]
+  },
+  { "id" : 46,
+    "level": 46,
+    "wordsCount": 7,
+    "words": ["E", "D", "N", "L", "B"],
+    "rounds": [
+      {},{},{"char":"B", "words": ["BLEND","BLED"]},{"char":"L", "words": ["BLEND"]},{"char":"E", "words": ["BLEND"]},{"char":"N", "words": ["BLEND"]},{"char":"D", "words": ["BLEND","DEN"]},{},
+      {},{},{"char":"L", "words": ["BLED"]},{},{},{},{"char":"E", "words": ["DEN"]},{},
+      {},{},{"char":"E", "words": ["BLED"]},{},{"char":"L", "words": ["LEND","LED"]},{"char":"E", "words": ["LEND"]},{"char":"N", "words": ["DEN","LEND"]},{"char":"D", "words": ["LEND"]},
+      {"char":"B", "words": ["BED"]},{"char":"E", "words": ["BED","END"]},{"char":"D", "words": ["BLED","BED"]},{},{"char":"E", "words": ["LED"]},{},{},{},
+      {},{"char":"N", "words": ["END"]},{},{},{"char":"D", "words": ["LED"]},{},{},{},
+      {},{"char":"D", "words": ["END"]},{},{},{},{},{},{},
+      {},{},{},{},{},{},{},{},
+      {},{},{},{},{},{},{},{}
+    ]
+  },
+  { "id" : 47,
+    "level": 47,
+    "wordsCount": 7,
+    "words": ["T", "P", "I", "N", "R"],
+    "rounds": [
+      {},{},{},{},{},{},{"char":"T", "words": ["TIP"]},{},
+      {"char":"P", "words": ["PRINT","PIT"]},{"char":"R", "words": ["PRINT"]},{"char":"I", "words": ["PRINT"]},{"char":"N", "words": ["PRINT"]},{"char":"T", "words": ["PRINT","TRIP"]},{},{"char":"I", "words": ["TIP"]},{},
+      {"char":"I", "words": ["PIT"]},{},{},{},{"char":"R", "words": ["RIP","TRIP"]},{"char":"I", "words": ["RIP"]},{"char":"P", "words": ["TIP","RIP"]},{},
+      {"char":"T", "words": ["PIT","TIN"]},{"char":"I", "words": ["TIN"]},{"char":"N", "words": ["TIN","NIP"]},{},{"char":"I", "words": ["TRIP"]},{},{},{},
+      {},{},{"char":"I", "words": ["NIP"]},{},{"char":"P", "words": ["TRIP"]},{},{},{},
+      {},{},{"char":"P", "words": ["NIP"]},{},{},{},{},{},
+      {},{},{},{},{},{},{},{},
+      {},{},{},{},{},{},{},{}
+    ]
+  },
+  { "id" : 48,
+    "level": 48,
+    "wordsCount": 6,
+    "words": ["M", "L", "I", "A", "C"],
+    "rounds": [
+      {},{},{},{},{},{},{},{"char":"C", "words": ["CALM"]},
+      {},{},{"char":"C", "words": ["CLAIM"]},{},{},{},{},{"char":"A", "words": ["CALM"]},
+      {},{},{"char":"L", "words": ["CLAIM"]},{},{},{},{},{"char":"L", "words": ["CALM"]},
+      {"char":"C", "words": ["CLAM"]},{"char":"L", "words": ["CLAM"]},{"char":"A", "words": ["CLAIM","CLAM"]},{"char":"M", "words": ["CLAM"]},{},{"char":"A", "words": ["AIM","AIL"]},{"char":"I", "words": ["AIM"]},{"char":"M", "words": ["CALM","AIM"]},
+      {},{},{"char":"I", "words": ["CLAIM"]},{},{},{"char":"I", "words": ["AIL"]},{},{},
+      {},{},{"char":"M", "words": ["CLAIM","MAIL"]},{"char":"A", "words": ["MAIL"]},{"char":"I", "words": ["MAIL"]},{"char":"L", "words": ["MAIL","AIL"]},{},{},
+      {},{},{},{},{},{},{},{},
+      {},{},{},{},{},{},{},{}
+    ]
   }
 ]
